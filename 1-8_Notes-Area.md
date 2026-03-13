@@ -136,11 +136,11 @@ If the unit being described is a reproduction and the location of the original m
 >Originals destroyed after microfilming, 1981
 
 #### 1.8B15b. Availability of other formats. 
-If all or part of the unit being described is available (either in the institution or elsewhere) in another format(s), e.g., if the text being described is also available on microfilm; or if a film is also available on videocassette, make a note indicating the other format(s) in which the unit being described is available and its location, if that information is known. If only a part of the unit being described is available in another format(s), indicate which parts.[28]
+If all or part of the unit being described is available (either in the institution or elsewhere) in another format(s), e.g., if the text being described is also available on microfilm; or if a film is also available on videocassette, make a note indicating the other format(s) in which the unit being described is available and its location, if that information is known. If only a part of the unit being described is available in another format(s), indicate which parts. [^28]
 
 >Also available on videocassette
 
-### 1.8B16. Restrictions on access, use, reproduction, and publication [29]
+### 1.8B16. Restrictions on access, use, reproduction, and publication [^29]
 
 #### 1.8B16a. Restrictions on access.
 Give information about any restrictions placed on access to the unit (or parts of the unit) being described. Specify the details of the restriction, including the date when it will be lifted. Additional information may be recorded regarding the jurisdiction (i.e., the person, institution, or position or function through which the terms governing access are imposed, enforced, and may be appealed), physical access provisions, etc. Alternatively, simply indicate the fact of restriction.
@@ -215,3 +215,7 @@ If the unit being described consists of a group of records within a fonds, serie
 Use this note to record any other descriptive information considered important but not falling within the definitions of the other notes.
 
 For notes applicable specifically to a particular class of material, refer to the chapter that gives the rules relating to that class of material.
+
+[^28]: If the institution has itself produced a copy of the unit being described, it may choose either to indicate the availability of the copy in the descriptive entry for the unit being described as instructed, or prepare a separate descriptive entry for the copy.
+
+[^29]: Although all notes are considered optional, it is strongly recommended that institutions develop a policy that requires this note to be carried in descriptions, in order to avoid misleading users as to the availability of the material being described.
