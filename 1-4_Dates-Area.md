@@ -353,3 +353,47 @@ If the date of manufacture is given in place of an unknown date of publication, 
 >London : J. Lane, 1902 (1907 printing)
 >
 >Hull [Québec] : M. Brouard, 1904 (imprimé en 1920)
+
+## END NOTES
+
+[15] Although these rules do not prescribe a standard format for the presentation of dates (e.g., day/month/year), institutions are encouraged to establish a standard format as a matter of policy.
+
+[16] The Gregorian calendar was adopted in France, Italy, Portugal, and Spain in 1582; by the Catholic states of Germany in 1583; by the United Kingdom in 1752; by Sweden in 1753; by Prussia in 1774; and by the Russian Republic in 1918. Convert dates from 1582 on from the Julian calendar to the Gregorian as set out in the following tables.
+
+**Table I.** The following days in December under the Julian calendar fall in January of the next year under the Gregorian calendar:
+
+| YEAR (JULIAN) | DAYS (JULIAN) |
+| --- | --- |
+| 1582 — 1699 | December 22 — 31 |
+| 1700 — 1799 | December 21 — 31 |
+| 1800 — 1899 | December 20 — 31 |
+| 1900 — 1999 | December 19 — 31 |
+
+
+**Table II.** The following days in the "old" style calendar used in the British Isles fall in the next later year under the Gregorian calendar:
+
+BRITISH ISLES (EXCEPT SCOTLAND) AND COLONIES
+
+| YEAR (OLD STYLE) | DAYS (OLD STYLE) |
+| --- | --- |
+| 1582 — 1699 | January 1 — 31; February 1 — 28 [29]; March 1 — 24; December 22 — 31 |
+| 1700 — 1750 | January 1 — 31; February 1 — 28 [29]; March 1 — 24; December 21 — 31 |
+| 1751 | December 21 — 31 |
+
+SCOTLAND
+
+| YEAR (OLD STYLE) | DAYS (OLD STYLE) |
+| --- | --- |
+| 1582 — 1599 | January 1 — 31; February 1 — 28 [29]; March 1 — 24; December 22 — 31 |
+| 1600 — 1699 | December 22 — 31 |
+| 1700 — 1751 | December 21 — 31 |
+
+[16a] Institutions are encouraged to establish policies and procedures regarding the maximum number of aberrant dates to record.
+
+[17] Combine all notes created in conjunction with 1.4B4 and 1.5B4 in one note (see 1.8B19).
+
+[18] If no date(s) can be found in the material itself or from any other source, estimate the nearest year, decade or century, or make use of any of the other probable or uncertain date recording conventions in this rule to record a date. Do not use "no date" or "n.d." in this area.
+
+[19] see footnote 16.
+
+[20] The intent of this rule is to correct an error made by the publisher, distributor, etc., not to relay information about the date of creation of the originals.
