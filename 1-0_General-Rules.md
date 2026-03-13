@@ -5,7 +5,7 @@
 ### 1.0A1. Scope.
 These rules may be used to describe fonds, series, collections, and discrete items.
 
-Where the description of a fonds, series, or collection as a whole constitutes the highest level of description, the descriptions of its parts constitute lower levels of description. Using these rules, archival materials are represented by a set of descriptions which show the unit as a dynamic whole, consisting of lower-level parts that may include series, files, and items. Each of these parts becomes (or has the potential to become) an object of description, resulting in multiple descriptions that need to be linked hierarchically to represent the part-to-whole structure. [1]
+Where the description of a fonds, series, or collection as a whole constitutes the highest level of description, the descriptions of its parts constitute lower levels of description. Using these rules, archival materials are represented by a set of descriptions which show the unit as a dynamic whole, consisting of lower-level parts that may include series, files, and items. Each of these parts becomes (or has the potential to become) an object of description, resulting in multiple descriptions that need to be linked hierarchically to represent the part-to-whole structure. [^1]
 
 Institutions also acquire discrete items that do not form part of a larger body of materials (e.g., a fonds). These rules also provide guidance for the consistent description of and access to discrete items, alongside other holdings. For the description of discrete items, refer to the rules contained in Chapter 13.
 
@@ -26,7 +26,7 @@ Provide only such information that is appropriate to the level being described. 
 Link each description to its next higher unit of description, if applicable, and identify the level of description in the Scope and content (see 1.7D).
 
 #### 1.0A2d. Non-repetition of information.
-At the highest appropriate level, give information that is common to the component parts. Do not repeat information at a lower level of description that has already been given at a higher level, unless specifically instructed to do so in the following rules, or unless essential for clarity. [1a]
+At the highest appropriate level, give information that is common to the component parts. Do not repeat information at a lower level of description that has already been given at a higher level, unless specifically instructed to do so in the following rules, or unless essential for clarity. [^1a]
 
 ### 1.0A3. Sources of information.
 Each chapter in Part I contains a specification of the chief source of information for each level of description at which the material is being described within the broad class of material covered by that chapter.
@@ -101,7 +101,7 @@ When punctuation occurring within or at the end of an element is retained, give 
 > Spring has sprung! : a benefit evening
 
 ### 1.0C2. 
-The following table specifies all elements for each area of description (see rule 1.0B) and illustrates the preceding prescribed punctuation as set out in rule 1.0C1. [2]
+The following table specifies all elements for each area of description (see rule 1.0B) and illustrates the preceding prescribed punctuation as set out in rule 1.0C1. [^2]
 
 | Area | Prescribed preceding (or enclosing) punctuation for elements | Element |
 | --- | --- | --- |
@@ -146,7 +146,7 @@ The following table specifies all elements for each area of description (see rul
 
 ## 1.0D. Levels of detail in the description
 
-This rule sets out two levels of detail of description for each level of description (e.g., fonds, series, file, item) each containing those elements that must be given as the minimum for that level. Choose a level of detail of description appropriate to the level of description and in accordance with 0.29 and 1.0B. Include this minimum set of elements [3] for all materials described at the chosen level when the elements are applicable to the unit being described and when, in the case of optional additions, the institution has chosen to include an optional element. Elements of description relating to bibliographic characteristics (e.g., statement of responsibility, publisher's series, publishing information) are provided for only at the item level. If the rules in part I specify other pieces of information in place of any of the elements set out below, include those other pieces of information. Consult individual rules in this chapter and in those following for the content of elements to be included.
+This rule sets out two levels of detail of description for each level of description (e.g., fonds, series, file, item) each containing those elements that must be given as the minimum for that level. Choose a level of detail of description appropriate to the level of description and in accordance with 0.29 and 1.0B. Include this minimum set of elements [^3] for all materials described at the chosen level when the elements are applicable to the unit being described and when, in the case of optional additions, the institution has chosen to include an optional element. Elements of description relating to bibliographic characteristics (e.g., statement of responsibility, publisher's series, publishing information) are provided for only at the item level. If the rules in part I specify other pieces of information in place of any of the elements set out below, include those other pieces of information. Consult individual rules in this chapter and in those following for the content of elements to be included.
 
 ### 1.0D1. First level of detail of description for a fonds, series, or collection. 
 For the first level of detail of description for a fonds, series, or collection include at least the elements set out in this schematic illustration:
@@ -206,3 +206,11 @@ In an area where transcription is required, e.g., when describing at lower level
 
 ### 1.0G1. 
 Add accents and other diacritical marks that are not present in the data found in the source of information in accordance with the usage of the language used in the context.
+
+[^1]: The rules in this chapter do not prescribe the number of levels to be described in a multilevel description. The decision to describe to a certain level is an institutional one that will vary from one unit of material to the next, depending on the nature, size, and importance of the various component parts. Nor do the rules require that, at a given level of description (e.g., at the file level), all the records at that level (e.g., all of the file) be described.
+
+[^1a]: Institutions may, as a matter of policy, decide to repeat information at each level of description regardless of whether it is given at a higher level.
+
+[^2]: This table (rule 1.0C2) is adapted from ISBD(G).
+
+[^3]: Information contained in the Biographical sketch or Administrative history element of the archival description area may be carried as part of the authority record for those institutions that use authorities and maintain an authority file unless, of course, the authority file and descriptive records are not linked directly in an institution's finding aid system; in such a case, the information should be included in the descriptive records. See also footnote 25.
