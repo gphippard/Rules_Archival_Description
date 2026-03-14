@@ -17,7 +17,7 @@ Give in this area information taken from the prescribed sources of information. 
 ## 6.2B. Edition statement
 
 ### 6.2B1. 
-Give an edition statement as instructed in 1.2B.5
+Give an edition statement as instructed in 1.2B. [^5]
 
 ### 6.2B2 
 *Optional addition.* If the unit being described lacks an edition statement but is known to contain significant changes from other editions, supply a suitable brief statement in the language and script of the title proper and enclose it in square brackets.
@@ -30,3 +30,5 @@ Give an edition statement as instructed in 1.2B.5
 
 ### 6.2C1.
 Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the unit being described as instructed in 1.2C.
+
+[^5]: For guidance on recording parallel edition statements, see AACR2R 1.2B5.
