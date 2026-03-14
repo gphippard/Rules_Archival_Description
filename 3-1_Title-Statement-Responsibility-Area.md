@@ -101,4 +101,3 @@ Transcribe explicit statements of responsibility appearing in conjunction with a
 >Jean Rivard [GMD] : pioneer / A. Gérin-Lajoie ; translated by Gwendoline Constance Oswald
 >
 >Vente par la succession de Joseph Laflamme à M. Ernest Audet [GMD] / Paul Grenier
-</details>
