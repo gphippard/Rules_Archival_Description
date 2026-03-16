@@ -117,6 +117,8 @@ Do not close the dates of a unit being described if any of its parts remain open
 ### 1.4B5. 
 For the recording of probable and uncertain dates use the following recording conventions.[18]
 
+| &nbsp; | &nbsp; |
+| --- | --- |
 | [1867?] | probable date |
 | [ca. 1867] | approximate date |
 | [before 1867] | terminal date |
