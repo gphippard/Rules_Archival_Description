@@ -4,39 +4,39 @@
 
 ### CHAPTER 1: GENERAL RULES FOR DESCRIPTION
 
-[1.0 General Rules](1-0_General-Rules.md)
+[1.0 General Rules](RAD/1-0_General-Rules.md)
 
-[1.1 Title and Statement of Responsibility Area](1-1_Title-Statement-Responsibility-Area.md)
+[1.1 Title and Statement of Responsibility Area](RAD/1-1_Title-Statement-Responsibility-Area.md)
 
-[1.2 Edition Area](1-2_Edition-Area.md)
+[1.2 Edition Area](RAD/1-2_Edition-Area.md)
 
-[1.3 Class of Material Specific Details Area](1-3_Class-Materials-Details-Area.md)
+[1.3 Class of Material Specific Details Area](RAD/1-3_Class-Materials-Details-Area.md)
 
-[1.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](1-4_Dates-Area.md)
+[1.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/1-4_Dates-Area.md)
 
-[1.5 Physical Description Area](1-5_Physical-Description-Area.md)
+[1.5 Physical Description Area](RAD/1-5_Physical-Description-Area.md)
 
-[1.6 Publisher's Series Area](1-6_Publishers-Series-Area.md)
+[1.6 Publisher's Series Area](RAD/1-6_Publishers-Series-Area.md)
 
-[1.7 Archival Description Area](1-7_Archival-Description-Area.md)
+[1.7 Archival Description Area](RAD/1-7_Archival-Description-Area.md)
 
-[1.8 Note Area](1-8_Notes-Area.md)
+[1.8 Note Area](RAD/1-8_Notes-Area.md)
 
-[1.9 Standard Number Area](1-9_Standard-Number-Area.md)
+[1.9 Standard Number Area](RAD/1-9_Standard-Number-Area.md)
 
 ### CHAPTER 2: RULES FOR DESCRIPTION OF UNITS CONSISTING OF MULTIPLE MEDIA
 
-[2.0 General Rule](2-0_Rules-Units-Multiple-Media.md)
+[2.0 General Rule](RAD/2-0_Rules-Units-Multiple-Media.md)
 
 ### CHAPTER 3: TEXTUAL RECORDS
 
-[3.0 General Rules]
+[3.0 General Rules](RAD/3-0_General-Rules.md)
 
-[3.1 Title and Statement of Responsibility Area]
+[3.1 Title and Statement of Responsibility Area](RAD/3-1_Title-Statement_Responsibility-Area.md)
 
-[3.2 Edition Area]
+[3.2 Edition Area](RAD/3-2_Edition-Area.md)
 
-[3.3 Class of Material Specific Details Area]
+[3.3 Class of Material Specific Details Area](RAD/3-3_Class-Materials-Details-Area.md)
 
 [3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area]
 
