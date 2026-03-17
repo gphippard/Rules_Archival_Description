@@ -1,0 +1,11 @@
+title: "My Site"
+description: "A Minimal Mistakes site"
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+markdown: kramdown
+highlighter: rouge
