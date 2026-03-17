@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.8 NOTE AREA"
+---
+
 # 8.8 NOTE AREA
 
 ## 8.8A. Preliminary rule

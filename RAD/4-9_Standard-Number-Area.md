@@ -1,3 +1,8 @@
+---
+layout: single
+title: "4.9 STANDARD NUMBER AREA"
+---
+
 # 4.9 STANDARD NUMBER AREA
 
 ## 4.9A. Preliminary rule

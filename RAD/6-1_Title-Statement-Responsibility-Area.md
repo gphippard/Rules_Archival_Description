@@ -1,3 +1,8 @@
+---
+layout: single
+title: "6.1. TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+---
+
 # 6.1. TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 6.1A. Preliminary rule

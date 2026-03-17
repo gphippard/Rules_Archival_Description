@@ -1,3 +1,8 @@
+---
+layout: single
+title: "4.6 PUBLISHER'S SERIES AREA [^6]"
+---
+
 # 4.6 PUBLISHER'S SERIES AREA [^6]
 
 ## 4.6A. Preliminary rule

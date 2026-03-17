@@ -1,3 +1,8 @@
+---
+layout: single
+title: "6.0 GENERAL RULES"
+---
+
 # 6.0 GENERAL RULES
 
 ## 6.0A. Preliminary rule

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+---
+
 # 8.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 8.1A. Preliminary rule

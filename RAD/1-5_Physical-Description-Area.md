@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1.5. PHYSICAL DESCRIPTION AREA "
+---
+
 # 1.5. PHYSICAL DESCRIPTION AREA 
 
 ## 1.5A. Preliminary rule

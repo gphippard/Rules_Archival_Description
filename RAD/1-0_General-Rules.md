@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1.0 GENERAL RULES"
+---
+
 # 1.0 GENERAL RULES
 
 ## 1.0A. Preliminary rule

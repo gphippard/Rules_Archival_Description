@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.2 EDITION AREA"
+---
+
 # 8.2 EDITION AREA
 
 ## 8.2A. Preliminary rule

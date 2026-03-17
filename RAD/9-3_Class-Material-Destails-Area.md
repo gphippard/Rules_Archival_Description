@@ -1,3 +1,8 @@
+---
+layout: single
+title: "9.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+---
+
 # 9.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA
 
 ## 9.3A. Preliminary rule
