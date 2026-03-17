@@ -1,3 +1,8 @@
+---
+layout: home
+title: "Community Rules for Archival Description (RAD)"
+---
+
 # RULES FOR ARCHIVAL DESCRIPTION
 
 ## PART I: DESCRIPTION 
