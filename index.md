@@ -32,7 +32,7 @@
 
 [3.0 General Rules](RAD/3-0_General-Rules.md)
 
-[3.1 Title and Statement of Responsibility Area](RAD/3-1_Title-Statement_Responsibility-Area.md)
+[3.1 Title and Statement of Responsibility Area](RAD/3-1_Title-Statement-Responsibility-Area.md)
 
 [3.2 Edition Area](RAD/3-2_Edition-Area.md)
 
@@ -42,13 +42,13 @@
 
 [3.5 Physical Description Area](RAD/3-5_Physical-Description-Area.md)
 
-[3.6 Publisher's Series Area](RAD/3-6_Pubishers-Series-Area.md)
+[3.6 Publisher's Series Area](RAD/3-6_Publishers-Series-Area.md)
 
 [3.7 Archival Description Area](RAD/3-7_Archival-Description-Area.md)
 
 [3.8 Note Area](RAD/3-8_Note-Area.md)
 
-[3.9 Standard Number Area](RAD/Standard-Number-Area.md)
+[3.9 Standard Number Area](RAD/3-9_Standard-Number-Area.md)
 
 ### CHAPTER 4: GRAPHIC MATERIALS
 
@@ -60,11 +60,11 @@
 
 [4.3 Class of Material Specific Details Area](RAD/4-3_Class-Material-Details-Area.md)
 
-[4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/Dates-Area.md)
+[4.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/4-4_Dates-Area.md)
 
-[4.5 Physical Description Area](RAD/Physical-Description-Area.md)
+[4.5 Physical Description Area](RAD/4-5_Physical-Description-Area.md)
 
-[4.6 Publisher's Series Area](RAD/4-6_Publishers-Series-Area.md)
+[4.6 Publisher's Series Area](RAD/4-6_Publisher-Series-Area.md)
 
 [4.7 Archival Description Area](RAD/4-7_Archival-Description-Area.md)
 
@@ -102,7 +102,7 @@
 
 [6.2 Edition Area](RAD/6-2_Edition-Area.md)
 
-[6.3 Scale Area](RAD/Scale-Area.md)
+[6.3 Scale Area](RAD/6-3_Scale-Area.md)
 
 [6.4 Date(s) of Creation, Including Publication, Distribution, etc., Area](RAD/6-4_Dates-Area.md)
 
@@ -120,7 +120,7 @@
 
 [7.0 General Rules](RAD/7-0_General-Rules.md)
 
-[7.1 Title and Statement of Responsibility Area](RAD/Title-Statement-Responsibility-Area.md)
+[7.1 Title and Statement of Responsibility Area](RAD/7-1_Title-Statement-Responsibility-Area.md)
 
 [7.2 Edition Area](RAD/7-2_Edition-Area.md)
 
