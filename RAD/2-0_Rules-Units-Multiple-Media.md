@@ -1,3 +1,8 @@
+---
+layout: single
+title: "2.0. GENERAL RULE"
+---
+
 # 2.0. GENERAL RULE
 
 ## 2.0A. Scope. 

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "3.0 GENERAL RULES"
+---
+
 # 3.0 GENERAL RULES
 
 ## 3.0A. Preliminary rule

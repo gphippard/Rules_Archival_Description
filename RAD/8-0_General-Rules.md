@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.0 GENERAL RULES"
+---
+
 # 8.0 GENERAL RULES
 
 ## 8.0A. Preliminary rule

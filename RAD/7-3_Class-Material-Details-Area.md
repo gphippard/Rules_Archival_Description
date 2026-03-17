@@ -1,3 +1,8 @@
+---
+layout: single
+title: "7.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+---
+
 # 7.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA
 
 ## 7.3A. Preliminary rule

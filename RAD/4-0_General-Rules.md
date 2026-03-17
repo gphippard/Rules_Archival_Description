@@ -1,3 +1,8 @@
+---
+layout: single
+title: "4.0. GENERAL RULES"
+---
+
 # 4.0. GENERAL RULES
 
 ## 4.0A. Preliminary rule

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "7.0 GENERAL RULES"
+---
+
 # 7.0 GENERAL RULES
 
 ## 7.0A. Preliminary rule

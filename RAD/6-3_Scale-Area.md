@@ -1,3 +1,8 @@
+---
+layout: single
+title: "6.3 SCALE AREA"
+---
+
 # 6.3 SCALE AREA
 
 ## 6.3A. Preliminary rule

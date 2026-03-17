@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1.2 EDITION AREA"
+---
+
 # 1.2 EDITION AREA
 
 ## 1.2A. Preliminary rule

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "9.2 EDITION AREA"
+---
+
 # 9.2 EDITION AREA
 
 ## 9.2A. Preliminary rule

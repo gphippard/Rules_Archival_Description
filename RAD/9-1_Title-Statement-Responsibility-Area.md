@@ -1,3 +1,8 @@
+---
+layout: single
+title: "9.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+---
+
 # 9.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 9.1A. Preliminary rule

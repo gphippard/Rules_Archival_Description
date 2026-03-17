@@ -1,3 +1,8 @@
+---
+layout: single
+title: "3.5 PHYSICAL DESCRIPTION AREA"
+---
+
 # 3.5 PHYSICAL DESCRIPTION AREA
 
 ## 3.5A. Preliminary rule

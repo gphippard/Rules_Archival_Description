@@ -1,3 +1,8 @@
+---
+layout: single
+title: "9.0 GENERAL RULES"
+---
+
 # 9.0 GENERAL RULES
 
 ## 9.0A. Preliminary rule

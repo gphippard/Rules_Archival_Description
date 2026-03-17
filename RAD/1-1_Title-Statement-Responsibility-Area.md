@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+---
+
 # 1.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 1.1A. Preliminary rule

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.6 PUBLISHER'S SERIES AREA"
+---
+
 # 8.6 PUBLISHER'S SERIES AREA
 
 ## 8.6A. Preliminary rule

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "1.6. PUBLISHER'S SERIES AREA"
+---
+
 # 1.6. PUBLISHER'S SERIES AREA
 
 ## 1.6A. Preliminary rule

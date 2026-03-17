@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.5 PHYSICAL DESCRIPTION AREA"
+---
+
 # 8.5 PHYSICAL DESCRIPTION AREA
 
 ## 8.5A. Preliminary rule

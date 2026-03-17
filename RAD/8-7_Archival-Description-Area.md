@@ -1,3 +1,8 @@
+---
+layout: single
+title: "8.7 ARCHIVAL DESCRIPTION AREA"
+---
+
 # 8.7 ARCHIVAL DESCRIPTION AREA
 
 ## 8.7A. Preliminary rule
