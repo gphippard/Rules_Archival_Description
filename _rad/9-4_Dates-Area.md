@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC."
+title: "9.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC."
+permalink: /9-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC.
 
 ## 9.4A. Preliminary rule
 
