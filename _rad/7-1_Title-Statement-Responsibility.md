@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "7.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+permalink: /7-1/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 7.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA
 
 ## 7.1A. Preliminary rule
 
