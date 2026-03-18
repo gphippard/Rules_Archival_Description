@@ -320,7 +320,7 @@ forum-sidebar:
   - title: "Formats"
     children:
       - title: "Audio-Visual Materials"
-        url: /forums/av/
+        url: /forums/AV/
       - title: "Born-Digital Records"
         url: /forums/born-digital/
       - title: "Photographs"
