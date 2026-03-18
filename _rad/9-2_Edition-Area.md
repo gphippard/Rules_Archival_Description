@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "9.2 EDITION AREA"
+permalink: /9-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 9.2 EDITION AREA
 
 ## 9.2A. Preliminary rule
 
