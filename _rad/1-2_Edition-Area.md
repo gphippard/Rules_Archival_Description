@@ -7,8 +7,6 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-# 1.2 EDITION AREA
-
 ## 1.2A. Preliminary rule
 
 ### 1.2A1. Scope. 
