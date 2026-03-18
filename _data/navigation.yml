@@ -6,7 +6,6 @@ main:
   - title: "Search"
     url: /search/
 
-
 main-sidebar:
   - title: "Chapter 1: General Rules for Description"
     children:
@@ -278,7 +277,7 @@ section-sidebar:
         url: /7-8/
       - title: "Chapter 8: Sound Recordings"
         url: /8-8/
-    - title: "Standard Number Area"
+  - title: "Standard Number Area"
     children:
       - title: "Chapter 1: General Rules for Description"
         url: /1-9/
@@ -292,7 +291,7 @@ section-sidebar:
         url: /7-9/
       - title: "Chapter 8: Sound Recordings"
         url: /8-9/
-    - title: "Unique Sections"
+  - title: "Unique Sections"
     children:
       - title: "Architectural and Technical Drawings: Scale Area"
         url: /6-3/
@@ -303,5 +302,4 @@ forum-sidebar:
       - title: "Examples"
         url: /forums/examples/
       - title: "Reconciliation and Indigenizing Archives"
-        url: /forums/reconciliation/ 
-
+        url: /forums/reconciliation/
