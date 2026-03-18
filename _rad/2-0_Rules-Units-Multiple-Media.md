@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "2.0. GENERAL RULE"
+title: "2.0. RULES FOR DESCRIPTION OF UNITS CONSISTING OF MULTIPLE MEDIA, GENERAL RULE"
 permalink: /2-0/
 toc: true
 toc_label: "On this page"
