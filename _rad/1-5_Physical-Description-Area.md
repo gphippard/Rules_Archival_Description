@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "1.5. PHYSICAL DESCRIPTION AREA "
+permalink: /1-5/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 1.5. PHYSICAL DESCRIPTION AREA 
 
 ## 1.5A. Preliminary rule
 
