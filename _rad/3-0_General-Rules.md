@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.0 GENERAL RULES"
+title: "3.0 TEXTUAL RECORDS, GENERAL RULES"
 permalink: /3-0/
 toc: true
 toc_label: "On this page"
