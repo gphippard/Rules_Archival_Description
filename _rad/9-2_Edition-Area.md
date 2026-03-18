@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "9.2 EDITION AREA"
+title: "9.2 RECORDS IN ELECTRONIC FORM, EDITION AREA"
 permalink: /9-2/
 toc: true
 toc_label: "On this page"
