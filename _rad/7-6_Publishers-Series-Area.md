@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.6 PUBLISHER'S SERIES AREA"
+title: "7.6 MOVING IMAGES, PUBLISHER'S SERIES AREA"
 permalink: /7-6/
 toc: true
 toc_label: "On this page"
