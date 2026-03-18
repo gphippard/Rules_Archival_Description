@@ -5,3 +5,62 @@ main:
     url: /rad-chapters/
   - title: "Search"
     url: /search/
+
+
+main-sidebar:
+  - title: "Chapter 1: General Rules for Description"
+    children:
+      - title: "1.0 General Rules"
+        url: /RAD/1-0_General-Rules/
+      - title: "1.1 Title and Statement of Responsibility Area"
+        url: /RAD/1-1_Title-Statement-Responsibility-Area/
+      - title: "1.2 Edition Area"
+        url: /RAD/1-2_Edition-Area/
+      - title: "1.3 Class of Material Specific Details Area"
+        url: /RAD/1-3_Class-Materials-Details-Area/
+      - title: "1.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /RAD/1-4_Dates-Area/
+      - title: "1.5 Physical Description Area"
+        url: /RAD/1-5_Physical-Description-Area/
+      - title: "1.6 Publisher's Series Area"
+        url: /RAD/1-6_Publishers-Series-Area/
+      - title: "1.7 Archival Description Area"
+        url: /RAD/1-7_Archival-Description-Area/
+      - title: "1.8 Note Area"
+        url: /RAD/1-8_Notes-Area/
+      - title: "1.9 Standard Number Area"
+        url: /RAD/1-9_Standard-Number-Area/
+        
+  - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
+    children:
+      - title: "2.0 General Rule"
+        url: RAD/2-0_Rules-Units-Multiple-Media/
+ 
+  - title: "Chapter 3: Textual Records"
+    children:
+      - title: "3.0 General Rules"
+        url: /RAD/3-0_General-Rules/
+      - title: "3.1 Title and Statement of Responsibility Area"
+        url: /RAD/3-1_Title-Statement-Responsibility-Area/
+      - title: "3.2 Edition Area"
+        url: /RAD/3-2_Edition-Area/
+      - title: "3.3 Class of Material Specific Details Area"
+        url: /RAD/3-3_Class-Materials-Details-Area/
+      - title: "3.4 Date(s) of Creation, Including Publication, Distribution, etc., Area"
+        url: /RAD/3-4_Dates-Area/
+      - title: "3.5 Physical Description Area"
+        url: /RAD/3-5_Physical-Description-Area/
+      - title: "3.6 Publisher's Series Area"
+        url: /RAD/3-6_Publishers-Series-Area/
+      - title: "3.7 Archival Description Area"
+        url: /RAD/3-7_Archival-Description-Area/
+      - title: "3.8 Note Area"
+        url: /RAD/3-8_Note-Area/
+      - title: "3.9 Standard Number Area"
+        url: /RAD/3-9_Standard-Number-Area/
+
+
+
+
+
+        
