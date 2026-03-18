@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+title: "7.1 MOVING IMAGES, TITLE AND STATEMENT OF RESPONSIBILITY AREA"
 permalink: /7-1/
 toc: true
 toc_label: "On this page"
