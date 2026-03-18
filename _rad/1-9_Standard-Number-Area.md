@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1.9. STANDARD NUMBER AREA"
+title: "1.9. GENERAL RULES FOR DESCRIPTION, STANDARD NUMBER AREA"
 permalink: /1-9/
 toc: true
 toc_label: "On this page"
