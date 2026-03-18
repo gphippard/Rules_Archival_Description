@@ -1,4 +1,6 @@
 main:
+  - title: "Forums"
+    url: /forums/
   - title: "Search"
     url: /search/
 
@@ -146,3 +148,11 @@ main-sidebar:
         url: /8-8/
       - title: "8.9 Standard Number Area"
         url: /8-9/       
+
+forum-sidebar: 
+  - title: "Featured Forums"
+    children:
+      - title: "Examples"
+        url: /forums/examples/
+      - title: "Reconciliation and Indigenizing Archives"
+        url: /forums/reconciliation/ 
