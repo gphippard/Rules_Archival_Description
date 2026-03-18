@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.1 TITLE AND STATEMENT OF RESPONSIBILITY AREA "
+title: "4.1 GRAPHIC MATERIALS, TITLE AND STATEMENT OF RESPONSIBILITY AREA "
 permalink: /4-1/
 toc: true
 toc_label: "On this page"
