@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+title: "3.3 TEXTUAL RECORDS, CLASS OF MATERIAL SPECIFIC DETAILS AREA"
 permalink: /3-3/
 toc: true
 toc_label: "On this page"
