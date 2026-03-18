@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "4.0. GENERAL RULES"
+permalink: /4-0/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 4.0. GENERAL RULES
 
 ## 4.0A. Preliminary rule
 
