@@ -14,5 +14,8 @@ relative_links:
   collections: false
 
 navigation: true
+search: true
+search_full_content: true
+
 markdown: kramdown
 highlighter: rouge
