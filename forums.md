@@ -19,26 +19,26 @@ The Truth and Reconciliation Commission (2015) Calls to Action includes a call t
 
 ## Key Issues
 
-### Participatory Archives
+### [Participatory Archives](participatory.md)
 
-### Provenance 
+### [Provenance](provenance.md)
 
-### Reparative Description
+### [Reparative Description](reparative.md)
 
-### User Design
+### [User Design](user-design.md)
 
 ## Formats
 
-### Audio-Visual Materials
+### [Audio-Visual Materials](AV.md)
 
-### Born-Digital Records
+### [Born-Digital Records](digital.md)
 
-### Photographs
+### [Photographs](photographs.md)
 
 ## Systems 
 
-### Access to Memory (AtoM)
+### [Access to Memory (AtoM)](atom.md)
 
-### Collective Access 
+### [Collective Access](collective.md)
 
 [^1]: Truth and Reconciliation Commission of Canada, "Truth and Reconciliation Commission of Canada: Calls to Action," (2015), https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf
