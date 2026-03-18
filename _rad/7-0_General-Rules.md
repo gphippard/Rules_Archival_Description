@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "7.0 GENERAL RULES"
+title: "7.0 MOVING IMAGES, GENERAL RULES"
 permalink: /7-0/
 toc: true
 toc_label: "On this page"
