@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.7 ARCHIVAL DESCRIPTION AREA"
+title: "6.7 ARCHITECTURAL AND TECHNICAL DRAWINGS, ARCHIVAL DESCRIPTION AREA"
 permalink: /6-7/
 toc: true
 toc_label: "On this page"
