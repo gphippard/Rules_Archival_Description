@@ -305,3 +305,27 @@ forum-sidebar:
         url: /forums/examples/
       - title: "Reconciliation and Indigenizing Archives"
         url: /forums/reconciliation/
+ - title: "Key Issues"
+    children:
+      - title: "Participatory Archives"
+        url: /forums/participatory/
+      - title: "Provenance"
+        url: /forums/provenance/
+      - title: "Reparative Description"
+        url: /forums/reparative/
+      - title: "User Design"
+        url: /forums/user-design/        
+   - title: "Formats"
+    children:
+      - title: "Audio-Visual Materials"
+        url: /forums/av/
+      - title: "Born-Digital Records"
+        url: /forums/born-digital/
+      - title: "Photographs"
+        url: /forums/photographs/
+  - title: "Systems"
+    children:
+      - title: "Access to Memory (AtoM)"
+        url: /forums/atom/
+      - title: "Collective-Access"
+        url: /forums/collective/
