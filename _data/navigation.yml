@@ -1,4 +1,6 @@
 main:
+  - title: "Browse by Section"
+    url: /section/
   - title: "Forums"
     url: /forums/
   - title: "Search"
@@ -149,6 +151,152 @@ main-sidebar:
       - title: "8.9 Standard Number Area"
         url: /8-9/       
 
+section-sidebar: 
+  - title: "General Rules"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-0/
+      - title: "Chapter 2: Rules for Description of Units Consisting of Multiple Media"
+        url: /2-0/
+      - title: "Chapter 3: Textual Records"
+        url: /3-0/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-0/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-0/
+      - title: "Chapter 7: Moving Images"
+        url: /7-0/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-0/
+  - title: "Title and Statement of Responsibility Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-1/
+      - title: "Chapter 3: Textual Records"
+        url: /3-1/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-1/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-1/
+      - title: "Chapter 7: Moving Images"
+        url: /7-1/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-1/
+  - title: "Edition Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-2/
+      - title: "Chapter 3: Textual Records"
+        url: /3-2/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-2/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-2/
+      - title: "Chapter 7: Moving Images"
+        url: /7-2/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-2/
+  - title: "Class of Material Specific Details Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-3/
+      - title: "Chapter 3: Textual Records"
+        url: /3-3/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-3/
+      - title: "Chapter 7: Moving Images"
+        url: /7-3/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-3/
+  - title: "Date(s) of Creation, Including Publication, Distribution, etc., Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-4/
+      - title: "Chapter 3: Textual Records"
+        url: /3-4/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-4/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-4/
+      - title: "Chapter 7: Moving Images"
+        url: /7-4/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-4/
+  - title: "Physical Description Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-5/
+      - title: "Chapter 3: Textual Records"
+        url: /3-5/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-5/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-5/
+      - title: "Chapter 7: Moving Images"
+        url: /7-5/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-5/
+  - title: "Publisher's Series Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-6/
+      - title: "Chapter 3: Textual Records"
+        url: /3-6/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-6/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-6/
+      - title: "Chapter 7: Moving Images"
+        url: /7-6/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-6/
+  - title: "Archival Description Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-7/
+      - title: "Chapter 3: Textual Records"
+        url: /3-7/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-7/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-7/
+      - title: "Chapter 7: Moving Images"
+        url: /7-7/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-7/
+  - title: "Note Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-8/
+      - title: "Chapter 3: Textual Records"
+        url: /3-8/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-8/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-8/
+      - title: "Chapter 7: Moving Images"
+        url: /7-8/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-8/
+    - title: "Standard Number Area"
+    children:
+      - title: "Chapter 1: General Rules for Description"
+        url: /1-9/
+      - title: "Chapter 3: Textual Records"
+        url: /3-9/
+      - title: "Chapter 4: Graphic Materials"
+        url: /4-9/
+      - title: "Chapter 6: Architectural and Technical Drawings"
+        url: /6-9/
+      - title: "Chapter 7: Moving Images"
+        url: /7-9/
+      - title: "Chapter 8: Sound Recordings"
+        url: /8-9/
+    - title: "Unique Sections"
+    children:
+      - title: "Architectural and Technical Drawings: Scale Area"
+        url: /6-3/
+
 forum-sidebar: 
   - title: "Featured Forums"
     children:
@@ -156,3 +304,4 @@ forum-sidebar:
         url: /forums/examples/
       - title: "Reconciliation and Indigenizing Archives"
         url: /forums/reconciliation/ 
+
