@@ -21,6 +21,14 @@ defaults:
     values:
       layout: single
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: "main-sidebar"
+      sidebar_position: left
+
 relative_links:
   enabled: true
   collections: false
