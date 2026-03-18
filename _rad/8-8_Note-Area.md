@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.8 NOTE AREA"
+title: "8.8 SOUND RECORDINGS, NOTE AREA"
 permalink: /8-8/
 toc: true
 toc_label: "On this page"
