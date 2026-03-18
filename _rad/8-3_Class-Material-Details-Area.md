@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.3 CLASS OF MATERIAL SPECIFIC DETAILS AREA"
+title: "8.3 SOUND RECORDINGS, CLASS OF MATERIAL SPECIFIC DETAILS AREA"
 permalink: /8-3/
 toc: true
 toc_label: "On this page"
