@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "9.0 GENERAL RULES"
+title: "9.0 RECORDS IN ELECTRONIC FORM, GENERAL RULES"
 permalink: /9-0/
 toc: true
 toc_label: "On this page"
