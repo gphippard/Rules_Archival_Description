@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "3.2 EDITION AREA"
+permalink: /3-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 3.2 EDITION AREA
 
 ## 3.2A. Preliminary rule
 
