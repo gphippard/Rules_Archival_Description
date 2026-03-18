@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.6 PUBLISHER'S SERIES AREA"
+title: "4.6 GRAPHIC MATERIALS, PUBLISHER'S SERIES AREA"
 permalink: /4-6/
 toc: true
 toc_label: "On this page"
