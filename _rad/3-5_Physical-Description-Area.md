@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.5 PHYSICAL DESCRIPTION AREA"
+title: "3.5 TEXTUAL RECORDS, PHYSICAL DESCRIPTION AREA"
 permalink: /3-5/
 toc: true
 toc_label: "On this page"
