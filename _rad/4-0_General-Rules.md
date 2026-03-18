@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.0. GENERAL RULES"
+title: "4.0. GRAPHIC MATERIALS, GENERAL RULES"
 permalink: /4-0/
 toc: true
 toc_label: "On this page"
