@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.9 STANDARD NUMBER AREA"
+title: "6.9 ARCHITECTURAL AND TECHNICAL DRAWINGS, STANDARD NUMBER AREA"
 permalink: /6-9/
 toc: true
 toc_label: "On this page"
