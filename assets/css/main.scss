@@ -4,3 +4,15 @@
 
 @import "minimal-mistakes/skins/default";
 @import "minimal-mistakes";
+
+
+.nav__list > li > a::before,
+.nav__list > li > span::before {
+  content: "▶ ";
+  font-size: 0.8em;
+}
+
+.nav__list > li.open > a::before,
+.nav__list > li.open > span::before {
+  content: "▼ ";
+}
