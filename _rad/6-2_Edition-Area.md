@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "6.2 EDITION AREA"
+permalink: /6-2/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 6.2 EDITION AREA
 
 ## 6.2A. Preliminary rule
 
