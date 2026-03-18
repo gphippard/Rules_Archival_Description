@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.9 STANDARD NUMBER AREA"
+title: "8.9 SOUND RECORDINGS, STANDARD NUMBER AREA"
 permalink: /8-9/
 toc: true
 toc_label: "On this page"
