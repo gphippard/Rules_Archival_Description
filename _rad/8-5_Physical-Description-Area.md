@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "8.5 PHYSICAL DESCRIPTION AREA"
+permalink: /8-5/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 8.5 PHYSICAL DESCRIPTION AREA
 
 ## 8.5A. Preliminary rule
 
