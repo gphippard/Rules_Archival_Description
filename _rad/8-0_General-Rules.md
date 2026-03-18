@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "8.0 GENERAL RULES"
+title: "8.0 SOUND RECORDINGS, GENERAL RULES"
 permalink: /8-0/
 toc: true
 toc_label: "On this page"
