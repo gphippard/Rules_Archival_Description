@@ -12,9 +12,9 @@ plugins:
 defaults:
   - scope:
       path: "RAD"
-      type: "pages"
     values:
       layout: single
+      permalink: /RAD/:basename/
 
 relative_links:
   enabled: true
