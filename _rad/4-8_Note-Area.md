@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.8 NOTE AREA"
+title: "4.8 GRAPHIC MATERIALS, NOTE AREA"
 permalink: /4-8/
 toc: true
 toc_label: "On this page"
