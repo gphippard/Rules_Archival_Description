@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "6.5 PHYSICAL DESCRIPTION AREA "
+permalink: /6-5/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 6.5 PHYSICAL DESCRIPTION AREA 
 
 ## 6.5A. Preliminary rule
 
