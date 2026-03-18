@@ -9,6 +9,13 @@ plugins:
   - jekyll-include-cache
   - jekyll-relative-links
 
+defaults:
+  - scope:
+      path: "RAD"
+      type: "pages"
+    values:
+      layout: single
+
 relative_links:
   enabled: true
   collections: false
