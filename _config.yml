@@ -14,25 +14,22 @@ collections:
     output: true
     permalink: /RAD/:path/
 
+
 defaults:
+  # RAD collection pages
   - scope:
       path: ""
       type: rad
     values:
       layout: single
 
-defaults:
+  # All pages
   - scope:
       path: ""
     values:
       sidebar:
         nav: "main-sidebar"
       sidebar_position: left
-
-defaults:
-  - scope:
-      path: ""
-    values:
       comments: true
 
 relative_links:
@@ -43,6 +40,7 @@ navigation: true
 search: true
 search_full_content: true
 
+# Giscus Comments
 comments:
   provider: "giscus"
   giscus:
