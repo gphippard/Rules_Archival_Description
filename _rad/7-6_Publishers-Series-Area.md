@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "7.6 PUBLISHER'S SERIES AREA"
+permalink: /7-6/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 7.6 PUBLISHER'S SERIES AREA
 
 ## 7.6A. Preliminary rule
 
