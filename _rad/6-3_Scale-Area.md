@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "6.3 SCALE AREA"
+permalink: /6-3/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 6.3 SCALE AREA
 
 ## 6.3A. Preliminary rule
 
