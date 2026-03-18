@@ -1,9 +1,11 @@
 ---
 layout: single
 title: "3.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA"
+permalink: /3-4/
+toc: true
+toc_label: "On this page"
+toc_sticky: true
 ---
-
-# 3.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC., AREA
 
 ## 3.4A1. Scope
 See 1.4A1.
