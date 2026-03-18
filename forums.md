@@ -3,7 +3,7 @@ layout: single
 title: "Forums"
 permalink: /forums/
 sidebar:
-  nav: "special-sidebar"
+  nav: "forum-sidebar"
 sidebar_position: left
 ---
 
