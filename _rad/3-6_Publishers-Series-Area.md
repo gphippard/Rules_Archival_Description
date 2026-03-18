@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3.6 PUBLISHER'S SERIES AREA"
+title: "3.6 TEXTUAL RECORDS, PUBLISHER'S SERIES AREA"
 permalink: /3-6/
 toc: true
 toc_label: "On this page"
