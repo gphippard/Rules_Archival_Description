@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.9 STANDARD NUMBER AREA"
+title: "4.9 GRAPHIC MATERIALS, STANDARD NUMBER AREA"
 permalink: /4-9/
 toc: true
 toc_label: "On this page"
