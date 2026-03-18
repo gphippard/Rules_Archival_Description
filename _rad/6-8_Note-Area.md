@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.8 NOTE AREA"
+title: "6.8 ARCHITECTURAL AND TECHNICAL DRAWINGS, NOTE AREA"
 permalink: /6-8/
 toc: true
 toc_label: "On this page"
