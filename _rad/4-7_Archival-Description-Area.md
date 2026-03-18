@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "4.7 ARCHIVAL DESCRIPTION AREA"
+title: "4.7 GRAPHIC MATERIALS, ARCHIVAL DESCRIPTION AREA"
 permalink: /4-7/
 toc: true
 toc_label: "On this page"
