@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "9.4 DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC."
+title: "9.4 RECORDS IN ELECTRONIC FORM, DATE(S) OF CREATION, INCLUDING PUBLICATION, DISTRIBUTION, ETC."
 permalink: /9-4/
 toc: true
 toc_label: "On this page"
