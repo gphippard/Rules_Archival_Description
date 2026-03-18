@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "6.1. TITLE AND STATEMENT OF RESPONSIBILITY AREA"
+title: "6.1. ARCHITECTURAL AND TECHNICAL DRAWINGS, TITLE AND STATEMENT OF RESPONSIBILITY AREA"
 permalink: /6-1/
 toc: true
 toc_label: "On this page"
