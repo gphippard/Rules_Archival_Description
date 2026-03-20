@@ -3,7 +3,7 @@
 {%- assign comments_enabled = site.comments.enabled | default: true -%}
 {%- assign comments_force = site.comments.force | default: false -%}
 
-{% if comments_enabled and (jekyll.environment == "production" or comments_force) %}
+<!-- {% if comments_enabled and (jekyll.environment == "production" or comments_force) %} -->
 <div class="page__comments">
   {% capture comments_label %}{{ site.data.ui-text[locale].comments_label | default: "Comments" }}{% endcapture %}
 
@@ -147,4 +147,4 @@
       {% include /comments-providers/custom.html %}
   {% endcase %}
 </div>
-{% endif %}
+<!-- {% endif %} -->
