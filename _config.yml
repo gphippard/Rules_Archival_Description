@@ -41,6 +41,8 @@ search: true
 search_full_content: true
 atom_feed: 
   hide: true
+recent_posts:
+  hide: true
 
 # Giscus Comments
 comments:
