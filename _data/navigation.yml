@@ -575,7 +575,7 @@ section-sidebar:
       - title: "10.8 Note Area"
         url: /10-8/
       - title: "10.9 Standard Number Area"
-        url: /10-9/  
+        url: /10-9/
   - title: "Chapter 11: Objects"
     children:
       - title: "11.0 General Rules"
