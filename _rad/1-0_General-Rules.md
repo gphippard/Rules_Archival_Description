@@ -17,7 +17,7 @@ Where the description of a fonds, series, or collection as a whole constitutes t
 
 Institutions also acquire discrete items that do not form part of a larger body of materials (e.g., a fonds). These rules also provide guidance for the consistent description of and access to discrete items, alongside other holdings. For the description of discrete items, refer to the rules contained in Chapter 13.
 
-For the level of detail required at different levels of description [see 1.0D.](https://gphippard.github.io/Rules_Archival_Description/1-0/#10d-levels-of-detail-in-the-description)
+For the level of detail required at different levels of description [see 1.0D.](/1-0/#10d-levels-of-detail-in-the-description)
 
 ### 1.0A2. Multilevel description.
 Use multilevel description for preparing descriptions of archival material whose arrangement is characterized by multiple aggregations, and when, in addition to the highest level of description, separate descriptions of some or all of its parts are required.
