@@ -17,7 +17,7 @@ Where the description of a fonds, series, or collection as a whole constitutes t
 
 Institutions also acquire discrete items that do not form part of a larger body of materials (e.g., a fonds). These rules also provide guidance for the consistent description of and access to discrete items, alongside other holdings. For the description of discrete items, refer to the rules contained in Chapter 13.
 
-For the level of detail required at different levels of description [see 1.0D.](/1-0/#10d-levels-of-detail-in-the-description)
+For the level of detail required at different levels of description [see 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
 
 ### 1.0A2. Multilevel description.
 Use multilevel description for preparing descriptions of archival material whose arrangement is characterized by multiple aggregations, and when, in addition to the highest level of description, separate descriptions of some or all of its parts are required.
@@ -31,7 +31,7 @@ At the highest level of description, give information for the fonds, series or c
 Provide only such information that is appropriate to the level being described. For example, do not provide detailed file content information if the unit being described is a fonds; do not provide an Administrative history for an entire department if the creator of a unit being described is a division or a branch.
 
 #### 1.0A2c. Linking of descriptions.
-Link each description to its next higher unit of description, if applicable, and identify the level of description in the Scope and content [(see 1.7D).](https://gphippard.github.io/Rules_Archival_Description/1-7/#17d-scope-and-content)
+Link each description to its next higher unit of description, if applicable, and identify the level of description in the Scope and content [(see 1.7D).](https://communityrad.ca/1-7/#17d-scope-and-content)
 
 #### 1.0A2d. Non-repetition of information.
 At the highest appropriate level, give information that is common to the component parts. Do not repeat information at a lower level of description that has already been given at a higher level, unless specifically instructed to do so in the following rules, or unless essential for clarity. [^1a]
@@ -109,7 +109,7 @@ When punctuation occurring within or at the end of an element is retained, give 
 > Spring has sprung! : a benefit evening
 
 ### 1.0C2. 
-The following table specifies all elements for each area of description [(see rule 1.0B)](https://gphippard.github.io/Rules_Archival_Description/1-0/#10b-organization-of-the-description) and illustrates the preceding prescribed punctuation as set out in rule [1.0C1.](https://gphippard.github.io/Rules_Archival_Description/1-0/#10c1) [^2]
+The following table specifies all elements for each area of description [(see rule 1.0B)](https://communityrad.ca/1-0/#10b-organization-of-the-description) and illustrates the preceding prescribed punctuation as set out in rule [1.0C1.](https://communityrad.ca/1-0/#10c1) [^2]
 
 | Area | Prescribed preceding (or enclosing) punctuation for elements | Element |
 | --- | --- | --- |
@@ -154,7 +154,7 @@ The following table specifies all elements for each area of description [(see ru
 
 ## 1.0D. Levels of detail in the description
 
-This rule sets out two levels of detail of description for each level of description (e.g., fonds, series, file, item) each containing those elements that must be given as the minimum for that level. Choose a level of detail of description appropriate to the level of description and in accordance with 0.29 and [1.0B.](https://gphippard.github.io/Rules_Archival_Description/1-0/#10b-organization-of-the-description) Include this minimum set of elements [^3] for all materials described at the chosen level when the elements are applicable to the unit being described and when, in the case of optional additions, the institution has chosen to include an optional element. Elements of description relating to bibliographic characteristics (e.g., statement of responsibility, publisher's series, publishing information) are provided for only at the item level. If the rules in part I specify other pieces of information in place of any of the elements set out below, include those other pieces of information. Consult individual rules in this chapter and in those following for the content of elements to be included.
+This rule sets out two levels of detail of description for each level of description (e.g., fonds, series, file, item) each containing those elements that must be given as the minimum for that level. Choose a level of detail of description appropriate to the level of description and in accordance with [0.29](https://communityrad.ca/introduction/#029) and [1.0B.](https://communityrad.ca/1-0/#10b-organization-of-the-description) Include this minimum set of elements [^3] for all materials described at the chosen level when the elements are applicable to the unit being described and when, in the case of optional additions, the institution has chosen to include an optional element. Elements of description relating to bibliographic characteristics (e.g., statement of responsibility, publisher's series, publishing information) are provided for only at the item level. If the rules in part I specify other pieces of information in place of any of the elements set out below, include those other pieces of information. Consult individual rules in this chapter and in those following for the content of elements to be included.
 
 ### 1.0D1. First level of detail of description for a fonds, series, or collection. 
 For the first level of detail of description for a fonds, series, or collection include at least the elements set out in this schematic illustration:
@@ -186,14 +186,14 @@ In the following areas, give transcribed information in the language and script 
 
 For details given in the class of material specific details area, follow the instructions in the relevant rules of the following chapters.
 
-Replace symbols or other matter that cannot be reproduced by the equipment available with a description in square brackets. Make an explanatory note if necessary (See also [1.1B1](https://gphippard.github.io/Rules_Archival_Description/1-1/#11b1-formal-title-proper) and [1.1F9](https://gphippard.github.io/Rules_Archival_Description/1-1/#11f9)).
+Replace symbols or other matter that cannot be reproduced by the equipment available with a description in square brackets. Make an explanatory note if necessary (See also [1.1B1](https://communityrad.ca/1-1/#11b1-formal-title-proper) and [1.1F9](https://communityrad.ca/1-1/#11f9)).
 
 In general, give interpolations into these areas in the language and script of the other data in the area. Exceptions to this are:
 
 1. prescribed interpolations and abbreviations
-2. general material designations [(see 1.1C)](https://gphippard.github.io/Rules_Archival_Description/1-1/#11c-optional-addition-general-material-designation)
-3. other forms of the place of publication, distribution, [(see 1.4C3 and 1.4C4)](https://gphippard.github.io/Rules_Archival_Description/1-4/#14c3)
-4. statements of function of the publisher, distributor [(see 1.4E).](https://gphippard.github.io/Rules_Archival_Description/1-4/#14e-optional-addition-statement-of-function-of-publisher-distributor-etc)
+2. general material designations [(see 1.1C)](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation)
+3. other forms of the place of publication, distribution, [(see 1.4C3 and 1.4C4)](https://communityrad.ca/1-4/#14c3)
+4. statements of function of the publisher, distributor [(see 1.4E).](https://communityrad.ca/1-4/#14e-optional-addition-statement-of-function-of-publisher-distributor-etc)
 
 If the other data are romanized, give interpolations according to the same romanization.
 
