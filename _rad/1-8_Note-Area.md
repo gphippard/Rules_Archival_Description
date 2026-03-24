@@ -10,14 +10,14 @@ toc_sticky: true
 ## 1.8A. Preliminary rule
 
 ### 1.8A1. Scope. 
-For all levels of description, use this area for descriptive information that cannot be fitted into other areas of the description. A general outline of notes is given in 1.8B. Specific applications of 1.8B are provided in other chapters in Part I. When appropriate, combine two or more notes to make one note.
+For all levels of description, use this area for descriptive information that cannot be fitted into other areas of the description. A general outline of notes is given in [1.8B.](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc) Specific applications of [1.8B](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc) are provided in other chapters in Part I. When appropriate, combine two or more notes to make one note.
 
 ### 1.8A2. Punctuation
 Precede each note by a full stop, space, dash, space or start a new paragraph for each.
 Separate introductory wording from the main content of a note by a colon followed but not preceded by a space.
 
 ### 1.8A3. Sources of information. 
-Take data recorded in notes from any suitable source. Use square brackets only for interpolations within quoted material. See also 1.0E.
+Take data recorded in notes from any suitable source. Use square brackets only for interpolations within quoted material. See also [1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ### 1.8A4. Form of presentation of notes
 
@@ -25,10 +25,10 @@ Take data recorded in notes from any suitable source. Use square brackets only f
 If data in a note correspond to data found in the Title and statement of responsibility, Edition, Class of material specific details, Date(s) of creation, including publication, distribution, etc., Physical description, and Series areas, give the elements of the data in the order in which they appear in those areas. In such a case, use prescribed punctuation, except substitute a full stop for a full stop, space, dash, space.
 
 #### 1.8A4b. Quotations, formal notes and informal notes. 
-Follow the instructions set out in 1.7A4.
+Follow the instructions set out in [1.7A4.](https://communityrad.ca/1-7/#17a4-form-of-presentation-of-information)
 
 #### 1.8A4c. Citations in notes. 
-Follow the instructions set out in 1.7A5.
+Follow the instructions set out in [1.7A5.](https://communityrad.ca/1-7/#17a5)
 
 ### 1.8A5. Notes relating to reproduced material. 
 When describing a reproduction, give the notes relating to the reproduction and then the notes relating to the original. Combine the notes relating to the original in one note, giving the details in the order of the areas to which they relate.
@@ -40,13 +40,13 @@ Give notes in the order in which they are listed here. However, give a particula
 ### 1.8B1. Variations in title. 
 Make notes on variant titles appearing outside the prescribed source of information. Make notes on titles by which the unit being described has been traditionally known other than the title proper.
 
->Previously known as Fonds Raoul Dandurand
+>Previously known as Fonds Raoul Dandurand\
 >(Title proper is Fonds Raoul Dandurand et Josephine Marchand)
 >
->Previously known as Jack Hodgins papers
+>Previously known as Jack Hodgins papers\
 >(Title proper is Jack Hodgins fonds)
 >
->Previously known as "S" Series
+>Previously known as "S" Series\
 >(Title proper is Provincial Secretary's fonds)
 
 ### 1.8B2. Source of title proper. 
@@ -80,7 +80,7 @@ Make notes relating to the edition being described or of the relationship of the
 ### 1.8B8. Date(s) of creation, including publication, distribution, etc. 
 Make notes on dates and any details pertaining to the dates of creation, publication, or distribution, of the unit being described that are not included in the Date(s) of creation, including publication, distribution, etc., area and that are considered to be important.
 
->5730 [1969 or 1970]
+>5730 [1969 or 1970]\
 >Note: Dated in accordance with the Jewish calendar
 
 #### 1.8B8a. Date(s) of accumulation or collection. 
@@ -106,13 +106,13 @@ Make notes on the physical condition of the unit being described if that conditi
 If the unit being described has received any specific conservation treatment, e.g., if repair work has been done on it, briefly indicate the nature of the work.
 
 #### 1.8B9c. Accompanying material. 
-Give details of accompanying material not mentioned in the Physical description area (see 1.5E).
+Give details of accompanying material not mentioned in the Physical description area [(see 1.5E).](https://communityrad.ca/1-5/#15e-accompanying-material)
 
 ### 1.8B10. Publisher's series. 
 Make notes on important details of publisher's series that are not included in the Publisher's series area, including variant series titles, incomplete series, and of numbers or letters that imply a series.
 
 ### 1.8B11. Alpha-numeric designations. 
-If desirable, make a note of any important numbers borne by the unit being described other than publisher's series numbers (see 1.6F) or standard numbers (see 1.9).
+If desirable, make a note of any important numbers borne by the unit being described other than publisher's series numbers (see 1.6F) or standard numbers [(see 1.9).](https://communityrad.ca/1-9/)
 
 >Numéro original du reportage Z-35
 
@@ -124,7 +124,7 @@ Record the donor or source (i.e., the immediate prior custodian) from whom the u
 >Acquired from the Social Science Data Archives, Carleton University, with the permission of Canadian Gallup Poll Ltd.
 
 ### 1.8B13. Arrangement. 
-Make notes on the arrangement of the unit being described which contribute significantly to its understanding but cannot be put in the Scope and content (see 1.7D), e.g., about reorganisation(s) by the creator, arrangement by the archivist, changes in the classification scheme, or reconstitution of original order.
+Make notes on the arrangement of the unit being described which contribute significantly to its understanding but cannot be put in the Scope and content [(see 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content), e.g., about reorganisation(s) by the creator, arrangement by the archivist, changes in the classification scheme, or reconstitution of original order.
 
 ### 1.8B14. Language. 
 Record the language or languages of the unit being described, unless they are noted elsewhere or are apparent from other elements of the description. Also note any distinctive alphabets or symbol systems employed.
@@ -202,7 +202,7 @@ Give information regarding the existence of any finding aids. Include appropriat
 If records in another institution are associated with the unit being described by virtue of the fact that they share the same provenance, make a citation to the associated material at the fonds, series or collection level, or for discrete items, indicating its location if known.
 
 ### 1.8B19. Accruals. 
-When the unit being described is not yet complete, e.g., an open fonds or series, make a note explaining that further accruals are expected. If the option in 1.4B4 and 1.5B4 has been chosen, make a note indicating the frequency and volume of accruals. If no further accruals are expected, indicate that the unit is considered closed (see 1.4B4, 1.5B4).
+When the unit being described is not yet complete, e.g., an open fonds or series, make a note explaining that further accruals are expected. If the option in [1.4B4](https://communityrad.ca/1-4/#14b4) and [1.5B4](https://communityrad.ca/1-5/#15b4) has been chosen, make a note indicating the frequency and volume of accruals. If no further accruals are expected, indicate that the unit is considered closed (see [1.4B4,](https://communityrad.ca/1-4/#14b4) [1.5B4](https://communityrad.ca/1-5/#15b4)).
 
 >Further accruals are expected
 >
@@ -211,7 +211,7 @@ When the unit being described is not yet complete, e.g., an open fonds or series
 >This series is transferred annually to the Archives and comprises the annual accumulation of orders-in-council generated five years prior to the year of their transfer. The total linear extent of each transfer averages 30 cm. The first accession acquired in 1964 comprised 25 linear meters
 
 ### 1.8B20. Related groups of records in different fonds external to the unit being described. 
-Indicate groups of records having some significant relationship by reason of shared responsibility or shared sphere of activity in one or more units of material external to the unit being described. For reference to records of the same provenance in other repositories use 1.8B18.
+Indicate groups of records having some significant relationship by reason of shared responsibility or shared sphere of activity in one or more units of material external to the unit being described. For reference to records of the same provenance in other repositories use [1.8B18.](https://communityrad.ca/1-8/#18b18-associated-material)
 
 >Other records relating to the delivery of health care services can be found in the Health Care Services Division files of the Dept. of Health fonds
 
