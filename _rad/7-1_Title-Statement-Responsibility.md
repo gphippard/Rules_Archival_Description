@@ -10,20 +10,20 @@ toc_sticky: true
 ## 7.1A. Preliminary rule
 
 ### 7.1A1. Scope
-See 1.1A1.
+[See 1.1A1.](https://communityrad.ca/1-1/#11a1-scope)
 
 ### 7.1A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Enclose the general material designation in square brackets.
-Precede each parallel title by an equals sign.
-Precede each unit of other title information by a colon.
-Precede the first statement of responsibility by a diagonal slash.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Enclose the general material designation in square brackets.\
+Precede each parallel title by an equals sign.\
+Precede each unit of other title information by a colon.\
+Precede the first statement of responsibility by a diagonal slash.\
 Precede each subsequent statement of responsibility by a semicolon.
 
 ## 7.1B. Title proper
 
 ### 7.1B1. Formal title proper. 
-At all levels of description, transcribe a formal title proper as instructed in 1.1B1.
+At all levels of description, transcribe a formal title proper as instructed in [1.1B1.](https://communityrad.ca/1-1/#11b1-formal-title-proper)
 
 > Les filles de Caleb
 > 
@@ -45,10 +45,10 @@ At all levels of description, transcribe a formal title proper as instructed in 
 > 
 > The national plan of A.R.P.
 > 
-> The royal visit to Canada and the United States ...
+> The royal visit to Canada and the United States ...\
 > Note: Title continues... of America, May 17-June 15, 1939
 > 
-> Consécration épiscopale et première pontificale de son excellence Monseigneur Bruno Desrochers, ...
+> Consécration épiscopale et première pontificale de son excellence Monseigneur Bruno Desrochers, ...\
 > Note: Suite du titre... premier évêque de Ste-Anne, septembre 1951
 > 
 > Sauve qui peut (la vie)
@@ -63,14 +63,14 @@ At all levels of description, transcribe a formal title proper as instructed in 
 > 
 > The red eyes, or, Accidental truths
 > 
-> CBC national news
+> CBC national news\
 > Note: Though often referred to as The national, the formal title proper from 1966 to 1969 was CBC national news. It officially became The national in September 1970
 
 ### 7.1B2. Supplied title proper. 
-At all levels of description, if no formal title appears prominently in or on the chief source of information, compose a brief descriptive title as instructed in 1.1B2-1.1B4.
+At all levels of description, if no formal title appears prominently in or on the chief source of information, compose a brief descriptive title as instructed in [1.1B2-1.1B4.](https://communityrad.ca/1-1/#11b2-supplied-title-proper)
 
 ### 7.1B3. Supplied title proper for a fonds. 
-When describing the fonds as a whole, supply a title proper as instructed in 1.1B3.
+When describing the fonds as a whole, supply a title proper as instructed in [1.1B3.](https://communityrad.ca/1-1/#11b3-supplied-title-proper-for-a-fonds-or-collection)
 
 > Pierre Elliott Trudeau fonds
 > 
@@ -87,29 +87,30 @@ When describing the fonds as a whole, supply a title proper as instructed in 1.1
 > Crawley and Sparks family fonds
 
 ### 7.1B4. Supplied title proper for a part of a fonds (e.g., series, file, item). 
-When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in 1.1B4.
-> Studio D
+When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in [1.1B4.](https://communityrad.ca/1-1/#11b4-supplied-title-proper-for-parts-of-a-fonds-or-collection-eg-series-file-item-or-for-a-series-as-the-highest-level-of-description)
+
+> Studio D\
 > (Name element for a series with the supplied title of Studio D productions that forms part of the National Film Board of Canada fonds)
 > 
-> Jenny Brown and Evelyn Spice
+> Jenny Brown and Evelyn Spice\
 > (Name element for a series with the supplied title of Jenny Brown and Evelyn Spice productions that forms part of the Evelyn and Lawrence W. Cherry fonds)
 > 
-> Interview with Alistair Scott Munro
+> Interview with Alistair Scott Munro\
 > (Item forms part of the Royal Canadian Legion fonds)
 > 
-> Speech by Brian Mulroney
+> Speech by Brian Mulroney\
 > (Item forms part of the Progressive Conservative Party of Canada fonds)
 > 
-> Home movies of Christmas, summer vacation and travel abroad
+> Home movies of Christmas, summer vacation and travel abroad\
 > (Supplied title proper for a series in the Norman Jewison fonds)
 > 
-> Interviews, extraits de nouvelles et discours
+> Interviews, extraits de nouvelles et discours\
 > (Supplied title proper for a series in the Fonds de l'Union nationale)
 
 ## 7.1C. *Optional addition.* General material designation
 
 ### 7.1C1. 
-At all levels of description, immediately following the title proper, give the general material designation moving images, as instructed in 1.1C.
+At all levels of description, immediately following the title proper, give the general material designation moving images, as instructed in [1.1C.](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation)
 
 > Bruce Elder fonds [moving images]
 > 
@@ -126,7 +127,7 @@ At all levels of description, immediately following the title proper, give the g
 ## 7.1D. Parallel titles
 
 ### 7.1D1.
-Transcribe parallel titles as instructed in 1.1D.
+Transcribe parallel titles as instructed in [1.1D.](https://communityrad.ca/1-1/#11d-parallel-titles-)
 
 > Canada at war [GMD] = Le Canada en guerre
 > 
@@ -135,7 +136,7 @@ Transcribe parallel titles as instructed in 1.1D.
 ## 7.1E. Other title information
 
 ### 7.1E1. 
-Transcribe other title information as instructed in 1.1E.
+Transcribe other title information as instructed in [1.1E.](https://communityrad.ca/1-1/#11e-other-title-information)
 
 > One Canadian [GMD] : the political memoirs of the Right Honourable John G. Diefenbaker
 > 
@@ -164,12 +165,16 @@ Transcribe other title information as instructed in 1.1E.
 ## 7.1F. Statements of responsibility [^3]
 
 ### 7.1F1. 
-Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper as instructed in 1.1F. [^4]
+Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper as instructed in [1.1F.](https://communityrad.ca/1-1/#11f-statements-of-responsibility) [^4]
 
 > E.N.G. [GMD] / Alliance Entertainment Corporation
+> 
 > Les filles de Caleb [GMD] / Productions Cité-Amérique Inc.
+> 
 > Goin' down the road [GMD] / Evdon Films Ltd.
+> 
 > Le père Chopin [GMD] / Renaissance Films Inc.
+> 
 > I.F. Stone's weekly [GMD] / by Jerry Bruck Jr.
 
 *Optionally,* for co-productions involving more than one country, give the name of the country in square brackets following the name of each production entity.
@@ -194,7 +199,7 @@ Transcribe explicit statements of responsibility appearing in conjunction with a
 > 
 > Les canots de glace [GMD] / réalisé par Les Films Jean-Claude Labrecque Inc. ; produit pour l'Office du film du Québec
 
-Transcribe statements of responsibility relating to those persons or bodies credited in the chief source of information with a major role in creating a moving image document (e.g., as producer, director, animator). Give all other statements of responsibility (including those relating to performance) in notes (see 7.8B5).
+Transcribe statements of responsibility relating to those persons or bodies credited in the chief source of information with a major role in creating a moving image document (e.g., as producer, director, animator). Give all other statements of responsibility (including those relating to performance) in notes [(see 7.8B5).](https://communityrad.ca/7-8/#78b5-statements-of-responsibility)
 
 [^3]: For moving images, production credits and their functions are synonymous with the concept of statement of responsibility.
 
