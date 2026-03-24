@@ -13,14 +13,13 @@ toc_sticky: true
 Use this area only in item level description to record statements relating to versions of items existing in two or more versions or states in single or multiple copies.
 
 ### 1.2A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede this area by a full stop, space, dash, space.
-Precede the first statement of responsibility following an edition statement by a diagonal slash.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede this area by a full stop, space, dash, space.\
+Precede the first statement of responsibility following an edition statement by a diagonal slash.\
 Precede each subsequent statement of responsibility by a semicolon.
 
 ### 1.2A3. Sources of information. 
-Give in this area information taken from the chief source of information or any other source prescribed for this area in the .0B rules of the
-following chapters. For chief sources of information prescribed for each level of description see the .0B rules in the relevant chapter for the material to which the unit being described belongs.
+Give in this area information taken from the chief source of information or any other source prescribed for this area in the .0B rules of the following chapters. For chief sources of information prescribed for each level of description see the .0B rules in the relevant chapter for the material to which the unit being described belongs.
 
 Enclose information supplied from any other source in square brackets unless instructed to do otherwise in specific rules.
 
@@ -35,7 +34,7 @@ Transcribe the edition statement relating to the item being described. Use abbre
 >
 >Prelim. ed.
 >
->2nd ed.
+>2nd ed.\
 >(Source of information reads: Second edition)
 >
 >Rev. and enl.
@@ -54,12 +53,13 @@ If the item being described lacks an edition statement but is known to contain s
 >
 >[Rev. draft]
 
-**1.2B4.** If the only edition statement appearing on the chief source of information is an integral part of the formal title and has been treated as such, do not repeat it in the edition area.
+### 1.2B4. 
+If the only edition statement appearing on the chief source of information is an integral part of the formal title and has been treated as such, do not repeat it in the edition area.
 
 ## 1.2C. Statements of responsibility relating to the edition
 
 ### 1.2C1. 
-Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the item being described following the edition statement if there is one. Follow the instructions in 1.1F for the transcription and punctuation of such statements.
+Transcribe a statement of responsibility relating to one or more editions, but not to all editions, of the item being described following the edition statement if there is one. Follow the instructions in [1.1F](https://communityrad.ca/1-1/#11f-statements-of-responsibility) for the transcription and punctuation of such statements.
 
 >Genealogy of the Murdoch family [GMD] / compiled by Joseph Murdoch. – Rev. and enl. / by Christina Murdoch-Smith
 
@@ -68,6 +68,6 @@ In case of doubt about whether a statement of responsibility applies to all edit
 
 >The death of spring [GMD] / by Ebenezer Scriven ; edited with an introduction by Lucia Podmorski
 
-When describing the first edition, give all statements of responsibility in the Title and statement of responsibility area (see 1.1F).
+When describing the first edition, give all statements of responsibility in the Title and statement of responsibility area [(see 1.1F)](https://communityrad.ca/1-1/#11f-statements-of-responsibility).
 
 [^13]: For complex edition statements, refer to rule 1.2 in AACR2R.
