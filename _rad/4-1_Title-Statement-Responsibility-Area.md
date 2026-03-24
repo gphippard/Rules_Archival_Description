@@ -10,21 +10,22 @@ toc_sticky: true
 ## 4.1A. Preliminary rule
 
 ### 4.1A1. Scope
-See 1.1A1.
+[See 1.1A1.](https://communityrad.ca/1-1/#11a1-scope)
 
 ### 4.1A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Enclose the general material designation in square brackets.
-Separate general material designation terms with a comma.
-Precede each parallel title by an equals sign.
-Precede each unit of other title information by a colon.
-Precede the first statement of responsibility by a diagonal slash.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Enclose the general material designation in square brackets.\
+Separate general material designation terms with a comma.\
+Precede each parallel title by an equals sign.\
+Precede each unit of other title information by a colon.\
+Precede the first statement of responsibility by a diagonal slash.\
 Precede each subsequent statement of responsibility by a semicolon.
 
 ## 4.1B. Title proper
 
 ### 4.1B1. Formal title proper. 
-At all levels of description, transcribe a formal title proper as instructed in 1.1B1.
+At all levels of description, transcribe a formal title proper as instructed in [1.1B1.](https://communityrad.ca/1-1/#11b1-formal-title-proper)
+
 > National School at Halifax, Nova Scotia
 > 
 > Sainte-Thérèse, 13 juillet 1844
@@ -36,16 +37,17 @@ At all levels of description, transcribe a formal title proper as instructed in 
 > Prince of Wales College Observer staff, 1906-07
 > 
 > School Mental Health Service
-> The right high and most mightie monarch Charles...
+> 
+> The right high and most mightie monarch Charles...\
 > Note: Title continues: ... by the grace of God Kinge of England Scotland France and Ireland defender of the faith, &c.
+> 
 > Pestiche, or, Portrait adapted from El Greco
 
 ### 4.1B2. Supplied title proper. 
-At all levels of description, if no formal title proper
-appears prominently in or on the chief source of information for the unit being described, supply a title as instructed in 1.1B2-1.1B4.
+At all levels of description, if no formal title proper appears prominently in or on the chief source of information for the unit being described, supply a title as instructed in [1.1B2-1.1B4.](https://communityrad.ca/1-1/#11b2-supplied-title-proper)
 
 ### 4.1B3. Supplied title proper for a fonds. 
-When describing the fonds as a whole, supply a title proper as instructed in 1.1B3.
+When describing the fonds as a whole, supply a title proper as instructed in [1.1B3.](https://communityrad.ca/1-1/#11b3-supplied-title-proper-for-a-fonds-or-collection)
 
 > Canadian Government Expositions Centre fonds
 > 
@@ -60,12 +62,12 @@ When describing the fonds as a whole, supply a title proper as instructed in 1.1
 > Buckley family fonds
 
 ### 4.1B4. Supplied title proper for a part of a fonds (e.g., series, file, item). 
-When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in 1.1B4.
+When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in [1.1B4.](https://communityrad.ca/1-1/#11b4-supplied-title-proper-for-parts-of-a-fonds-or-collection-eg-series-file-item-or-for-a-series-as-the-highest-level-of-description)
 
-> Watercolours of wildflowers by Annie L. Prat
+> Watercolours of wildflowers by Annie L. Prat\
 > (Series forms part of Prat, Starr, Morse family fonds)
 >
-> 20th Century Fox photographs of Dionne quintuplets
+> 20th Century Fox photographs of Dionne quintuplets\
 > (Series forms part of William E. Blatz fonds)
 > 
 > Student sketchbooks
@@ -76,7 +78,7 @@ When describing a part of a fonds, e.g., a series, file, or item, which lacks a 
 > 
 > Portrait study drawings and other material
 >
-> Scenes of Oak Island, N.S.
+> Scenes of Oak Island, N.S.\
 > (File of photographic negatives)
 > 
 > Portrait of Joseph Howe
@@ -84,20 +86,20 @@ When describing a part of a fonds, e.g., a series, file, or item, which lacks a 
 > Cominco filmstrip
 
 #### 4.1B4a. 
-When an item lacks a formal title proper and a title is known to exist on another copy, edition, version, or different state of the item, take the title from that copy, edition, etc., if the title is appropriate. Give the source of the title in a note (see 4.8B2).
+When an item lacks a formal title proper and a title is known to exist on another copy, edition, version, or different state of the item, take the title from that copy, edition, etc., if the title is appropriate. Give the source of the title in a note [(see 4.8B2).](https://communityrad.ca/4-8/#48b2-source-of-supplied-title-proper)
 
-> Looking up Main Street, Granville Ferry, N.S.
+> Looking up Main Street, Granville Ferry, N.S.\
 > Note: Title from a reproduction published as a "Nova Scotia Souvenir Post Card"
 
-If the title is not appropriate to the item being described, supply a title. Give the title from the other copy, edition, etc., in a note (see 4.8B1).
+If the title is not appropriate to the item being described, supply a title. Give the title from the other copy, edition, etc., in a note [(see 4.8B1).](https://communityrad.ca/4-8/#48b1-variations-in-title)
 
-> Micmac woman selling crafts in front of wigwams at the Nova Scotia Provincial Exhibition
+> Micmac woman selling crafts in front of wigwams at the Nova Scotia Provincial Exhibition\
 > Note: Later reproduced as a lithographic postcard entitled At the Indian village near Halifax, N.S.
 
 #### 4.1B4b. 
-When the unit being described lacks a formal title proper but has a displayed text (as in the case of some drawings, photographs, posters, etc.), and the displayed text is appropriate to use as a supplied title, treat the text as a supplied title proper. If necessary, abridge a long title proper according to 1.1B1d.
+When the unit being described lacks a formal title proper but has a displayed text (as in the case of some drawings, photographs, posters, etc.), and the displayed text is appropriate to use as a supplied title, treat the text as a supplied title proper. If necessary, abridge a long title proper according to [1.1B1d.](https://communityrad.ca/1-1/#11b1d-abridge-a-long-formal-title-proper)
 
-> J.F. Blanchard & Co., wholesale dry goods and millinery, Truro, N.S.
+> J.F. Blanchard & Co., wholesale dry goods and millinery, Truro, N.S.\
 > (Poster advertising hats made by the company)
 
 If the displayed text cannot be treated as a supplied title proper, supply a title.
@@ -106,14 +108,14 @@ If the displayed text cannot be treated as a supplied title proper, supply a tit
 *Optional addition.* **General material designation**
 
 ### 4.1C1. 
-At all levels of description, immediately following the title proper, give the general material designation graphic material as instructed in 1.1C.
+At all levels of description, immediately following the title proper, give the general material designation graphic material as instructed in [1.1C.](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation)
 
 > Catching lobsters, North Shore [graphic material]
 
 ## 4.1D. Parallel titles
 
 ### 4.1D1. 
-Transcribe parallel titles as instructed in 1.1D.
+Transcribe parallel titles as instructed in [1.1D.](https://communityrad.ca/1-1/#11d-parallel-titles-)
 
 > Image of Canada [GMD] = Visage du Canada
 > 
@@ -125,7 +127,7 @@ Transcribe parallel titles as instructed in 1.1D.
 Other title information
 
 ### 4.1E1. 
-Give other title information as instructed in 1.1E.
+Give other title information as instructed in [1.1E.](https://communityrad.ca/1-1/#11e-other-title-information)
 
 > H.M.S. "Resolute" [GMD] : abandoned 15th May, 1854
 > 
@@ -141,7 +143,7 @@ Give other title information as instructed in 1.1E.
 
 ### 4.1F1. 
 
-Transcribe explicit statements of responsibility as instructed in 1.1F.
+Transcribe explicit statements of responsibility as instructed in [1.1F.](https://communityrad.ca/1-1/#11f-statements-of-responsibility)
 
 > View from the Horton Mountains [GMD] / drawn by Wm. Eagar ; engd. by J. Gellatly
 > 
