@@ -10,7 +10,7 @@ toc_sticky: true
 ## 5.8A. Preliminary rule
 
 ### 5.8A1. Scope. 
-See 1.8A1.
+[See 1.8A1.](https://communityrad.ca/1-8/#18a1-scope)
 <p align="right">(CM 7A)</p>
 
 ### 5.8A2. Punctuation
@@ -19,22 +19,22 @@ Separate introductory wording from the main content of a note by a colon followe
 <p align="right">(CM 7A1)</p>
 
 ### 5.8A3. Form of presentation of notes. 
-See 1.8A4.
+[See 1.8A4.](https://communityrad.ca/1-8/#18a4-form-of-presentation-of-notes)
 
 > Ed. by Josephus Vorstius. – Introd.
 >
 > Produced for the British Commonwealth Air Training Plan. – Sebert, L.M. "Canada's first aeronautical charts and the eight-mile series." Cartographica 23, no.4 (Winter 1986): 97-99
 
 ### 5.8A4. Notes relating to reproduced material. 
-See 1.8A5.
+[See 1.8A5.](https://communityrad.ca/1-8/#18a5-notes-relating-to-reproduced-material)
 
 > Diazo print made from original in Legal Surveys Branch
 
 ## 5.8B. Notes[^36]
-Make notes as instructed in 1.8B and in the following subrules.
+Make notes as instructed in [1.8B](https://communityrad.ca/1-8/#18b-notes) and in the following subrules.
 
-5.8B1. Source of title proper. 
-Specify the location of the formal title proper, if there is more than one formal title in the chief source of information (see 5.1B1). Indicate the source of a supplied title proper (see 1.8B2).
+### 5.8B1. Source of title proper. 
+Specify the location of the formal title proper, if there is more than one formal title in the chief source of information [(see 5.1B1).](https://communityrad.ca/5-1/#51b1-formal-title-proper) Indicate the source of a supplied title proper [(see 1.8B2).](https://communityrad.ca/1-8/#18b2-source-of-title-proper)
 <p align="right">(CM 7B3)</p>
 
 > Title taken from envelope
@@ -70,17 +70,17 @@ Make notes on titles borne by the unit being described other than the title prop
 > (*Title proper in Russian Cyrillic script*)
 
 ### 5.8B3. Parallel titles and other title information. 
-Make notes on parallel titles in another language and other title information as instructed in 1.8B3.
+Make notes on parallel titles in another language and other title information as instructed in [1.8B3.](https://communityrad.ca/1-8/#18b3-parallel-titles-and-other-title-information)
 <p align="right">(CM 7B5)</p>
 
 ### 5.8B4. Continuation of title. 
-Complete the transcription of the title as instructed in 1.8B4.
+Complete the transcription of the title as instructed in [1.8B4.](https://communityrad.ca/1-8/#18b4-continuation-of-title)
 <p align="right">(CM 7B6 mod.)</p>
 
 > By permission dedicated to the Honble. Hudson Bay Company; containing the latest information which their documents furnish.
 
 ### 5.8B5. Statement(s) of responsibility. 
-Make notes on statements of responsibility as instructed in 1.8B5. Make notes on variant names of persons or bodies named in statements of responsibility if these are considered to be important for identification. Include statements identifying an indirect contributor, if desired. Make notes on significant persons or bodies connected with previous editions and not already named in the description.
+Make notes on statements of responsibility as instructed in [1.8B5.](https://communityrad.ca/1-8/#18b5-statements-of-responsibility) Make notes on variant names of persons or bodies named in statements of responsibility if these are considered to be important for identification. Include statements identifying an indirect contributor, if desired. Make notes on significant persons or bodies connected with previous editions and not already named in the description.
 
 > Copied by H.J. Cundall, L.S.
 >
@@ -98,7 +98,7 @@ Make notes on signatures, inscriptions, or marks, monograms, etc. If important, 
 > Signed: James Hector, M.C. fecit.
 
 ### 5.8B7. Attribution and conjectures. 
-Make notes on attributions, etc., as instructed in 1.8B6.
+Make notes on attributions, etc., as instructed in [1.8B6.](https://communityrad.ca/1-8/#18b6-attributions-and-conjectures)
 
 > Certain authors have attributed this to Clouet\
 > *(Author added entry for Jean-Baptiste-Louis Clouet)*
@@ -106,7 +106,7 @@ Make notes on attributions, etc., as instructed in 1.8B6.
 > Distribution information added in black ink, probably at the Dept. of the Interior ca. 1920-1930 on a printed base map
 
 ### 5.8B8. Edition. 
-Make notes relating to the edition being described as instructed in 1.8B7. Give limited edition statements here including, if desired, the copy number.
+Make notes relating to the edition being described as instructed in [1.8B7.](https://communityrad.ca/1-8/#18b7-edition) Give limited edition statements here including, if desired, the copy number.
 <p align="right">(CM 7B7a)</p>
 
 > Original maps produced by Surveys and Mapping Branch, Dept. of Energy, Mines and Resources between 1956 and 1987
@@ -165,7 +165,7 @@ Give mathematical data for remote-sensing images that is not already included in
 > Imagery recorded in discrete spectral bands with multispectral scanner (MSS) on NASA LANDSAT-1 (formerly ERTS-1). Orbital altitude 920 km (570 mi.)
 
 ### 5.8B10. Date(s) of creation, including publication, distribution, etc. 
-Make notes on dates and other details of creation, publication, distribution, etc., as instructed in 1.8B8.
+Make notes on dates and other details of creation, publication, distribution, etc., as instructed in [1.8B8.](https://communityrad.ca/1-8/#18b8-dates-of-creation-including-publication-distribution-etc)
 <p align="right">(CM 7B9)</p>
 
 > Date "1901" in pencil near eastern edge
@@ -178,7 +178,7 @@ Make notes on dates and other details of creation, publication, distribution, et
 > *(Date on t.p.:* 1508)
 
 #### 5.8B10a. Date(s) of accumulation. 
-Make notes as instructed in 1.8B8a.
+Make notes as instructed in [1.8B8a.](https://communityrad.ca/1-8/#18b8a-dates-of-accumulation-or-collection)
 
 ### 5.8B11. Physical description. 
 Make notes on important physical details that are not included in the physical description area, or elsewhere in the description, especially if these affect the use of the unit being described.[^37] If the physical description area records elements prescribed by another chapter, give here the physical description elements prescribed by the current chapter, as appropriate. If the unit being described is a photoreproduction, give the method of reproduction if it is likely to affect the use of the unit being described (e.g., when it is a blueline print).
@@ -214,27 +214,27 @@ Make notes on material which is known to be lacking (e.g., missing sheets of a m
 > Lacks t.p., and map 6, Hispania. Map A, Totius fluminis Rheni novissima is inserted between maps 9 and 10. Ms. additions. In box
 
 #### 5.8B11b. Conservation.[^38]
-Make notes on conservation as instructed in 1.8B9b.
+Make notes on conservation as instructed in [1.8B9b.](https://communityrad.ca/1-8/#18b9b-conservation)
 
 > Copy remounted and conserved
 >
 > Originally issued folded. Remounted and conserved
 
 #### 5.8B11c. Accompanying material. 
-Make notes on the location of accompanying material as instructed in 1.8B9c.
+Make notes on the location of accompanying material as instructed in [1.8B9c.](https://communityrad.ca/1-8/#18b9c-accompanying-material)
 
 > Each map is accompanied by a descriptive report
 >
 > Accompanied by explanatory text (5 p.). Notes by Basil Stuart-Stubbs; translation by John Gray
 
 ### 5.8B12. Publisher's series. 
-Make notes on publisher's series data as instructed in 1.8B10.
+Make notes on publisher's series data as instructed in [1.8B10.](https://communityrad.ca/1-8/#18b10-publishers-series)
 <p align="right">(CM 7B12)</p>
 
 > Topographic maps belong to various series: France 1:40 000. GSGS 2743 – Vimy. GSGS 3062 – [France and Belgium 1:100 000]. GSGS 2364
 
 ### 5.8B13. Alpha-numeric designations. 
-Make a note of any important numbers borne by the unit as instructed in 1.8B11.
+Make a note of any important numbers borne by the unit as instructed in [1.8B11.](https://communityrad.ca/1-8/#18b11-alpha-numeric-designations)
 <p align="right">(CM 7B19)</p>
 
 > Stencilled and stamped in lower margin: 4T2 Victoria Town
@@ -248,17 +248,17 @@ Make a note of any important numbers borne by the unit as instructed in 1.8B11.
 > Projects: P32-77, P46-78
 
 ### 5.8B14. Immediate source of acquisition. 
-Make notes on the donor or source as instructed in 1.8B12.
+Make notes on the donor or source as instructed in [1.8B12.](https://communityrad.ca/1-8/#18b12-immediate-source-of-acquisition)
 
 > Transferred from the Water Management Branch, May 1981
 
 ### 5.8B15. Arrangement. 
-Make notes on the arrangement as instructed in 1.8B13.
+Make notes on the arrangement as instructed in [1.8B13.](https://communityrad.ca/1-8/#18b13-arrangement)
 
 > Arranged by file number
 
 5.8B16. Language and script. 
-Make notes on the language as instructed in 1.8B14.
+Make notes on the language as instructed in [1.8B14.](https://communityrad.ca/1-8/#18b14-language)
 <p align="right">(CM7B2)</p>
 
 > In German
@@ -281,21 +281,21 @@ Make notes on the language as instructed in 1.8B14.
 ### 5.8B17. Originals and reproductions
 
 #### 5.8B17a. Location of originals.[^39]
-Make notes on the location of the original material as instructed in 1.8B15a.
+Make notes on the location of the original material as instructed in [1.8B15a.](https://communityrad.ca/1-8/#18b15a-location-of-originals)
 
 > This map is apparently a hand copy of a map in 5 sections prepared by James Turnbull of the Royal Engineers. The original of Turnbull's map is in the Legal Surveys, Roads and trails series, 14T1. A copy is in the Map Collection (CM/C915)
 >
 > Original maps produced by Surveys and Mapping Branch, Dept. of Energy, Mines and Resources between 1956 and 1987
 
 #### 5.8B17b. Availability of other formats. 
-Give the details of other formats in which the content of the unit being described is available as instructed in 1.8B15b.
+Give the details of other formats in which the content of the unit being described is available as instructed in [1.8B15b.](https://communityrad.ca/1-8/#18b15b-availability-of-other-formats)
 <p align="right">(CM 7B16)</p>
 
 > A microform copy of this series is available\
 > (reels B1850-B1853)
 
 ### 5.8B18. Restrictions on access, use, reproduction, and publication. 
-Make notes as instructed in 1.8B16.
+Make notes as instructed in [1.8B16.](https://communityrad.ca/1-8/#18b16-restrictions-on-access-use-reproduction-and-publication-)
 
 > Reproductions for research purposes only
 >
@@ -304,29 +304,29 @@ Make notes as instructed in 1.8B16.
 > These cartographic documents cannot be reproduced without the written permission of the donor Mr. Guy Gérin-Lajoie. This restriction is in effect until June 14, 2005
 
 ### 5.8B19. Finding aids. 
-Make notes as instructed in 1.8B17.
+Make notes as instructed in [1.8B17.](https://communityrad.ca/1-8/#18b17-finding-aids)
 
 > An itemized listing is available
 
 ### 5.8B20. Associated material. 
-Make notes as instructed in 1.8B18.
+Make notes as instructed in [1.8B18.](https://communityrad.ca/1-8/#18b18-associated-material)
 <p align="right">(CM 7B14)</p>
 
 > The Service de cadastre of Montréal has documents related to land management. The Service d'ingénierie also has documents related to land management. The latter documents are kept at the Service des archives de la ville de Montréal
 
 ### 5.8B21. Accruals. 
-Make notes as instructed in 1.8B19.
+Make notes as instructed in [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
 > The map section of the Ministère des transports will transfer their maps, etc., every 10 years
 
 ### 5.8B22. Related groups of records in different fonds. 
-Make notes regarding related groups of records as instructed in 1.8B20. Also give this information at the file or item level of description if significant.
+Make notes regarding related groups of records as instructed in [1.8B20.](https://communityrad.ca/1-8/#18b20-related-groups-of-records-in-different-fonds-external-to-the-unit-being-described) Also give this information at the file or item level of description if significant.
 
 > These maps link to O series correspondence in the Department of Lands, Forest, and Water Resources fonds\
 > (*Title proper of the series is Mineral titles reference maps*)
 
 #### 5.8B22a. Related groups of records within the same fonds. 
-Make notes regarding related groups of records within the same fonds as instructed in 1.8B20a.
+Make notes regarding related groups of records within the same fonds as instructed in [1.8B20a.](https://communityrad.ca/1-8/#18b20a-related-groups-of-records-within-the-same-fonds-series-or-collection)
 
 ### 5.8B23. Reference to published descriptions. 
 For incunabula, and for other cartographic items, give the place in standard lists or reference works where the description of the material is to be found. Make this note in standard and abbreviated form.
@@ -337,7 +337,7 @@ For incunabula, and for other cartographic items, give the place in standard lis
 > References: Phillips 4339
 
 ### 5.8B24. General note. 
-Use this note to record other descriptive information as instructed in 1.8B21.
+Use this note to record other descriptive information as instructed in [1.8B21.](https://communityrad.ca/1-8/#18b21-general-note)
 
 [^36]: For other notes such as those for intellectual level (audience) and for "with" notes, see CM, 7B14 and 7B21.
 
