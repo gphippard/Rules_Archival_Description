@@ -10,19 +10,19 @@ toc_sticky: true
 ## 4.5A. Preliminary rule
 
 ### 4.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 4.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each physical description by a full stop, space, dash, space or start a new paragraph. [^2]
-Precede other physical details (i.e., other than extent or dimensions) by a colon.
-Separate each part of the description of other physical details by a comma, conjunction, or preposition.
-Precede dimensions by a semicolon.
-Precede each statement of accompanying material by a plus sign.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede each physical description by a full stop, space, dash, space or start a new paragraph. [^2]\
+Precede other physical details (i.e., other than extent or dimensions) by a colon.\
+Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
+Precede dimensions by a semicolon.\
+Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 4.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 4.5B. Extent of descriptive unit (including specific material designation)
 
@@ -44,7 +44,7 @@ At all levels of description, record the extent of the unit being described by g
 
 > ca. 11,000 photographs
 
-*Optionally,* record the number of containers or volumes, or the linear extent followed by the phrase *of graphic material.* If the general material designation is used (see 4.1C) omit the phrase *of graphic material.*
+*Optionally,* record the number of containers or volumes, or the linear extent followed by the phrase *of graphic material.* If the general material designation is used [(see 4.1C)](https://communityrad.ca/4-1/#41c) omit the phrase *of graphic material.*
 
 > 23 boxes of graphic material
 > 
@@ -69,19 +69,19 @@ Optional addition.* If more detail is desired, give a separate and complete phys
 > ca. 500 drawings ; 18 x 26 cm or smaller. - 20 photographs : b&w ; 7 x 9 cm
 
 ### 4.5B4.
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other graphic material and describe the remaining material in a note (see 4.8B11). Omit other physical details and
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other graphic material and describe the remaining material in a note [(see 4.8B11).](https://communityrad.ca/4-8/#48b11-physical-description) Omit other physical details and
 dimensions in this area.
 
-> 50 watercolours and other graphic material
+> 50 watercolours and other graphic material\
 > Note: Also includes 10 photographs, 6 drawings, 3 filmstrips and 1 painting (oil on canvas)
 
 ### 4.5B5. Accruals. 
-For graphic material at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation if applicable as instructed in 1.5B4. See also 1.8B19.
+For graphic material at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation if applicable as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) See also [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
-> 20 m of graphic material
+> 20 m of graphic material\
 > Note: Further accruals are expected
 > 
-> photographs
+> photographs\
 > Note: Since 1980, ca. 10,000 photographs have been transferred to the archives every five years
 
 ## 4.5C. Other physical details
@@ -93,7 +93,7 @@ At all levels of description, if appropriate and readily ascertainable, give any
 > 
 > 36 photographs : filmstrip
 
-*Alternatively,* give such information in a note (see 4.8B11).
+*Alternatively,* give such information in a note [(see 4.8B11).](https://communityrad.ca/4-8/#48b11-physical-description)
 
 ### 4.5C2. Medium, support, process, etc.
 Give additional details regarding the medium, base or support, process, method of reproduction, or other technical specification. Indicate if the graphic unit being described is of reverse polarity or is double sided.
@@ -115,9 +115,9 @@ When multiple techniques, processes, etc., are identified, name each, with the p
 > 
 > 1 drawing : pen and brown ink over pencil, with touches of watercolour
 
-When multiple techniques, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms "various media," "multiple processes," or other phrase, as appropriate and give the details in a note (see 4.8B11).
+When multiple techniques, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms "various media," "multiple processes," or other phrase, as appropriate and give the details in a note [(see 4.8B11).](https://communityrad.ca/4-8/#48b11-physical-description)
 
-> 1 print : multiple processes
+> 1 print : multiple processes\
 > Note: Processes include etching, mezzotint, drypoint, reversed soft ground engraving, electric stippler, scraping, and burnishing
 > 
 > 80 photographs : multiple processes
@@ -156,7 +156,7 @@ Optionally, give an explanatory phrase, including trade names, in parentheses af
 ## 4.5D. Dimensions
 
 ### 4.5D1. 
-Record the dimensions, of the physical unit(s) [^5] being described. Give the dimensions of square or rectilinear physical units in the form height x width. The side for height and the side for width are determined with reference to the position in which the graphic material would be viewed. For circular shapes, give the diameter, followed by the abbreviation "diam." in parentheses. For oval shapes, give the major and minor axes, followed in parentheses by the word "oval". Give the dimensions of irregular shapes, measured at the greatest points, in the form height x width, diameter, or major and minor axes, as most appropriate, followed by the abbreviation "irreg." in parentheses. If appropriate, add a word or phrase which describes the shape. Give the dimensions of containers (see 4.5B1) in the form height x width x depth.
+Record the dimensions, of the physical unit(s) [^5] being described. Give the dimensions of square or rectilinear physical units in the form height x width. The side for height and the side for width are determined with reference to the position in which the graphic material would be viewed. For circular shapes, give the diameter, followed by the abbreviation "diam." in parentheses. For oval shapes, give the major and minor axes, followed in parentheses by the word "oval". Give the dimensions of irregular shapes, measured at the greatest points, in the form height x width, diameter, or major and minor axes, as most appropriate, followed by the abbreviation "irreg." in parentheses. If appropriate, add a word or phrase which describes the shape. Give the dimensions of containers [(see 4.5B1)](https://communityrad.ca/4-5/#45b1) in the form height x width x depth.
 
 > 1 painting : oil on canvas ; 222 x 260 cm
 > 
@@ -206,7 +206,7 @@ Folded or rolled items. When a physical unit is designed to be folded, give the 
 ### 4.5D5. Sight measurements and framed items. 
 When a part of the unit being described is not visible because of a non-removable mat, frame, or other integral container or mounting, give the sight measurements followed by the word "sight" in parentheses. *Optionally,* add the dimensions of the mat, frame, etc., specified as such.
 
-> 1 print : lithograph ; 26 x 30 cm (sight) in mat 34 x 38 cm
+> 1 print : lithograph ; 26 x 30 cm (sight) in mat 34 x 38 cm\
 > (Window mat and backing are glued together)
 > 
 > 1 photograph : daguerreotype ; 7 x 6 cm (oval, sight) in case 11 x 9 cm
@@ -216,7 +216,7 @@ When a part of the unit being described is not visible because of a non-removabl
 ## 4.5E. Accompanying material
 
 ### 4.5E1. 
-Give details of accompanying material as instructed in 1.5E1.
+Give details of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1)
 
 > 1 photograph : b&w ; 6 x 6 cm + 1 identification key
 > 
@@ -229,7 +229,7 @@ Give details of accompanying material as instructed in 1.5E1.
 
 [^4]: The graphic materials for which these rules are intended have illustration as an almost invariable property. Accordingly, no statement regarding the presence of illustrations is made in this area.
 
-[^5]: In measuring the dimensions of the sheet, support, etc., do not include a mat, frame, or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in 4.5D5.
+[^5]: In measuring the dimensions of the sheet, support, etc., do not include a mat, frame, or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in [4.5D5.](https://communityrad.ca/4-5/#45d5-sight-measurements-and-framed-items)
 
 
 
