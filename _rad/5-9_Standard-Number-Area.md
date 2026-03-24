@@ -19,7 +19,7 @@ Precede this area by a full stop, space, dash, space or start a new paragraph.
 ## 5.9B. Standard number
 
 ### 5.9B1. 
-See 1.9B.
+[See 1.9B.](https://communityrad.ca/1-9/#19b-standard-number)
 <p align="right">(CM 8B1)</p>
 
 > ISBN 0-66258-757-X
