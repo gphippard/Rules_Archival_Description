@@ -10,32 +10,32 @@ toc_sticky: true
 ## 6.5A. Preliminary rule
 
 ### 6.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 6.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede this area by a full stop, space, dash, space or start a new paragraph. [^8]
-Precede other physical details by a colon.
-Separate each part of the description of other physical details by a comma, conjunction, or preposition.
-Precede dimensions by a semicolon.
-Precede each statement of accompanying material by a plus sign.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede this area by a full stop, space, dash, space or start a new paragraph. [^8]\
+Precede other physical details by a colon.\
+Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
+Precede dimensions by a semicolon.\
+Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 6.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 6.5B. Extent of descriptive unit (including specific material designation)
 
 ### 6.5B1. 
 At all levels of description, record the extent of the unit being described[^9] by giving the number of physical units that comprise it. Use arabic numerals followed by one of the terms recommended listed below.
 
-> architectural drawing
-> diagram
-> model
-> presentation panel
-> sketchbook
-> technical drawing
-> 
++ architectural drawing
++ diagram
++ model
++ presentation panel
++ sketchbook
++ technical drawing
+
 > 62 architectural drawings
 > 
 > 1 technical drawing
@@ -58,7 +58,7 @@ If the parts of the unit being described are very numerous and the exact number 
 > 
 > 4 m of technical drawings
 
-If the general material designation is used (see 6.1C), omit architectural and/or *technical* from the specific material designation.
+If the general material designation is used [(see 6.1C),](https://communityrad.ca/6-1/#61c-optional-addition-general-material-designation) omit architectural and/or *technical* from the specific material designation.
 
 > 0.7 m<sup>3</sup> of drawings
 > 
@@ -84,26 +84,26 @@ When the unit being described contains parts that fall into three or fewer speci
 > 5 technical drawings : blueprint ; 25 x 42 cm
 
 ### 6.5B3. 
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other architectural and technical drawing and describe the remaining material in a note (see 6.8B11). Omit other physical details and dimensions in this area.
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other architectural and technical drawing and describe the remaining material in a note [(see 6.8B11).](https://communityrad.ca/6-8/#68b11-physical-description) Omit other physical details and dimensions in this area.
 
-> 3614 architectural drawings and other architectural and technical drawing
+> 3614 architectural drawings and other architectural and technical drawing\
 > Note: Also includes 65 microfiches, 36 photographs and 20 maps
 
 *Optional addition.* If more detail is desired, give a separate and complete physical description for each special class of material.
 
 ### 6.5B4. Accruals. 
-For architectural and technical materials described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in 1.5B4.[^11]
+For architectural and technical materials described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) [^11]
 
-> 300 architectural drawings
+> 300 architectural drawings\
 > Note: Accruals are expected
 > 
-> or architectural drawings
+> or architectural drawings\
 > Note: Accruals are expected
 > 
-> 500 technical drawings
+> 500 technical drawings\
 > Note: Accruals are expected
 > 
-> or technical drawings
+> or technical drawings\
 > Note: Accruals are expected
 
 ### 6.5B5. *Optional addition.* Multiple drawings on one or more sheets. 
@@ -131,21 +131,21 @@ If the unit being described is comprised of base drawing(s) with overlays, or co
 > 10 architectural drawings (9 with overlays)
 
 ### 6.5B7. 
-If an architectural or technical drawing falls within the scope of another chapter (e.g., microforms), give the physical details prescribed in the current chapter in the Scope and content (see 6.7D), or in a note (see 6.8B11), as appropriate.
+If an architectural or technical drawing falls within the scope of another chapter (e.g., microforms), give the physical details prescribed in the current chapter in the Scope and content [(see 6.7D)](https://communityrad.ca/6-7/#67d-scope-and-content), or in a note [(see 6.8B11)](https://communityrad.ca/6-8/#68b11-physical-description), as appropriate.
 
 ## 6.5C. Other physical details
 
 ### 6.5C1. 
 At all levels of description, give the following details, as appropriate, and if readily ascertainable, in the order set out here:
 
-> layout
-> method of production or reproduction
-> medium
-> material
-> colour
-> illustration
-> mounting
-> 
++ layout
++ method of production or reproduction
++ medium
++ material
++ colour
++ illustration
++ mounting
+
 > 7 architectural drawings : 6 blueline prints, 1 blackline print
 > 
 > 16 architectural drawings : 4 ink on tracing paper and 12 blueline prints
@@ -160,7 +160,7 @@ At all levels of description, give the following details, as appropriate, and if
 > 
 > 10 architectural drawings : pencil and ink, on tracing paper, 1 photocopy reverse image
 > 
-> 15 architectural drawings : pencil (11 on tracing paper)
+> 15 architectural drawings : pencil (11 on tracing paper)\
 >(The other 4 are on regular paper)
 > 
 > 6 architectural drawings : blueline prints, hand col.
@@ -169,9 +169,9 @@ Combine the above details, if required, to avoid ambiguity, in the order which m
 
 > 12 architectural drawings : 4 pencil and pen on tracing paper (1 in col.), 3 blackline prints, 5 brownline prints
 
-If more detail is required, give it in the Scope and content (6.7D) or in a note (see 6.8B11).
+If more detail is required, give it in the Scope and content (6.7D) or in a note [(see 6.8B11).](https://communityrad.ca/6-8/#68b11-physical-description)
 
-> 64 architectural drawings
+> 64 architectural drawings\
 > Note: Project includes 38 in ink and pencil on tracing paper (4 in col.); 16 blueline prints; 7 negative image reproductions and 2 photographs. One item is on a mixed base, including tissue paper, ozalid paper and photographic paper
 
 ### 6.5C2. Layout. 
@@ -203,7 +203,7 @@ If the unit has been annotated, use *annotations,* if desired.
 > 1 architectural drawing : diazo, ms. annotations
 
 ### 6.5C4. Medium. 
-If desired, give the medium (e.g., watercolour, pastels, felt-tip pen, pencil, ink) used to draw and colour manuscript drawings. If a reproduced drawing is hand coloured, the medium used for the colouring may be recorded after the indication of colour (see 6.5C6).
+If desired, give the medium (e.g., watercolour, pastels, felt-tip pen, pencil, ink) used to draw and colour manuscript drawings. If a reproduced drawing is hand coloured, the medium used for the colouring may be recorded after the indication of colour [(see 6.5C6).](https://communityrad.ca/6-5/#65c6-colour)
 
 > 4 architectural drawings : pencil, on tracing paper
 > 
@@ -299,7 +299,7 @@ If the unit being described is in a container, name the container and give its d
 ## 6.5E. Accompanying material
 
 ### 6.5E1. 
-Give details of accompanying material as instructed in 1.5E1.
+Give details of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1)
 
 [^8]: This punctuation is repeated for each physical description.
 
@@ -307,6 +307,6 @@ Give details of accompanying material as instructed in 1.5E1.
 
 [^10]: Institutions are encouraged to use the recommended list. If, for whatever reason, an institution chooses not to follow the list given here it should, nevertheless, establish a policy regarding the nomenclature used for specific material designations. For examples of terms identifying specific classes of architectural material, see Toni Peterson, dir., Art and Architecture Thesaurus (New York: Oxford University Press on behalf of the Paul Getty Trust, 1990), or Vicki Porter and Robin Thornes. A Guide to the Description of Architectural Drawings. (New York: Published on behalf of the Getty Art History Information Program [by] G.K. Hall, c1994).
 
-[^11]: Combine all notes created in conjunction with 1.4B4 and 1.5B4 in one note (see 1.8B19).
+[^11]: Combine all notes created in conjunction with [1.4B4](https://communityrad.ca/1-4/#14b4) and [1.5B4](https://communityrad.ca/1-5/#15b4) in one note [(see 1.8B19).](https://communityrad.ca/1-8/#18b19-accruals)
 
-[^12]: In measuring the dimensions of a sheet, support, etc., do not include a mat, frame or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in 6.5D6.
+[^12]: In measuring the dimensions of a sheet, support, etc., do not include a mat, frame or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in [6.5D6.](https://communityrad.ca/6-5/#65d6-sight-measurements-and-framed-items)
