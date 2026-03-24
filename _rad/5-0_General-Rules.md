@@ -10,7 +10,7 @@ toc_sticky: true
 ## 5.0A. Preliminary rule
 
 ### 5.0A1. Scope. 
-The rules in this chapter cover the description of published and unpublished cartographic materials which constitute a fonds or a part thereof as instructed in 1.0A1. Cartographic materials are any documents that represent the whole or part of the earth or any celestial body, normally to scale. Included are two- and three- dimensional maps and plans; aeronautical, navigational, and celestial charts; globes; block diagrams; sections; remote sensing images (e.g., aerial photographs with a cartographic purpose); atlases; and map views.[^1]
+The rules in this chapter cover the description of published and unpublished cartographic materials which constitute a fonds or a part thereof as instructed in [1.0A1.](https://communityrad.ca/1-0/#10a1-scope) Cartographic materials are any documents that represent the whole or part of the earth or any celestial body, normally to scale. Included are two- and three- dimensional maps and plans; aeronautical, navigational, and celestial charts; globes; block diagrams; sections; remote sensing images (e.g., aerial photographs with a cartographic purpose); atlases; and map views.[^1]
 
 For records falling within the scope of other chapters but presenting cartographic information (e.g., geomatic data sets), consult the rules in this chapter in conjunction with those of the chapter appropriate to the records.
 
@@ -47,11 +47,11 @@ The prescribed source(s) of information for each area of description of cartogra
 | Standard number | Any source | Any source |
 
 ## 5.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.\
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 5.0D. Levels of detail in the description
-See 1.0D.\
+[See 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)\
 For the first level of detail for the fonds, series and file levels include only the scale in the mathematical data area.
 
 > Title proper / first statement of responsibility[^5]. – Edition statement. – Scale. – Dates(s) of creation, or first place of publication, distribution, etc., : name of first publisher, distributor, etc., date(s) of publication, distribution, etc. – Extent of descriptive unit. – (Title proper of series ; numbering within series). – Custodial history. – Scope and content. – Note(s). – Standard number.
@@ -59,19 +59,19 @@ For the first level of detail for the fonds, series and file levels include only
 At the first and second level of detail, when describing a published cartographic series or file as an item, include the elements prescribed in 1.0D3, if appropriate.
 
 ## 5.0E. Language and script of the description
-Follow the instructions in 1.0E1. Give mathematical data in the language and script of the institution providing the description; an original statement of scale, projection, etc., may be transcribed in a note (5.8B9).
+Follow the instructions in [1.0E1.](https://communityrad.ca/1-0/#10e1) Give mathematical data in the language and script of the institution providing the description; an original statement of scale, projection, etc., may be transcribed in a note [(5.8B9).](https://communityrad.ca/5-8/#58b9-mathematical-and-other-cartographic-data)
 
 <p align="right">(CM 0E, *Application*)</p>
 
 ## 5.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 > Charlottetown [sic] station
 >
 > Trace no. 2 from Slater's nth [i.e. north] shore of Lake Huron : base, meridian & range series
 
 ## 5.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: Additional rules and application guidelines pertinent to the description of cartographic materials within fonds, particularly at the item level of description, are found in *Cartographic Materials: A Manual of Interpretation for AACR2.* Hugo Stibbe, Vivien Cartmell and Velma Parker, editors (Ottawa: Canadian Library Association, 1982). When a rule in this chapter is supported in Cartographic Materials by particularly useful information, a footnote reference is provided in the form: CM, [CM rule number].
 
@@ -79,3 +79,6 @@ See 1.0G.
 
 [^3]: Further guidance for the chief source of information for atlases is provided in *CM*, 0B.
 
+[^4]: Guidance for the prescribed sources of information of atlases is provided in *CM,* 0B.
+
+[^5]: If the statements of responsibility are arranged decoratively, choose the statement which is given the greatest prominence by layout or typography.
