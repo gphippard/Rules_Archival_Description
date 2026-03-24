@@ -19,11 +19,11 @@ The Custodial history gives information about the chain of agencies, officers, o
 The Scope and content gives, whenever relevant, information about the scope of the records in terms of the sphere or kinds of activities generating them, the period of time, and geographical area to which they pertain; about the internal structure of the records in terms of their arrangement, organization, classification and documentary forms; and about the substantive matters to which the records pertain.
 
 ### 1.7A2. Punctuation
-Precede each element of description by a full stop, space, dash, space or start a new paragraph for each element of description.
+Precede each element of description by a full stop, space, dash, space or start a new paragraph for each element of description.\
 Separate introductory wording of an element of description from the main content by a colon followed but not preceded by a space.
 
 ### 1.7A3. Sources of information. 
-Take data recorded in this area from any suitable source. Use square brackets only for interpolations within quoted material. See also rule 1.0E.
+Take data recorded in this area from any suitable source. Use square brackets only for interpolations within quoted material. See also rule [1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ### 1.7A4. Form of presentation of information
 
@@ -40,7 +40,7 @@ Informal presentation of information. When making an informal presentation, use 
 >Group and individual portraits showing unidentified residents of several Glengarry and Stormont County communities: Fassifern, Grantly, Lancaster, St. Andrews and Williamstown
 
 #### 1.7A4c. 
-Structure of the elements. Structure the Administrative history/Biographical sketch by presenting the information in the order prescribed by the sequence of the sub-elements as instructed in 1.7B rules.
+Structure of the elements. Structure the Administrative history/Biographical sketch by presenting the information in the order prescribed by the sequence of the sub-elements as instructed in [1.7B](https://communityrad.ca/1-7/#17b-administrative-historybiographical-sketch-) rules.
 
 *Optionally,* record information prescribed in the sub-elements, but not necessarily in their sequence, in narrative form. Establish this option at the highest level of description and exercise it consistently for all applicable parts.
 
@@ -57,20 +57,20 @@ At the highest level of description give information about the history of the co
 
 Do not create an administrative history at subordinate levels unless the creator at that level is different from the creator of the higher level. When primary responsibility for the creation and/or accumulation and use of a unit being described is shared between two or more corporate bodies, create separate administrative histories for each corporate body.
 
-Do not create an administrative history for a collection assembled by an archival repository. Where this information is relevant to understanding the collection, it should be presented as a general note (see 1.8B21).
+Do not create an administrative history for a collection assembled by an archival repository. Where this information is relevant to understanding the collection, it should be presented as a general note [(see 1.8B21)](https://communityrad.ca/1-8/#18b21-general-note).
 
-Give information relevant to the understanding of the creator's functions, activities, and relations with other corporate bodies as instructed in the following sub-elements. Put information about documentary processes and procedures important to the understanding of the records and of their creation in the Scope and content (see rule 1.7D).
+Give information relevant to the understanding of the creator's functions, activities, and relations with other corporate bodies as instructed in the following sub-elements. Put information about documentary processes and procedures important to the understanding of the records and of their creation in the Scope and content [(see rule 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content).
 
->Administrative history: By order-in-council dated 25 August 1987 the Nova Scotia Royal Commission on Health Care was established to undertake a comprehensive review of the health care system, including issues of cost and efficiency. The Commission's primary activities centred around public hearings, research and consultations with a variety of health care officials. Its report was submitted on 8 December 1989 and the Commission was dissolved
+>Administrative history: By order-in-council dated 25 August 1987 the Nova Scotia Royal Commission on Health Care was established to undertake a comprehensive review of the health care system, including issues of cost and efficiency. The Commission's primary activities centred around public hearings, research and consultations with a variety of health care officials. Its report was submitted on 8 December 1989 and the Commission was dissolved\
 >(Administrative history in a narrative form for the fonds level description of the Nova Scotia Royal Commission on Health Care fonds)
 >
->The Statistics Office began as the office of the Secretary of the Board of Statistics in 1851. The Statistics Office was responsible for conducting the censuses of 1851 and 1861. With the passage of the Registration Act of 1864 it administered the registration of births, marriages and deaths for the colony. After confederation in 1867, it became the local office of the Statistics Branch of the federal Department of Agriculture and Statistics and served as the Nova Scotia administrative office for the 1871 census
+>The Statistics Office began as the office of the Secretary of the Board of Statistics in 1851. The Statistics Office was responsible for conducting the censuses of 1851 and 1861. With the passage of the Registration Act of 1864 it administered the registration of births, marriages and deaths for the colony. After confederation in 1867, it became the local office of the Statistics Branch of the federal Department of Agriculture and Statistics and served as the Nova Scotia administrative office for the 1871 census\
 >(Administrative history in a narrative form for a series forming part of the Nova Scotia Registrar General of Vital Statistics fonds)
 >
->The Ontario Advisory Council on Senior Citizens was first established on April 24, 1974 under the jurisdiction of the Provincial Secretariat for Social Development. It consisted of fourteen members appointed by Order-in-Council. In 1985, when the Provincial Secretariat for Social Development ceased to exist, the Advisory Council reported to the Legislature of Ontario through the Minister without Portfolio for Senior Citizens’ Affairs. In 1990, the council was transferred to the Ministry of Citizenship. The Council was abolished in 1996
+>The Ontario Advisory Council on Senior Citizens was first established on April 24, 1974 under the jurisdiction of the Provincial Secretariat for Social Development. It consisted of fourteen members appointed by Order-in-Council. In 1985, when the Provincial Secretariat for Social Development ceased to exist, the Advisory Council reported to the Legislature of Ontario through the Minister without Portfolio for Senior Citizens’ Affairs. In 1990, the council was transferred to the Ministry of Citizenship. The Council was abolished in 1996\
 >(Administrative history in a narrative form of the Ontario Advisory Council on Senior Citizens series where the series is the highest level of description)
 >
->The Finnish Organization of Canada, Inc. (in Finnish, the Canadian Suomalainen Jaresto) was founded and incorporated under federal charter in 1923. The organization had its roots in the Finnish Socialist Organization of Canada (Canadian Suomalainen Sosialistijaresto) in 1911. The Finnish Socialist Organization was founded by Finnish dissidents expelled from the Socialist Party of Canada. Those Finns were also instrumental in founding a new socialist party: the Canadian Socialist Federation, later reconstituted as the Social-Democratic Party of Canada. From 1911 until 1930, the Finnish Socialist Organization of Canada was affiliated with the Social-Democratic Party of Canada, except for a brief interlude in 1918-1919 when wartime government regulations forced the Finns to operate independently as the "provisional" Finnish Organization of Canada. Since dissolving the last of its formal links with non-Finnish organizations in about 1930, the Finnish Organization of Canada has maintained its independence from other groups. Nevertheless, as in earlier years, it has continued to support the radical working-class movement both within and outside the Finnish community. Through its political, social or cultural endeavours, the Finnish Organization of Canada has provided continuous service, not only as this country's first and oldest active national organization for people of Finnish origin, but also as the central institution of the Finnish Canadian radical left
+>The Finnish Organization of Canada, Inc. (in Finnish, the Canadian Suomalainen Jaresto) was founded and incorporated under federal charter in 1923. The organization had its roots in the Finnish Socialist Organization of Canada (Canadian Suomalainen Sosialistijaresto) in 1911. The Finnish Socialist Organization was founded by Finnish dissidents expelled from the Socialist Party of Canada. Those Finns were also instrumental in founding a new socialist party: the Canadian Socialist Federation, later reconstituted as the Social-Democratic Party of Canada. From 1911 until 1930, the Finnish Socialist Organization of Canada was affiliated with the Social-Democratic Party of Canada, except for a brief interlude in 1918-1919 when wartime government regulations forced the Finns to operate independently as the "provisional" Finnish Organization of Canada. Since dissolving the last of its formal links with non-Finnish organizations in about 1930, the Finnish Organization of Canada has maintained its independence from other groups. Nevertheless, as in earlier years, it has continued to support the radical working-class movement both within and outside the Finnish community. Through its political, social or cultural endeavours, the Finnish Organization of Canada has provided continuous service, not only as this country's first and oldest active national organization for people of Finnish origin, but also as the central institution of the Finnish Canadian radical left\
 >(Administrative history in narrative form for collection level description of the Finnish Organization of Canada collection)
 
 #### 1.7B1a. Dates of founding and/or dissolution. 
@@ -111,22 +111,22 @@ Record the personal name(s) of persons holding the position as chief officer of 
 >Ian H. MacDonald occupied the position of University President from 1974 to 1984
 
 #### 1.7B1h. Other significant information. 
-Record information considered important which cannot be recorded in sub-elements 1.7B1a-1.7B1g.
+Record information considered important which cannot be recorded in sub-elements [1.7B1a-1.7B1g.](https://communityrad.ca/1-7/#17b1a-dates-of-founding-andor-dissolution)
 
 ### 1.7B2. Biographical sketch. 
 At the highest level of description give information about the history of the person(s) or family(ies) responsible for the creation and/or accumulation and use of the unit being described as a whole. At subordinate levels give the information about the history of the person(s) or family(ies) responsible for the creation and/or accumulation and use of the unit being described.
 
 Do not create a biographical sketch at subordinate levels unless the creator at that level is different from the creator of the unit being described as a whole. When primary responsibility for the creation and/or accumulation and use of a unit being described is shared between two or more persons or families, create separate biographical sketches for each person or family.
 
-Give information relevant to the understanding of the creator's life or activities, as instructed in the following sub-elements. Put information about documentary processes and procedures important to the understanding of the records and of their creation in the Scope and content (see 1.7D).
+Give information relevant to the understanding of the creator's life or activities, as instructed in the following sub-elements. Put information about documentary processes and procedures important to the understanding of the records and of their creation in the Scope and content [(see 1.7D).](https://communityrad.ca/1-7/#17d-scope-and-content)
 
->Reta Gueneva Mary Rowan came from England to Manitoba in 1919, then to Edmonton in 1920, where her husband, William Rowan, taught at the University of Alberta. Her interests were varied, ranging from involvement with cultural groups such as the Folk Festival Committee, to involvement with the Alberta Adult Education Society and with the Women's International League for Peace and Freedom. It was, however, her work with minority groups at the civic and provincial levels that claimed most of her time between 1942 and 1967. These included the Council for Canadian Unity, the Friends of the Indians Society and the Indian Association of Alberta
+>Reta Gueneva Mary Rowan came from England to Manitoba in 1919, then to Edmonton in 1920, where her husband, William Rowan, taught at the University of Alberta. Her interests were varied, ranging from involvement with cultural groups such as the Folk Festival Committee, to involvement with the Alberta Adult Education Society and with the Women's International League for Peace and Freedom. It was, however, her work with minority groups at the civic and provincial levels that claimed most of her time between 1942 and 1967. These included the Council for Canadian Unity, the Friends of the Indians Society and the Indian Association of Alberta\
 >(Biographical sketch at the fonds level for the Reta Rowan fonds)
 >
->Muriel Helena Duckworth (nee Ball) was born in East Bolton, Quebec, in 1908. She received a Bachelor of Arts Degree in French and economics from McGill University in 1929 and afterwards studied with her husband, Jack Duckworth, at Union Theological Seminary. In 1930 they returned to Montreal where their children John, Martin, and Eleanor were born. During their residence in Montreal, Muriel Duckworth was active in the C.G.I.T., the Student Christian Movement, and Notre Dame de Grace Community Centre. She also helped to acquire for Jewish teachers the right to teach in Protestant Schools in Quebec. In 1947 the Duckworth family moved to Halifax, and Muriel joined the Adult Education Division of the Nova Scotia Dept. of Education as a part-time parent education advisor. Between 1962 and 1967 she worked as a program advisor to the Department. From 1967 she dedicated her efforts to groups concerned with the role and rights of women in society, education, pacifism, world development and cooperation and social justice. She was a founding member of the Voice of Women (Halifax) and national president of the Voice of Women (Canada) from 1967-1971. She was also a founding member of the Canadian Conference on Children, the Canadian Research Institute for the Advancement of Women, the Nova Scotia Festival of the Arts and the Junior School of Community Arts. She has received six honourary doctorates and holds the Insignia of the Order of Canada
+>Muriel Helena Duckworth (nee Ball) was born in East Bolton, Quebec, in 1908. She received a Bachelor of Arts Degree in French and economics from McGill University in 1929 and afterwards studied with her husband, Jack Duckworth, at Union Theological Seminary. In 1930 they returned to Montreal where their children John, Martin, and Eleanor were born. During their residence in Montreal, Muriel Duckworth was active in the C.G.I.T., the Student Christian Movement, and Notre Dame de Grace Community Centre. She also helped to acquire for Jewish teachers the right to teach in Protestant Schools in Quebec. In 1947 the Duckworth family moved to Halifax, and Muriel joined the Adult Education Division of the Nova Scotia Dept. of Education as a part-time parent education advisor. Between 1962 and 1967 she worked as a program advisor to the Department. From 1967 she dedicated her efforts to groups concerned with the role and rights of women in society, education, pacifism, world development and cooperation and social justice. She was a founding member of the Voice of Women (Halifax) and national president of the Voice of Women (Canada) from 1967-1971. She was also a founding member of the Canadian Conference on Children, the Canadian Research Institute for the Advancement of Women, the Nova Scotia Festival of the Arts and the Junior School of Community Arts. She has received six honourary doctorates and holds the Insignia of the Order of Canada\
 >(Biographical sketch at the fonds level for the Muriel Duckworth fonds)
 >
->Peter M. Duff (1876-1949), railroad manager, immigrated to Newfoundland in 1898 from Dundee, Scotland, at the request of Robert G. Reid to work with the Reid Newfoundland Company. Duff married Violet Dickenson, St. John's; they had two sons. He died in St. John's on 30 July 1949. Duff served as railroad manager for 43 years, initially for the Reid Newfoundland Company and later for its successor, the government-owned Newfoundland Railway. He was a member of the Masonic Fraternity, Rotary International, Murray's Pond Country Club and the Curling Club
+>Peter M. Duff (1876-1949), railroad manager, immigrated to Newfoundland in 1898 from Dundee, Scotland, at the request of Robert G. Reid to work with the Reid Newfoundland Company. Duff married Violet Dickenson, St. John's; they had two sons. He died in St. John's on 30 July 1949. Duff served as railroad manager for 43 years, initially for the Reid Newfoundland Company and later for its successor, the government-owned Newfoundland Railway. He was a member of the Masonic Fraternity, Rotary International, Murray's Pond Country Club and the Curling Club\
 >(Biographical sketch at the collection level for the Peter Duff collection)
 
 #### 1.7B2a. Name(s). 
@@ -152,7 +152,7 @@ Give information about the principal occupation(s), and career or life work of p
 >Kenneth Leslie was a poet, singer and musician, crusading editor, and political activist. He won the Governor General's Award in 1938 for his collection of poems entitled By Stubborn Stars and Other Poems. His other collections include Winward Rock (1934), Such a Din! (1935) and Lowlands Low (1936). In New York, in 1938 Leslie began to edit and publish the Protestant Digest, a monthly publication devoted to religion and politics. In 1949 Leslie was accused of "un-American" activities. He returned to Nova Scotia and published a smaller version of the Protestant together with privately published editions of his own poems
 
 #### 1.7B2e. Other significant information. 
-Record information considered important which cannot be recorded in sub-elements 1.7B2a-1.7B2d.
+Record information considered important which cannot be recorded in sub-elements [1.7B2a-1.7B2d.](https://communityrad.ca/1-7/#17b2a-names)
 
 ## 1.7C. Custodial history
 
@@ -160,7 +160,7 @@ At the highest level of description give the custodial history of the unit being
 
 Give the history of the custody of the unit being described, i.e., the successive transfers of ownership and custody or control of the material, along with the dates thereof, insofar as it can be ascertained [^26].
 
-When describing the custodial history of a reproduction, include, if ascertainable, information relating to the original material if it is relevant to the creation of the reproduction. If the custodial history is unknown, record that information. When the unit being described is acquired directly from the creator, record this information in the Note Area (see 1.8B12).
+When describing the custodial history of a reproduction, include, if ascertainable, information relating to the original material if it is relevant to the creation of the reproduction. If the custodial history is unknown, record that information. When the unit being described is acquired directly from the creator, record this information in the Note Area ([see 1.8B12)](https://communityrad.ca/1-8/#18b12-immediate-source-of-acquisition).
 
 >Les documents de ce fonds ont été réunis par l'aînée des petits-enfants de Joseph Leduc, Hélène Jobin. Ils ont été légués aux Archives en 1941 par le frère de cette dernière, Arthur Jobin
 >
@@ -180,10 +180,10 @@ Give information on the type of function or activity to which the records compri
 For the scope of the unit being described, give information about the functions and/or kinds of activities generating the records, the period of time, the subject matter, and the geographical area to which they pertain. For the content of the unit being described, give information about its internal structure by indicating its arrangement, organization, and/or enumerating its next lowest level of description. Summarize the principal documentary forms (e.g., reports, minutes, correspondence, drawings, speeches).
 
 >Fonds illustrates Francis Shanly's work as an engineer and contractor, and also contains records relating to his family history and background. Engineering project records include: correspondence, letter books, reports, estimates, invoices and receipts, payrolls, force returns, specifications, tenders and contracts, maps, drawings, and other materials. These records
-are arranged alphabetically by project. Personal records include: correspondence; subject files (relating to Shanly's involvement in a number of areas, including his role as City Engineer of Toronto, and his election campaign of 1872); notebooks; bank books; diaries; financial records (including invoices, receipts, statements, and accounts); genealogies and other materials
+are arranged alphabetically by project. Personal records include: correspondence; subject files (relating to Shanly's involvement in a number of areas, including his role as City Engineer of Toronto, and his election campaign of 1872); notebooks; bank books; diaries; financial records (including invoices, receipts, statements, and accounts); genealogies and other materials\
 >(Scope and content for the Francis Shanley fonds)
 >
->Fonds reflects M.O. Hammond's career and interests as a journalist, writer, editor, amateur photographer and figure of the Canadian arts and literary scene in the early decades of the twentieth century. His photographs are arranged into five series, spanning his entire photographic career from the late 1890s to the 1930s. Textual records in the fonds consist of correspondence relating to Hammond's research and writing; correspondence to Hammond from Canadian literary figures as Duncan Campbell Scott, Arthur Stringer, Charles G.D. Roberts and Robert Service; published and unpublished manuscripts written by Hammond; research notes and clippings related to his writing on Canadian history, art and literature and his reporting of reciprocity negotiations between Canada and the United States in 1910-1911; and his personal diaries for the years 1890, 1894 and 1903-1934
+>Fonds reflects M.O. Hammond's career and interests as a journalist, writer, editor, amateur photographer and figure of the Canadian arts and literary scene in the early decades of the twentieth century. His photographs are arranged into five series, spanning his entire photographic career from the late 1890s to the 1930s. Textual records in the fonds consist of correspondence relating to Hammond's research and writing; correspondence to Hammond from Canadian literary figures as Duncan Campbell Scott, Arthur Stringer, Charles G.D. Roberts and Robert Service; published and unpublished manuscripts written by Hammond; research notes and clippings related to his writing on Canadian history, art and literature and his reporting of reciprocity negotiations between Canada and the United States in 1910-1911; and his personal diaries for the years 1890, 1894 and 1903-1934\
 >(Scope and content for the M.O. Hammond fonds)
 
 ### 1.7D2. Scope and content for a series. 
@@ -191,10 +191,10 @@ For the scope of the series, give information on the specific activity or activi
 
 For the content of a series, give information about the internal structure of the series, including the arrangement, classification scheme, and documentary forms of the records.
 
->Series documents the Conservation Authorities Branch's monitoring of water management engineering projects, which were undertaken by Conservation Authorities but funded by the provincial government. Projects include construction of dams, reservoirs, weirs, and bridges; channel improvements; floodplain mapping; acquisition of floodplain land; flood warning; and flood damage reporting. Project files contain reports; architectural drawings; maps; contracts; and correspondence between the Branch and Conservation Authorities, the federal government (who also funded projects), other ministries, municipal governments, consulting engineers and landowners
+>Series documents the Conservation Authorities Branch's monitoring of water management engineering projects, which were undertaken by Conservation Authorities but funded by the provincial government. Projects include construction of dams, reservoirs, weirs, and bridges; channel improvements; floodplain mapping; acquisition of floodplain land; flood warning; and flood damage reporting. Project files contain reports; architectural drawings; maps; contracts; and correspondence between the Branch and Conservation Authorities, the federal government (who also funded projects), other ministries, municipal governments, consulting engineers and landowners\
 >(Scope and content for a series in the Ontario Ministry of Natural Resources fonds)
 >
->Series documents the development of provincial parks and reserve areas, from initial proposals, through acquisition of private land for parks to the actual establishment of provincial parks and reserves. Series is arranged into three sub- series: development proposal files, land acquisition files, and established parks development files
+>Series documents the development of provincial parks and reserve areas, from initial proposals, through acquisition of private land for parks to the actual establishment of provincial parks and reserves. Series is arranged into three sub- series: development proposal files, land acquisition files, and established parks development files\
 >(Scope and content for a series in the Ontario Ministry of Natural Resources fonds)
 
 ### 1.7D3. Scope and content for a file. 
@@ -202,25 +202,25 @@ For the scope of the file give information on the subject matter, the time perio
 
 For the content of a file, give information about the processes and procedures generating the file and/or about the transactions to which the file pertains. For the internal structure of the file, give information about the arrangement of the file and its documentary forms and their relationship. The scope and content is discretionary if the title of the file is clear enough.
 
->File documents an investigation of an explosion at Ledwell Milk. It includes an inspection report, administrative documents relating to the inspection, and photographs
+>File documents an investigation of an explosion at Ledwell Milk. It includes an inspection report, administrative documents relating to the inspection, and photographs\
 >(Scope and content for a file within the series “Reports on accidents caused by fuel handling”, within the Ministry of Consumer and Commercial Relations fonds)
 >
->File contains photographs depicting the first day of a strike of Air Canada workers at Toronto International Airport.
+>File contains photographs depicting the first day of a strike of Air Canada workers at Toronto International Airport.\
 >(Scope and content for a file within the series “Chronological photographic negatives”, forming part of the Julien LeBourdais fonds)
 >
->Portraits of Michael Philip Fulford Foran
+>Portraits of Michael Philip Fulford Foran\
 >(Title of the file; scope and content is discretionary)
 
 ### 1.7D4. Scope and content for an item. 
 As applicable, give information on the subject matter and form of the item, the data it records, the time period, and the geographical area to which its contents pertain. The scope and content is discretionary if the title of the item is clear enough.
 
->Item is a report on the various factors that contribute to the cost and quality of food production in the Nova Scotia hospital system in 1988
+>Item is a report on the various factors that contribute to the cost and quality of food production in the Nova Scotia hospital system in 1988\
 >(Scope and content for an item in the file entitled "Secondary research material" in the consultants' series of the Nova Scotia Royal Commission on Health Care fonds)
 >
->Item is an alphabetical listing of qualified electors for Queens County
+>Item is an alphabetical listing of qualified electors for Queens County\
 >(Scope and content for an item in the electoral lists series of the Nova Scotia Chief Electoral Officer fonds)
 >
->Mont Ste-Marie Ltd. Subdivision of Part of Lots 34, 35 and 36, Range VII and VIII, Township of Hincks
+>Mont Ste-Marie Ltd. Subdivision of Part of Lots 34, 35 and 36, Range VII and VIII, Township of Hincks\
 >(Title of an item in a series of maps; scope and content is discretionary)
 
 [^24]: For further explanation of the importance of context see Terry Eastwood, ed., The Archival Fonds: from Theory to Practice / Le fonds d’archves: de la théorie à la pratique (Ottawa: Bureau of Canadian Archivists, 1992). While the scope of this text is limited to the archival fonds, the focus placed on contextual information is relevant to series, collections and discrete items as well.
