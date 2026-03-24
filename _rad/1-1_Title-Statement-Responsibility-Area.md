@@ -17,13 +17,13 @@ At the item level of description, also record in this area the statement of resp
 
 ### 1.1A2. Punctuation
 
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Enclose the general material designation in square brackets ([GMD]).
-Enclose the qualifier(s) to the general material designation in parentheses.
-Separate general material designation terms with a comma (,).
-Precede each parallel title by an equals sign (=).
-Precede each unit of other title information by a colon (:).
-Precede the first statement of responsibility by a diagonal slash (/).
+For instructions on the use of spaces before and after prescribed punctuation, see [1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Enclose the general material designation in square brackets ([GMD]).\
+Enclose the qualifier(s) to the general material designation in parentheses.\
+Separate general material designation terms with a comma (,).\
+Precede each parallel title by an equals sign (=).\
+Precede each unit of other title information by a colon (:).\
+Precede the first statement of responsibility by a diagonal slash (/).\
 Precede each subsequent statement of responsibility by a semicolon (;).
 
 ### 1.1A3. Sources of information. 
@@ -36,10 +36,10 @@ Unless otherwise instructed to do so, give the elements of description in the or
 
 ## 1.1B. Title proper
 
-At all levels of description, always give the title proper. When appropriate, indicate the source of a title proper in a note (see 1.8B2).
+At all levels of description, always give the title proper. When appropriate, indicate the source of a title proper in a note [(see 1.8B2)](https://communityrad.ca/1-8/#18b2-source-of-title-proper).
 
 ### 1.1B1. Formal title proper. 
-At all levels of description [^4], when the chief source of information for a unit being described bears a formal title proper, transcribe it exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. The transcribed title must be common to all the material being described at the level at which it is being described. Give accentuation and other diacritical marks that are present in the chief source of information (see also 1.0G). Capitalize according to appendix A.
+At all levels of description [^4], when the chief source of information for a unit being described bears a formal title proper, transcribe it exactly as to wording, order, and spelling, but not necessarily as to punctuation and capitalization. The transcribed title must be common to all the material being described at the level at which it is being described. Give accentuation and other diacritical marks that are present in the chief source of information [(see also 1.0G)](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks). Capitalize according to appendix A.
 
 >Register of baptisms in the parish of Saint George in the county of Halifax
 >
@@ -55,7 +55,7 @@ At all levels of description [^4], when the chief source of information for a un
 >
 >Initiation potpourri
 >
->Pièces comptables et livres comptables
+>Pièces comptables et livres comptables\
 >(Titre officiel propre d'une série faisant partie du Fonds du Centenaire du Saguenay)
 >
 >Fighting words
@@ -64,14 +64,14 @@ At all levels of description [^4], when the chief source of information for a un
 >
 >Home mission fund record book
 >
->Prix d'histoire du Canada de la Société Saint-Jean-Baptiste de Montréal
+>Prix d'histoire du Canada de la Société Saint-Jean-Baptiste de Montréal\
 >(Titre officiel propre d'un dossier faisant partie du Fonds Gérard Dion)
 >
 >Black marks register
 >
 >Genealogy of the Hoyt and Wiles families
 >
->Lettre du Québec
+>Lettre du Québec\
 >(Titre officiel propre d'une pièce faisant partie du Fonds Pierre Perrault)
 >
 >Register of the attendance, deportment, and general standing of the pupils attending school in industrial school with a record of visitation
@@ -80,7 +80,7 @@ At all levels of description [^4], when the chief source of information for a un
 
 If the formal title proper as given in the chief source of information includes the punctuation marks ... or [ ], replace them by – (an em dash) and ( ), respectively.
 
->– And he was created in his own image
+>– And he was created in his own image\
 >(Source of information reads: ... and he was created in his own image)
 
 #### 1.1B1a. Formal title proper with symbols.
@@ -105,20 +105,19 @@ If such letters or initials have full stops between them, transcribe them with f
 >Minutes of the Magee P.T.A., 1958-61
 
 #### 1.1B1d. Abridge a long formal title proper.
-Abridge a long formal title proper only if this can be done without loss of essential information. Never omit any of the first five words of the formal title proper (excluding the alternative title). Indicate omissions by the mark of omission. If appropriate, transcribe the remainder of the title in a note (see 1.8B4).
+Abridge a long formal title proper only if this can be done without loss of essential information. Never omit any of the first five words of the formal title proper (excluding the alternative title). Indicate omissions by the mark of omission. If appropriate, transcribe the remainder of the title in a note [(see 1.8B4)](https://communityrad.ca/1-8/#18b4-continuation-of-title).
 
->Commission royale sur les circonstances qui ont entouré l'écrasement de l'avion Douglas DC-8F...
+>Commission royale sur les circonstances qui ont entouré l'écrasement de l'avion Douglas DC-8F...\
 >Note: Suite du titre... CF-TJN à Sainte-Thérèse-de-Blainville (Québec), le 29 novembre 1963.
 
 #### 1.1B1e. Title elements scattered by layout or typography.
 When parts of the title are scattered over the chief source of information, transcribe the formal title proper based on those elements distinguished by position, typography, or size of lettering. When the title information is arranged decoratively, deduce the logical sequence and then record the title in its semantic order.
 
 #### 1.1B1f. Formal title proper with many languages or typography.
-If the chief source of information bears titles in two or more languages or scripts, transcribe as the formal title proper the one in the language or script of the main written content of the unit being described. If this criterion is not applicable choose the formal title proper by reference to order of titles on or the layout of the chief source of information. Record the other titles as parallel titles (see 1.1D).
+If the chief source of information bears titles in two or more languages or scripts, transcribe as the formal title proper the one in the language or script of the main written content of the unit being described. If this criterion is not applicable choose the formal title proper by reference to order of titles on or the layout of the chief source of information. Record the other titles as parallel titles [(see 1.1D)](https://communityrad.ca/1-1/#11d-parallel-titles-).
 
->International map of natural gas fields in Europe
->(Chief source of information bears the following titles:
->"International map of natural fields in Europe" and "Carte internationale des champs de gaz naturel en Europe")
+>International map of natural gas fields in Europe\
+>(Chief source of information bears the following titles: "International map of natural fields in Europe" and "Carte internationale des champs de gaz naturel en Europe")
 
 #### 1.1B1g. An alternative title.
 An alternative title is part of a formal title proper (see Glossary, appendix D). At the item level, precede and follow the word or (or its equivalent in another language) introducing an alternative title by a comma. Capitalize the first word of the alternative title.
@@ -126,7 +125,7 @@ An alternative title is part of a formal title proper (see Glossary, appendix D)
 >Le Canada, ou, Nouvelle-France, &c.
 
 #### 1.1B1h. Traditional title.
-If the unit being described is traditionally known by a title that does not appear prominently in or on the chief source of information, supply a title proper in accordance with 1.1B2 and give the traditional title in a note (see 1.8B1).
+If the unit being described is traditionally known by a title that does not appear prominently in or on the chief source of information, supply a title proper in accordance with 1.1B2 and give the traditional title in a note [(see 1.8B1)](https://communityrad.ca/1-8/#18b1-variations-in-title).
 
 #### 1.1B1i.
 If the chief source of information bears more than one title, in the same language and script, choose the formal title proper on the basis of the sequence or layout of the titles. If these are insufficient to enable the choice to be made or are ambiguous, choose the most comprehensive title.
@@ -134,20 +133,20 @@ If the chief source of information bears more than one title, in the same langua
 ### 1.1B2. Supplied title proper.
 If no formal title appears prominently in, or on, the chief source of information, compose a brief descriptive title as instructed in the following subrules. The supplied title proper may be based either on the internal evidence of the material being described; or it may be based on an external source. Do not enclose the supplied title proper in square brackets.
 
->Royal Commission on the Donald Marshall Jr. Prosecution fonds
->Note: Title based on the content of the fonds
+>Royal Commission on the Donald Marshall Jr. Prosecution fonds\
+>Note: Title based on the content of the fonds\
 >(Supplied title and Source of supplied title for a fonds)
 >
->Procès-verbaux des Affaires criminelles et pénales
->Note: Titre basé sur le contenu des documents
+>Procès-verbaux des Affaires criminelles et pénales\
+>Note: Titre basé sur le contenu des documents\
 >(Supplied title and Source of supplied title for a series)
 >
->Letters of Presbyterian missionaries serving in Manitoba
->Note: Title supplied from file contents
+>Letters of Presbyterian missionaries serving in Manitoba\
+>Note: Title supplied from file contents\
 >(Supplied title and Source of supplied title for a file)
 >
->Glass plate negative of Lake Louise, Banff
->Note: Title based on content of the image
+>Glass plate negative of Lake Louise, Banff\
+>Note: Title based on content of the image\
 >(Supplied title and Source of supplied title for an item)
 
 ### 1.1B3. Supplied title proper for a fonds or collection.
@@ -162,15 +161,15 @@ Supply the word fonds or collection for the nature of the archival unit being de
 >
 >Jeniva Berger theatre programs collection
 
-If, as instructed in rule 1.1B3b, no name element has been recorded because the name of the collector is unknown or because the repository has assembled the material, include in the nature element an indication of the theme, content, etc. of the collection.
+If, as instructed in rule [1.1B3b](https://communityrad.ca/1-1/#11b3b-name-element), no name element has been recorded because the name of the collector is unknown or because the repository has assembled the material, include in the nature element an indication of the theme, content, etc. of the collection.
 
 >Canadian philatelic dealer’s price lists collection
 >
 >Saskatchewan homesteading experiences collection
 
-If, as instructed in rule 1.1B3b, no name element has been recorded because the name of the collector is unknown or because the repository has assembled the material, and the subject of the collection is the name of the person, express the title of the collection in a way that clearly indicates that the subject of the collection is not the collector.
+If, as instructed in rule [1.1B3b](https://communityrad.ca/1-1/#11b3b-name-element), no name element has been recorded because the name of the collector is unknown or because the repository has assembled the material, and the subject of the collection is the name of the person, express the title of the collection in a way that clearly indicates that the subject of the collection is not the collector.
 
->Collection about Isadora Duncan
+>Collection about Isadora Duncan\
 >(not Isadora Duncan collection)
 
 #### 1.1B3b. Name element.
@@ -208,7 +207,7 @@ For a collection, if the name of the collector is not known, or if the repositor
 
 If the repository has assembled the material, and if the archival unit is generic (i.e., likely to be ambiguous outside of a single repository), record the name of the repository.
 
->University of Saskatchewan Archives photograph collection
+>University of Saskatchewan Archives photograph collection\
 >(not Photograph collection)
 
 ### 1.1B4. Supplied title proper for parts of a fonds or collection (e.g., series, file, item) or for a series as the highest level of description.
@@ -218,26 +217,26 @@ When describing a part of a fonds or collection, (e.g. a series, file, or item),
 #### 1.1B4a. Name element.
 At the series level, if the name(s) of the person(s), family (families) or corporate body (bodies) predominantly responsible for the creation, and/or accumulation and use of the unit being described is different from the name(s) of the creator of the unit as a whole, include the name(s) as part of the supplied title proper. Record the name(s) in direct order according to the language of the person's or body's country of residence or activity.
 
->Speaker
+>Speaker\
 >(Name element for a series with the supplied title of Correspondence of the Speaker that forms part of the Saskatchewan Legislature fonds)
 >
->Treasurer
+>Treasurer\
 >(Name element for a series with the supplied title of Financial records of the Treasurer that forms part of the Fredericton Skating Association fonds)
 >
->Elvire Saint-Jean
+>Elvire Saint-Jean\
 >(Name element for a series of letters received by Elvire Saint-Jean that forms part of the Fonds de la famille Saint-Jean)
 >
->John MacLean
+>John MacLean\
 >(Name element for a series of letters received by John MacLean that forms part of the MacLean family fonds)
 
 *Optionally,* if the series is presented as the highest level of description, include the name(s) of the person(s), family (families), or corporate body (bodies) predominantly responsible for the creation, and/or accumulation and use of the series as a whole as part of the supplied title proper. Record the name(s) in direct order according to the language of the person’s or body’s country of residence or activity.
 
 At the series, file, or item level, if the name(s)[^7] of the person(s) and/or the corporate body (bodies) primarily responsible for the form and the intellectual or artistic content of the unit being described is different from the name(s) of the creator of the unit, include the name(s) of the author(s) as part of the supplied title proper.
 
->Correspondence with James Ewings
+>Correspondence with James Ewings\
 >(File forms part of the Arthur Meighen fonds)
 >
->Letter from Ira Dilworth
+>Letter from Ira Dilworth\
 >(Letter from Ira Dilworth to Emily Carr forms part of the Emily Carr fonds)
 
 #### 1.1B4b. Nature of the archival unit.
@@ -253,7 +252,7 @@ Supply a brief term or phrase that most precisely and concisely characterizes th
 >
 >Agents' journals
 >
->Trappeur et explorateur
+>Trappeur et explorateur\
 >(Activity which was the basis of the creation of the series forming part of Fonds René Richard)
 >
 >Registre de naissances
@@ -264,23 +263,23 @@ If the unit being described consists of three or fewer specific forms of materia
 >
 >Petitions, communiques, and Oblate directories
 
-If the unit being described consists of more than three specific forms of material, give the most predominant specific form followed by the phrase and other material in the supplied title proper and indicate the other specific forms of material in the Scope and content (see 1.7D). If no specific form predominates, give the form that seems most appropriate followed by the phrase and other material in the supplied title proper and indicate the other specific forms of material in the Scope and content.
+If the unit being described consists of more than three specific forms of material, give the most predominant specific form followed by the phrase and other material in the supplied title proper and indicate the other specific forms of material in the Scope and content [(see 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content). If no specific form predominates, give the form that seems most appropriate followed by the phrase and other material in the supplied title proper and indicate the other specific forms of material in the Scope and content.
 
 >Soil research files and other material
 >
 >Decision files and other material
 
-*Optionally,* if the unit being described consists of more than three specific forms of material, indicate the predominant type of record in the supplied title proper and give specific forms of material in the Scope and content (see 1.7D). Use a term that best characterizes the general function, activity, transaction, or subject that was the basis of the unit's creation and/or use.
+*Optionally,* if the unit being described consists of more than three specific forms of material, indicate the predominant type of record in the supplied title proper and give specific forms of material in the Scope and content [(see 1.7D)](https://communityrad.ca/1-7/#17d-scope-and-content). Use a term that best characterizes the general function, activity, transaction, or subject that was the basis of the unit's creation and/or use.
 
 >Timber records
 >
 >Scope and content: Series consists of timber licenses, timber and land returns, terminated licenses for Indian lands, timber permits, and a timber ledger for Indian lands in Canada West.
 
->Accounts
+>Accounts\
 >Scope and content: Subseries consists of records of payment of annuities, interest paylists, and paylists of lease money.
 
 ## 1.1C. *Optional addition.* General material designation. 
-At the highest level of description, give the GMD term(s) that pertains to the unit being described as a whole as instructed in 1.1C1. At each subsequent level of description, give the GMD term(s) that pertains to the part being described according to the same instructions.
+At the highest level of description, give the GMD term(s) that pertains to the unit being described as a whole as instructed in [1.1C1](https://communityrad.ca/1-1/#11c1). At each subsequent level of description, give the GMD term(s) that pertains to the part being described according to the same instructions.
 
 If the option to give the GMD is chosen, it should be given at each level of description, unless a GMD in a lower level description is identical to that given in a higher level description.
 
@@ -356,12 +355,12 @@ For instructions regarding parallel titles for a particular class of material, r
 
 ## 1.1E. Other title information
 
-Transcribe other title information that appears in conjunction with the formal title proper of the unit being described as instructed in rules 1.1E1-1.1E5. As appropriate, supply other title information as instructed in rules 1.1E6-1.1E7.
+Transcribe other title information that appears in conjunction with the formal title proper of the unit being described as instructed in rules [1.1E1-1.1E5](https://communityrad.ca/1-1/#11e1). As appropriate, supply other title information as instructed in rules [1.1E6-1.1E7](https://communityrad.ca/1-1/#11e6).
 
 For instructions regarding other title information for a particular class of material, refer to the .1E rules in the chapter that deals with that class of material.
 
 ### 1.1E1.
-Transcribe all other title information appearing in the chief source of information according to the instructions in 1.1B1. Do not create or supply other title information if it is not present in the chief source of information, unless specifically instructed to do so in rules (see 1.1E6 and 1.1E7).
+Transcribe all other title information appearing in the chief source of information according to the instructions in [1.1B1](https://communityrad.ca/1-1/#11b1-formal-title-proper). Do not create or supply other title information if it is not present in the chief source of information, unless specifically instructed to do so in rules [(see 1.1E6 and 1.1E7)](https://communityrad.ca/1-1/#11e6).
 
 >SPSS primer [GMD]: statistical package for the social sciences primer
 >
@@ -379,7 +378,7 @@ Transcribe other title information in the order indicated by the sequence on, or
 >Distribution of the principal kinds of soil [GMD] : orders, suborders, and great groups : National Soil Survey classification of 1967
 
 ### 1.1E3. Lengthy other title information.
-If the other title information is lengthy, either give it in a note (see 1.8B4) or abridge it. Abridge other title information only if this can be done without loss of essential information. Never omit any of the first five words of the other title information. Indicate omissions by the mark of omission.
+If the other title information is lengthy, either give it in a note [(see 1.8B4)](https://communityrad.ca/1-8/#18b4-continuation-of-title) or abridge it. Abridge other title information only if this can be done without loss of essential information. Never omit any of the first five words of the other title information. Indicate omissions by the mark of omission.
 
 ### 1.1E4.
 If the other title information includes a statement of responsibility and the statement is an integral part of the other title information, transcribe it as such.
@@ -416,7 +415,7 @@ When describing a reproduction, add the date(s) of creation for the original(s) 
 >
 >Returns of registered births [GMD] : [1864-1877]. – Microfilmed in 1983
 
-If the option for recording dates of the originals in the Date(s) of creation area (see 1.4B3a) or for recording open dates (see 1.4B4) is exercised, do not use 1.1E7.
+If the option for recording dates of the originals in the Date(s) of creation area [(see 1.4B3a)](https://communityrad.ca/1-4/#14b3a) or for recording open dates [(see 1.4B4)](https://communityrad.ca/1-4/#14b4) is exercised, do not use 1.1E7.
 
 ## 1.1F. Statements of responsibility
 
@@ -438,13 +437,13 @@ Transcribe explicit statements of responsibility appearing in conjunction with a
 >Une introduction à la foi catholique [GMD] : le nouveau catéchisme pour adultes / réalisé sous la responsabilité des évêques des Pays-Bas
 
 ### 1.1F2.
-If no statement of responsibility appears in conjunction with the formal title proper, neither construct one nor extract one from the chief source of information. If such a statement is needed, give it in a note (see 1.8B5).
+If no statement of responsibility appears in conjunction with the formal title proper, neither construct one nor extract one from the chief source of information. If such a statement is needed, give it in a note [(see 1.8B5)](https://communityrad.ca/1-8/#18b5-statements-of-responsibility).
 
->The first Hants Folk School [GMD]
+>The first Hants Folk School [GMD]\
 >Note: Written by Freda Wales; illustrations by Dept. of Industry and Publicity
 
 ### 1.1F3.
-If a statement of responsibility precedes the title proper in the chief source of information, transpose it to its required position unless it is an integral part of the title proper (see 1.1B1b).
+If a statement of responsibility precedes the title proper in the chief source of information, transpose it to its required position unless it is an integral part of the title proper [(see 1.1B1b)](https://communityrad.ca/1-1/#11b1b-formal-title-proper-with-a-statement-of-responsibility).
 
 ### 1.1F4.
 Transcribe a single statement of responsibility as such whether two or more persons or corporate bodies named in it perform the same function or different functions.
@@ -513,7 +512,7 @@ If the noun or noun phrase is indicative of the role of the person(s) or body (b
 >... / research and compilation by Ralph W. Wiles
 
 ### 1.1F13.
-When a name associated with responsibility for the item being described is transcribed as part of the formal title proper (see 1.1B1b) or other title information (see 1.1E4), do not make any further statement relating to that name unless such a statement is required for clarity, or unless a separate statement of responsibility including or consisting of that name appears in the chief source of information.
+When a name associated with responsibility for the item being described is transcribed as part of the formal title proper [(see 1.1B1b)](https://communityrad.ca/1-1/#11b1b-formal-title-proper-with-a-statement-of-responsibility) or other title information [(see 1.1E4)](https://communityrad.ca/1-1/#11e4), do not make any further statement relating to that name unless such a statement is required for clarity, or unless a separate statement of responsibility including or consisting of that name appears in the chief source of information.
 
 ### 1.1F14.
 *Optional addition.* When name(s) of person(s) or corporate body(ies) appear in a statement of responsibility in the form of initials, transcribe the initials as they appear in the chief source of information. Complete the name, if known, in square brackets.
