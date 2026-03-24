@@ -13,7 +13,7 @@ toc_sticky: true
 Moving images are defined as visual images, with or without sound, recorded on any medium, which, when viewed, may present the illusion of motion. The rules in this chapter may be used to describe moving images which constitute a fonds or a part thereof.[^1] Corresponding sound elements are also included. For multiple media fonds, see chapter 2. For filmstrips, see chapter 4. For sound recordings, see chapter 8.
 
 ### 7.0A2. Multilevel description
-For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, see 1.0A2.
+For instructions on the use of multilevel description for preparing descriptions of a fonds and its parts, [see 1.0A2.](https://communityrad.ca/1-0/#10a2-multilevel-description)
 
 ## 7.0B. Sources of information
 
@@ -30,7 +30,8 @@ The chief sources of information for moving images are as follows: [^2]
 ### 7.0B2. Prescribed sources of information. 
 The prescribed source(s) of information for each area of description for moving images is set out below. Enclose information taken from outside the prescribed source(s) in square brackets unless instructed to do otherwise in specific rules.
 
-| AREA | PRESCRIBED SOURCES OF INFORMATION
+| AREA | PRESCRIBED SOURCES OF INFORMATION |
+| --- | --- |
 | Title and statement of responsibility | Chief source of information |
 | Edition | Chief source of information |
 | Date(s) of creation, including publication, distribution, etc. | Chief source of information |
@@ -41,21 +42,21 @@ The prescribed source(s) of information for each area of description for moving 
 | Standard number | Any source |
 
 ## 7.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)
 For the prescribed punctuation of elements, see the following rules.
 
 ## 7.0D. Levels of detail in the description
-See 1.0D.
-When describing a theatrical series or a broadcast series at the first level of detail, include the elements prescribed in 1.0D3, if appropriate.
+[See 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
+When describing a theatrical series or a broadcast series at the first level of detail, include the elements prescribed in [1.0D3,](https://communityrad.ca/1-0/#10d3-first-level-of-detail-of-description-for-an-item) if appropriate.
 
 ## 7.0E. Language and script of the description
-See 1.0E.
+[See 1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description)
 
 ## 7.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 ## 7.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: Some institutions may wish to describe at a level more detailed than the item, e.g., sequence, shot, etc. These rules do not govern these levels of description because of the varying nature of institutional requirements in this area.
 
