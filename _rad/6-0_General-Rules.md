@@ -10,7 +10,7 @@ toc_sticky: true
 ## 6.0A. Preliminary rule
 
 ### 6.0A1. Scope. 
-The rules in this chapter cover the description of unpublished or published architectural and technical drawings, either conceptual drawings (e.g., sketches), renderings, working drawings, or detail drawings, which constitute a fonds or a part thereof as instructed in 1.0A1. These rules apply to drawings [^1] as well as to three- dimensional representations and models. These rules also apply to drawings of theoretical concepts, or proposals (e.g., competitions), which are not necessarily realized.
+The rules in this chapter cover the description of unpublished or published architectural and technical drawings, either conceptual drawings (e.g., sketches), renderings, working drawings, or detail drawings, which constitute a fonds or a part thereof as instructed in [1.0A1.](https://communityrad.ca/1-0/#10a1-scope) These rules apply to drawings [^1] as well as to three- dimensional representations and models. These rules also apply to drawings of theoretical concepts, or proposals (e.g., competitions), which are not necessarily realized.
 
 Architectural drawings, in the widest sense, also include plans of mechanical, plumbing, heating, and electrical, etc., systems; interior design; furniture; and decorative art works which are part of a building.
 
@@ -26,7 +26,7 @@ The chief sources of information for architectural and technical drawings are as
 2. for a series, all of the material in the series;
 3. for a file, all of the material in the file, including the container, and any label(s) or tag(s) used by the creator to identify the file;
 4.
-    1. for an item prefer in this order, (i) the item itself; when an item is in a number of physical parts, treat all the parts (including a title sheet or cover) as the item itself; (ii) the container or case.
+    1. for an item prefer in this order, (a) the item itself; when an item is in a number of physical parts, treat all the parts (including a title sheet or cover) as the item itself; (b) the container or case.
     2. for a volume, the title page or the caption, colophon if any of these exist.
 
 If information is not available in the chief source, take it from any accompanying material.
@@ -47,24 +47,24 @@ The prescribed source(s) of information for each area of description of architec
 | Standard number | Any source |
 
 ## 6.0C. Punctuation
-For the punctuation of the description as a whole, see 1.0C.
+For the punctuation of the description as a whole, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 For the prescribed punctuation of elements, see the following rules.
 
 ## 6.0D. Levels of detail in the description
-See 1.0D.
+[See 1.0D.](https://communityrad.ca/1-0/#10d-levels-of-detail-in-the-description)
 
 ## 6.0E. Language and script of the description
-Follow the instructions in 1.0E. Give scale in the language and script of the institution providing the description. An original statement of scale may be transcribed in a note (6.8B9).
+Follow the instructions in [1.0E.](https://communityrad.ca/1-0/#10e-language-and-script-of-the-description) Give scale in the language and script of the institution providing the description. An original statement of scale may be transcribed in a note [(6.8B9).](https://communityrad.ca/6-8/#68b9-scale)
 
 ## 6.0F. Inaccuracies
-See 1.0F.
+[See 1.0F.](https://communityrad.ca/1-0/#10f-inaccuracies)
 
 > Prince Edward Island Railway, freicht [i.e. freight] house, drawing no. 14
 > 
 > Standard wind mill [sic]
 
 ## 6.0G. Accents and other diacritical marks
-See 1.0G.
+[See 1.0G.](https://communityrad.ca/1-0/#10g-accents-and-other-diacritical-marks)
 
 [^1]: For the purpose of this chapter, the term drawing(s) will include both originals and reproductions.
 
