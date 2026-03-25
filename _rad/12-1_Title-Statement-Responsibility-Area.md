@@ -30,26 +30,14 @@ Transcribe a formal title proper as instructed in [1.1B1](https://communityrad.c
 #### 12.1B1a. 
 At the item level, do not transcribe a statement of the denomination, the name of the issuing jurisdiction, and/or the term postage (or its equivalent in another language) as part of the formal title proper unless this text is an integral part of the formal title proper (i.e., connected by grammatical construction).
 
-<div style="margin-left: 2rem;">
-  <img 
-    src="assets/images/12-1B1a_Example.png" 
-    alt="12.1B1a example"
-    style="max-width: 100%; height: auto; display: block; margin: 1rem 0;"
-  >
-</div>
+<img src="assets/images/12-1B1a_Example.png" alt="An example of rule 12.1B1a">
 
 If there is no formal title proper, do not record the denomination, the name of the issuing jurisdiction, and/or the term postage (or its equivalent in another language) as the formal title proper. Instead, supply a title according to the rules in [12.1B2.](https://communityrad.ca/12-1/#121b2-supplied-title-proper)
 
 #### 12.1B1b. 
 If a letter, word, or number appears only once but the design of the chief source of information makes it clear that it is intended to be read more than once, repeat the letter, word or number without the use of square brackets.
 
-<div style="margin-left: 2rem;">
-  <img 
-    src="assets/images/12-1B1b_Example.png" 
-    alt="12.1B1b example"
-    style="max-width: 100%; height: auto; display: block; margin: 1rem 0;"
-  >
-</div>
+<img src="assets/images/12-1B1b_Example.png" alt="An example of rule 12.1B1b">
 
 ### 12.1B2. Supplied title proper. 
 At all levels of description, if no formal title proper appears prominently in or on the chief source of information for the unit being described, supply a title as instructed in [1.1B2-1.1B4.](https://communityrad.ca/1-1/#11b2-supplied-title-proper)
