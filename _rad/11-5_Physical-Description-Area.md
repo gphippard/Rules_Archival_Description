@@ -10,10 +10,10 @@ toc_sticky: true
 ## 11.5A. Preliminary rule
 
 ### 11.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 11.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede this area by a full stop, space, dash, space or start a new paragraph.[^3]\
 Precede other physical details by a colon.\
 Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
@@ -22,7 +22,7 @@ Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 11.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 11.5B. Extent of descriptive unit (including specific material designation)
 
@@ -43,7 +43,7 @@ At all levels of description, record the extent of the unit being described by g
 
 > ca. 1,000 badges
 
-*Optionally,* record the number of containers or volumes, or the linear extent followed by the phrase *of objects.* If the general material designation is used (see 11.1C), omit the phrase *of objects.*
+*Optionally,* record the number of containers or volumes, or the linear extent followed by the phrase *of objects.* If the general material designation is used [(see 11.1C)](https://communityrad.ca/11-1/#111c-optional-addition-general-material-designation), omit the phrase *of objects.*
 
 > 3 boxes of objects
 >
@@ -62,13 +62,13 @@ When the unit being described contains parts that fall into three or fewer speci
 *Optional addition.* If more detail is desired, give a separate and complete physical description for each special class of material.
 
 ### 11.5B4. 
-When the unit being described contains parts that fall into more than three special classes of material, follow the instructions in 1.5B3.
+When the unit being described contains parts that fall into more than three special classes of material, follow the instructions in [1.5B3.](https://communityrad.ca/1-5/#15b3)
 
 > 55 plaques and other material\
 > Note: Also includes 18 badges, 14 medals, 7 medallions and 5 ribbons.
 
 ### 11.5B5. Accruals. 
-For material described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in 1.5B4. See also 1.8B19.
+For material described at an aggregate level of description, e.g., an open fonds or series, give the extent including the specific material designation as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) See also [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
 > 15 plates\
 > Note: Further accruals are expected
@@ -90,14 +90,14 @@ When appropriate, give the material(s) of which the object is made. If the mater
 > 1 quilt : cotton
 
 ### 11.5C3. Production method. 
-If applicable, give here specifications of the process(es) used or method of production, e.g., casting, by which the physical unit(s) being described were created. Give further details regarding the production phase(s) in the scope and content (see 11.7D.).
+If applicable, give here specifications of the process(es) used or method of production, e.g., casting, by which the physical unit(s) being described were created. Give further details regarding the production phase(s) in the scope and content [(see 11.7D.)](https://communityrad.ca/11-7/#117d-scope-and-content).
 
 > 1 tapestry : wool, machine woven
 >
 > 1 medal : bronze, art cast
 
 ### 11.5C4. Colour. 
-Give the colour characteristics of the unit being described, as appropriate. Also provide the colour characteristics of supports if considered important. Give col. for multicoloured objects, or name the colour(s) of the object if it is in three or fewer colours. Multiple colours may be described in a note (see 11.8B10). Give b&w for black and white objects.
+Give the colour characteristics of the unit being described, as appropriate. Also provide the colour characteristics of supports if considered important. Give col. for multicoloured objects, or name the colour(s) of the object if it is in three or fewer colours. Multiple colours may be described in a note [(see 11.8B10)](https://communityrad.ca/11-8/#118b10-physical-description). Give b&w for black and white objects.
 
 > 1 bowl : porcelain, blue and white
 >
@@ -132,9 +132,9 @@ When multiple materials, production processes, etc., are identified, name each, 
 
 > 1 medal : cast bronze, struck
 
-When multiple materials, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms *various materials, multiple processes,* or other phrase, as appropriate, and give the details in a note (see 11.8B10).
+When multiple materials, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms *various materials, multiple processes,* or other phrase, as appropriate, and give the details in a note [(see 11.8B10).](https://communityrad.ca/11-8/#118b10-physical-description)
 
-*Alternatively,* when such details are numerous or complex, give them in a note (see 11.8B10).
+*Alternatively,* when such details are numerous or complex, give them in a note [(see 11.8B10).](https://communityrad.ca/11-8/#118b10-physical-description)
 
 ## 11.5D. Dimensions
 
@@ -160,7 +160,7 @@ When material described at an aggregate level of description, e.g., fonds, serie
 ## 11.5E. Accompanying material
 
 ### 11.5E1. 
-Give details of accompanying material as instructed in 1.5E1.
+Give details of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1)
 
 [^3]: This punctuation is repeated for each physical description.
 
