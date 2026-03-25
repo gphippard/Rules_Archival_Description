@@ -10,20 +10,20 @@ toc_sticky: true
 ## 8.1A. Preliminary rule
 
 ### 8.1A1. Scope
-See 1.1A1.
+[See 1.1A1.](https://communityrad.ca/1-1/#11a1-scope)
 
 ### 8.1A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Enclose the general material designation in square brackets.
-Precede each parallel title by an equals sign.
-Precede each unit of other title information by a colon.
-Precede the first statement of responsibility by a diagonal slash.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Enclose the general material designation in square brackets.\
+Precede each parallel title by an equals sign.\
+Precede each unit of other title information by a colon.\
+Precede the first statement of responsibility by a diagonal slash.\
 Precede each subsequent statement of responsibility by a semicolon.
 
 ## 8.1B. Title proper
 
 ### 8.1B1. Formal title proper. 
-At all levels of description, transcribe a formal title proper as instructed in 1.1B1.
+At all levels of description, transcribe a formal title proper as instructed in [1.1B1.](https://communityrad.ca/1-1/#11b1-formal-title-proper)
 
 If the name of a broadcast series forms an integral part of the formal title proper, transcribe it in the following order, separated by a comma: broadcast series, episode, part, individual or segment title. For radio broadcasts that do not have episode titles, but have only number designations, transcribe the number as the episode title. For broadcasts that have no episode title, number or other descriptor, do not supply one.
 
@@ -36,13 +36,13 @@ If the name of a broadcast series forms an integral part of the formal title pro
 > (Broadcast series, number designation, episode title)
 
 ### 8.1B2. Supplied title proper. 
-At all levels of description, if no formal title appears prominently in or on the chief source of information, compose a brief descriptive title as instructed in 1.1B2-1.1B4.
+At all levels of description, if no formal title appears prominently in or on the chief source of information, compose a brief descriptive title as instructed in [1.1B2-1.1B4.](https://communityrad.ca/1-1/#11b2-supplied-title-proper)
 
 ### 8.1B3. Supplied title proper for a fonds. 
-When describing the fonds as a whole, supply a title proper as instructed in 1.1B3.
+When describing the fonds as a whole, supply a title proper as instructed in [1.1B3.](https://communityrad.ca/1-1/#11b3-supplied-title-proper-for-a-fonds-or-collection)
 
 ### 8.1B4. Supplied title proper for a part of a fonds (e.g., series, file, item). 
-When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in 1.1B4.
+When describing a part of a fonds, e.g., a series, file, or item, which lacks a formal title proper, compose a brief descriptive title as instructed in [1.1B4.](https://communityrad.ca/1-1/#11b4-supplied-title-proper-for-parts-of-a-fonds-or-collection-eg-series-file-item-or-for-a-series-as-the-highest-level-of-description)
 
 > Speeches on the constitution
 > 
@@ -61,12 +61,12 @@ For news broadcasts, record the name of the originating network or the call lett
 ## 8.1C. *Optional addition.* General material designation
 
 ### 8.1C1. 
-At all levels of description, give immediately following the title proper, the general material designation sound recording as instructed in 1.1C.
+At all levels of description, give immediately following the title proper, the general material designation sound recording as instructed in [1.1C.](https://communityrad.ca/1-1/#11c-optional-addition-general-material-designation)
 
 ## 8.1D. Parallel titles
 
 ### 8.1D1. 
-Transcribe parallel titles as instructed in 1.1D.
+Transcribe parallel titles as instructed in [1.1D.](https://communityrad.ca/1-1/#11d-parallel-titles-)
 
 > Living radio = Radio vivante
 > 
@@ -77,7 +77,7 @@ Transcribe parallel titles as instructed in 1.1D.
 ## 8.1E. Other title information
 
 ### 8.1E1.
-Transcribe other title information as instructed in 1.1E.
+Transcribe other title information as instructed in [1.1E.](https://communityrad.ca/1-1/#11e-other-title-information)
 
 > National school broadcasts, Lester B. Pearson : [production element]
 >
@@ -86,7 +86,7 @@ Transcribe other title information as instructed in 1.1E.
 ## 8.1F. Statements of responsibility
 
 ### 8.1F1. 
-Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper as instructed in 1.1F.
+Transcribe explicit statements of responsibility appearing in conjunction with a formal title proper as instructed in [1.1F.](https://communityrad.ca/1-1/#11f-statements-of-responsibility)
 
 Transcribe statements of responsibility relating to those persons and bodies credited with participation in the original production who are considered to be of major importance, and who have some degree of overall responsibility for it. [^2]
 
@@ -94,9 +94,9 @@ Transcribe statements of responsibility relating to those persons and bodies cre
 > 
 > Littérature au pluriel / réalisateur, Gilles Archambault ; animateur, Wilfred Lemoine
 > 
-> James Mutchmor / interviewed by Marjorie Robinson
+> James Mutchmor / interviewed by Marjorie Robinson\
 > (Oral history interview forms the Frontier College fonds)
 
-If, in the addition of the name of a group, ensemble, company, etc., the individual group members are named in the chief source of information, record those names in a note if considered important. See 8.8B5.
+If, in the addition of the name of a group, ensemble, company, etc., the individual group members are named in the chief source of information, record those names in a note if considered important. [See 8.8B5.](https://communityrad.ca/8-8/#88b5-statements-of-responsibility)
 
 [^2]: Examples of important functions that indicate some degree of overall responsibility for the sound recording include but are not limited to: production and co-production entities, sponsors, persons credited with functions such as director, producer, executive producer, writer, interviewer, composer, narrator, host, script, moderator, anchorperson, reporter, announcer.
