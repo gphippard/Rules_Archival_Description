@@ -7,4 +7,4 @@ sidebar:
 sidebar_position: left
 ---
 
-A description will be added later. 
+The purpose of this forum is to share arrangement and descriptive recommendations and challenges specific to AtoM. Please note that this site is not affiliated with any platforms of vendors and cannot directly address any of the issues that may be raised about AtoM.
