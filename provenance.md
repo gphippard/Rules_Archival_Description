@@ -7,4 +7,4 @@ sidebar:
 sidebar_position: left
 ---
 
-A description will be added later. 
+The purpose of this forum is to discuss the principle of provenance and its subprinciples of respect des fonds and original order.
