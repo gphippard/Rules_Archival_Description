@@ -10,52 +10,44 @@ toc_sticky: true
 ## 7.5A. Preliminary rule
 
 ### 7.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 7.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.
-Precede each occurrence of this area either by a full stop, space, dash, space or start a new paragraph.[^7]
-Precede other physical details by a colon.
-Separate each part of the description of other physical details by a comma, conjunction, or preposition.
-Precede dimensions by a semicolon.
-Precede each statement of accompanying material by a plus sign.
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
+Precede each occurrence of this area either by a full stop, space, dash, space or start a new paragraph.[^7]\
+Precede other physical details by a colon.\
+Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
+Precede dimensions by a semicolon.\
+Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 7.5A3. 
-In presenting information in the physical description area, follow the instructions in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 7.5B. Extent of descriptive unit (including specific material designation)
 
 ### 7.5B1. 
 At all levels of description, record the extent of the unit being described by giving the number of physical units that comprise it in arabic numerals followed by the specific material designation. A selective list of specific material designations is given below. [^8]
 
-> Film
->> film cartridge
->> 
->> film loop
->> 
->> film reel
-> 
-> Video
->> video reel
->> 
->> videocassette
-> 
-> Sound element
->> audio reel
->> 
->> magnetic track
->> 
->> optical track
-> 
-> Other
->> optical disc
++ Film
+    + film cartridge
+    + film loop
+    + film reel
++ Video
+    + video reel
+    + videocassette
++ Sound element
+    + audio reel
+    + magnetic track
+    +  optical track
++ Other
+    + optical disc
 
 *Optionally,* if the parts of the unit being described are numerous and the exact number cannot be readily ascertained, give an approximate number.
 
 > ca. 200 videocassettes
 
-*Optionally*, record the number of containers or the linear extent or cubic measurement followed by the phrase of moving images. If the general material designation is used (see 7.1C1), omit the phrase of moving images.
+*Optionally*, record the number of containers or the linear extent or cubic measurement followed by the phrase of moving images. If the general material designation is used ([see 7.1C1)](https://communityrad.ca/7-1/#71c1), omit the phrase of moving images.
 
 > 10 boxes
 > 
@@ -69,17 +61,17 @@ When the unit being described contains parts that fall into three or fewer speci
 > 4 film reels. – 2 videocassettes. – 1 optical disc
 
 ### 7.5B3.
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase and *other moving images* and describe the remaining material in a note (see 7.8B9). Omit other physical details and dimensions in this area.
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent plus the specific material designation of the most predominant special class of material followed by the phrase and *other moving images* and describe the remaining material in a note [(see 7.8B9).](https://communityrad.ca/7-8/#78b9-physical-description) Omit other physical details and dimensions in this area.
 
-> 200 film reels and other moving images
+> 200 film reels and other moving images\
 > Note: Series also contains 5 videocassettes, 2 optical discs and 1 film loop
 
 *Optionally.* If more detail is desired, give a separate and complete physical description for each special class of material.
 
 ### 7.5B4. Accruals. 
-When accruals are expected, give the physical extent as instructed in 1.5B4. See also 1.8B19.
+When accruals are expected, give the physical extent as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) See also [1.8B19.](https://communityrad.ca/1-8/#18b19-accruals)
 
-> 225 film reels
+> 225 film reels\
 > Note: Further accruals are expected
 
 ### 7.5B5. Duration. 
@@ -97,50 +89,32 @@ Always give the playing time of the unit being described. If the precise duratio
 > 
 > 1 film reel (29 min., 1 sec. ; 303 m)
 
-If the parts (e.g., reels, etc.) of the physical unit being described are numerous, give the duration and/or the length for each part in a note (see 7.8B9).
+If the parts (e.g., reels, etc.) of the physical unit being described are numerous, give the duration and/or the length for each part in a note [(see 7.8B9).](https://communityrad.ca/7-8/#78b9-physical-description)
 
 ## 7.5C. Other physical details [^9]
 
 ### 7.5C1. 
 At all levels of description, identify any physical details other than extent or dimensions, if known and considered important. Give other physical details in the order set out here:
 
-> physical composition
-> 
-> technical specifications
-> 
-> production element
-> 
-> speed
-> 
-> image recording
-> 
->> recording technique
->> 
->> colour characteristics
->> 
->> mode or process
->> 
->> broadcast format
->> 
->> other characteristics
->> 
-> sound recording
-> 
->> sound characteristics
->> 
->> recording technique
->> 
->> mode or process
->> 
->> recording system
->> 
->> number of tracks
->> 
->> track configuration
->> 
->> track location
->> 
->> other characteristics
++ physical composition
++ technical specifications
++ production element
++ speed
++ image recording
+    + recording technique
+    + colour characteristics
+    + mode or process
+    + broadcast format
+    + other characteristics
++ sound recording
+    + sound characteristics
+    + recording technique
+    + mode or process
+    + recording system
+    + number of tracks
+    + track configuration
+    + track location
+    + other characteristics
 
 ### 7.5C2. Physical composition. 
 Give the physical composition of the base (e.g., nitrate, acetate, polyester (i.e., Estar), etc.) or the carrier layer, i.e., the substance on the carrier layer which actually holds the message (e.g., ferric oxide, chrome dioxide, metal particle coated, aluminum, gold, etc.) of the physical unit as follows:
@@ -251,7 +225,7 @@ Give *sd. (sound), si. (silent) or mute* [^10] to indicate the presence or absen
 > 1 optical disc (12 min., 56 sec.) : gold, sub-master, analog, col., Panasonic, NTSC, 9:16, sd.
 
 #### 7.5C7b. Recording technique. 
-Give the type of sound track (e.g., composite optical track, magnetic stripe, analog, etc.). For video formats, give the sound recording technique (i.e., analog or digital) only if it differs from the image recording technique (see 7.5C6a).
+Give the type of sound track (e.g., composite optical track, magnetic stripe, analog, etc.). For video formats, give the sound recording technique (i.e., analog or digital) only if it differs from the image recording technique [(see 7.5C6a).](https://communityrad.ca/7-5/#75c6a-recording-technique)
 
 > 1 film reel (28 min., 10 sec.) : duplicate, reversal, col., 1:1.85, sd., composite magnetic track
 > 
@@ -281,7 +255,7 @@ Give the recording system used for the production of the unit being described (e
 > 2 audio reels (47 min.) : acetate, master, mix final, 19 cm/sec., analog, quad., NAB standard
 
 #### 7.5C7e. Number of tracks. 
-Give the number of audio tracks on the physical unit being described (e.g., 1, 2, 4, etc.). Identify the content of multiple sound tracks in the Scope and content (7.7D) and the number of the track in a note (7.8B9).
+Give the number of audio tracks on the physical unit being described (e.g., 1, 2, 4, etc.). Identify the content of multiple sound tracks in the Scope and content (7.7D) and the number of the track in a note [(7.8B9).](https://communityrad.ca/7-8/#78b9-physical-description)
 
 > 1 optical disc (12 min., 56 sec.) : gold, sub-master, digital, col., Panasonic, NTSC, 9:16, sd., stereo., Dolby processed, 3 tracks
 > 
@@ -294,6 +268,7 @@ Give the number of audio tracks on the physical unit being described (e.g., 1, 2
 
 #### 7.5C7f. Track configuration. 
 Indicate the width of each recorded track (e.g., full track, half track, etc.).
+
 > 2 audio reels (47 min) : acetate, master, final mix, 19 cm/sec., analog, mono., NAB standard, 2 tracks, quarter track
 
 #### 7.5C7g. Track location. 
@@ -330,7 +305,7 @@ ii) *Discs.* Give the diameter in centimetres to the next highest 0.5 centimetre
 ## 7.5E. Accompanying material
 
 ### 7.5E1. 
-Give the type of accompanying material as instructed in 1.5E1. See also 7.8B9c.
+Give the type of accompanying material as instructed in [1.5E1.](https://communityrad.ca/1-5/#15e1) See also [7.8B9c.](https://communityrad.ca/7-8/#78b9c-accompanying-material)
 
 > 1 videocassette (1 hr., 38 min., 12 sec.) : chrome dioxide, master, analog, col., Video 8, PAL, SP, 3:4, sd., stereo, Dolby processed ; 8 mm + 1 poster
 > 
@@ -341,7 +316,7 @@ Give the type of accompanying material as instructed in 1.5E1. See also 7.8B9c.
 [^8]: Institutions are encouraged to use the recommended list. If, for whatever reason, an institution chooses not to follow the list given here it should, nevertheless, establish a policy regarding the nomenclature used for specific material designations.
 Other new physical carriers such as magnetic disks and magneto-optical disks have not been considered in this chapter.
 
-[^9]: It is recommended that rules 7.5C-7.5D be used at higher levels of description only when the other physical details of the physical carriers are homogeneous.
+[^9]: It is recommended that rules [7.5C-7.5D](https://communityrad.ca/7-5/#75c-other-physical-details-) be used at higher levels of description only when the other physical details of the physical carriers are homogeneous.
 
 [^10]: Silent is used to designate films originally produced without a sound track. Mute is used to designate a film originally produced with a sound track, but for which the sound track is not held by the describing institution (e.g., lost, destroyed, etc.).
 
