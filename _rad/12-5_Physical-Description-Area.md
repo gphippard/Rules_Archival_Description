@@ -10,10 +10,10 @@ toc_sticky: true
 ## 12.5A. Preliminary rule
 
 ### 12.5A1. Scope
-See 1.5A1.
+[See 1.5A1.](https://communityrad.ca/1-5/#15a1-scope)
 
 ### 12.5A2. Punctuation
-For instructions on the use of spaces before and after prescribed punctuation, see 1.0C.\
+For instructions on the use of spaces before and after prescribed punctuation, [see 1.0C.](https://communityrad.ca/1-0/#10c-punctuation)\
 Precede each occurrence of this area by a full stop, space, dash, space or start a new paragraph.\
 Precede other physical details by a colon.\
 Separate each part of the description of other physical details by a comma, conjunction, or preposition.\
@@ -22,7 +22,7 @@ Precede each statement of accompanying material by a plus sign.\
 Enclose physical details of accompanying material in parentheses.
 
 ### 12.5A3. 
-In presenting information in the physical description area, follow the instructions set out in 1.5A3-1.5A5.
+In presenting information in the physical description area, follow the instructions set out in [1.5A3-1.5A5.](https://communityrad.ca/1-5/#15a3-sources-of-information)
 
 ## 12.5B. Extent of descriptive unit (including specific material designation)
 
@@ -48,7 +48,7 @@ At all levels of description, record the extent of the unit being described by g
 
 > ca. 5,000 postage stamps
 
-*Optionally,* record the number of containers or volumes, or the linear extent, or the cubic measurement followed by the phrase of philatelic records. If the general material designation is used (see 12.1C), omit the phrase of philatelic records. Express the linear or cubic extent using the metric system of measurement (see 1.5A4).
+*Optionally,* record the number of containers or volumes, or the linear extent, or the cubic measurement followed by the phrase of philatelic records. If the general material designation is used [(see 12.1C),](https://communityrad.ca/12-1/#121c-optional-addition-general-material-designation) omit the phrase of philatelic records. Express the linear or cubic extent using the metric system of measurement [(see 1.5A4).](https://communityrad.ca/1-5/#15a4-form-of-presentation)
 
 > 3 albums of philatelic records
 > 
@@ -78,8 +78,7 @@ Unless a further measure of extent is recorded (see 12.5B3), follow the number o
 > 1 block (3 labels)
 
 ### 12.5B4. 
-When the unit being described contains parts that fall into three or fewer special
-classes of material, give the physical extent, including the specific material designation or collective unit designation, for each special class of material.
+When the unit being described contains parts that fall into three or fewer special classes of material, give the physical extent, including the specific material designation or collective unit designation, for each special class of material.
 
 > 15 postal covers. C 1 postal marking
 >
@@ -90,13 +89,13 @@ classes of material, give the physical extent, including the specific material d
 > 27 postage stamps : die proofs, steel engraving ; 26 x 42 mm or smaller, on support 22 x 14 cm or smaller. C 1 postal cover ; 12 x 19 cm
 
 ### 12.5B5. 
-When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other philatelic records and describe the remaining material in a note (see 12.8B12).
+When the unit being described contains parts that fall into more than three special classes of material, give the physical extent and the specific material designation of the most predominant followed by the phrase and other philatelic records and describe the remaining material in a note [(see 12.8B12).](https://communityrad.ca/12-8/#128b12-physical-description)
 
 > 10 postal stationery items and other philatelic records\
 > Note: Also includes 7 postal covers, 5 postage stamps, and 3 blocks of postage stamps.
 
 ### 12.5B6. Accruals. 
-For material described at an aggregate level of description, e.g., described at the level of a fonds or series, give the extent including the specific material designation if applicable as instructed in 1.5B4. See also 12.8B23.
+For material described at an aggregate level of description, e.g., described at the level of a fonds or series, give the extent including the specific material designation if applicable as instructed in [1.5B4.](https://communityrad.ca/1-5/#15b4) [See also 12.8B23.](https://communityrad.ca/12-8/#128b23-accruals)
 
 > 4 m of philatelic records\
 > Note: Further accruals are expected.
@@ -122,7 +121,7 @@ At all levels of description, identify any physical details other than extent or
 >
 > 1 postage stamp : photolithograph on Harrison paper, 4 col., perf. 13
 
-*Alternatively,* give such information in the Scope and content (see 12.7D) or in a note (see 12.8B12).
+*Alternatively,* give such information in the Scope and content [(see 12.7D)](https://communityrad.ca/12-7/#127d-scope-and-content) or in a note [(see 12.8B12).](https://communityrad.ca/12-8/#128b12-physical-description)
 
 ### 12.5C2. Production phase. 
 For unissued or unpublished philatelic records, include here specifications of the production phase(s) represented by the material (e.g., essay, proof, die proof, plate proof).[^5]
@@ -133,7 +132,7 @@ For unissued or unpublished philatelic records, include here specifications of t
 >
 > 1 postage stamp : essay, steel engraving, black brown
 
-Give further details regarding the production phase(s) in the Scope and content (see 12.7D).
+Give further details regarding the production phase(s) in the Scope and content [(see 12.7D).](https://communityrad.ca/12-7/#127d-scope-and-content)
 
 ### 12.5C3. Layout, format. 
 Describe the layout or format of the philatelic unit if it is not indicated or implied in another area. As appropriate, use terms such as: coil, souvenir sheet, booklet, aerogramme, postal card, envelope, stick >n tick, se-tenant, tête-bêche, squared circle cancel, duplex cancel, etc.
@@ -158,12 +157,12 @@ When multiple techniques, processes, etc., are identified, name each, with the p
 >
 > 1 postal stationery item: embossed lithograph on wove paper
 
-When multiple techniques, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms various media, multiple processes, or other phrase, as appropriate and give the details in a note (see 12.8B12).
+When multiple techniques, processes, etc., are known to have been applied but are unidentified, or are too numerous to enumerate, use the terms various media, multiple processes, or other phrase, as appropriate and give the details in a note [(see 12.8B12).](https://communityrad.ca/12-8/#128b12-physical-description)
 
 > 64 postal covers : multiple processes
 
 ### 12.5C5. Watermark. 
-Note the presence of a watermark in a general way and give the details in a note (see 12.8B12).
+Note the presence of a watermark in a general way and give the details in a note [(see 12.8B12).](https://communityrad.ca/12-8/#128b12-physical-description)
 
 > 1 postage stamp : photolithograph on watermarked paper
 
@@ -255,7 +254,7 @@ When a physical unit is designed to be folded or rolled, give the dimensions of 
 > 1 sheet (200 postage stamps) : plate proof ; 30 x 46 cm folded to 15 x 23 cm
 
 ### 12.5D6. Sight measurements and framed items. 
-When a part of the unit being described is not visible because of a non-removable mat, frame, or other integral container or mounting, give the sight measurements followed by the word sight in parentheses. Optionally, add the dimensions of the mat, frame, etc., specified as such.
+When a part of the unit being described is not visible because of a non-removable mat, frame, or other integral container or mounting, give the sight measurements followed by the word sight in parentheses. *Optionally,* add the dimensions of the mat, frame, etc., specified as such.
 
 > 1 pane (50 postage stamps): lithography ; 21 x 27 cm (sight) in mat 26 x 31 cm\
 > (Window mat and backing are glued together)
@@ -263,7 +262,7 @@ When a part of the unit being described is not visible because of a non-removabl
 ## 12.5E. Accompanying material
 
 ### 12.5E1. 
-Give details of accompanying material as instructed in 1.5E.
+Give details of accompanying material as instructed in [1.5E.](https://communityrad.ca/1-5/#15e-accompanying-material)
 
 > 25 labels : lithographs on self-adhesive paper ; 8.9 x 11.2 cm + 1 instruction sheet
 
@@ -273,4 +272,4 @@ Give details of accompanying material as instructed in 1.5E.
 
 [^5]: Institutions are encouraged to establish a list of nomenclature to be used for describing the production phase.
 
-[^6]: In measuring the dimensions of the sheet, support, etc., do not include a mat, frame, or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in 12.5D6.
+[^6]: In measuring the dimensions of the sheet, support, etc., do not include a mat, frame, or other mount or container. If the mat, frame, container, etc., cannot be removed or is an integral part of the unit being described, follow the instructions in [12.5D6.](https://communityrad.ca/12-5/#125d6-sight-measurements-and-framed-items)
