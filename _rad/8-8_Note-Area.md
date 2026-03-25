@@ -72,7 +72,7 @@ Make notes on variant names of persons or bodies named in statements of responsi
 ### 8.8B6. Attribution and conjectures. 
 Make notes on creators as instructed in 1.8B6.
 
-8.8B7. Edition. 
+### 8.8B7. Edition. 
 Make notes relating to the edition as instructed in 1.8B7.
 
 > Re-issue of: Caedom TC 1125 (1952)
