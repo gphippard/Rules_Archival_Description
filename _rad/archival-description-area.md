@@ -32,8 +32,8 @@ Use a standard introductory word or phrase when uniformity of presentation assis
 
 Give quotations taken from the unit being described or from other sources in quotation marks. Follow the quotation by an indication of its source. Do not use prescribed punctuation within quotations.
 
-#### 7.1D2. 
-Informal presentation of information. When making an informal presentation, use statements that present the information as briefly as clarity and grammar permit.
+#### 7.1D2. Informal presentation of information. 
+When making an informal presentation, use statements that present the information as briefly as clarity and grammar permit.
 
 >Group and individual portraits showing unidentified residents of several Glengarry and Stormont County communities: Fassifern, Grantly, Lancaster, St. Andrews and Williamstown
 
