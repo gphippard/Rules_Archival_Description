@@ -42,4 +42,4 @@ GitHub is now used outside of the tech community because it is free and offers r
 
 You can read more about GitHub [here](https://github.com/about) and read their privacy statement [here.](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) 
 
-The GitHub repository for [this project](https://github.com/gphippard/Rules_Archival_Description) is publicly accessible online. More information about GitHub and a potential framework for revisions to RAD through this site will be added soon. 
+The GitHub repository for [this project](https://github.com/Community-RAD/Rules_Archival_Description) is publicly accessible online. More information about GitHub and a potential framework for revisions to RAD through this site will be added soon. 
