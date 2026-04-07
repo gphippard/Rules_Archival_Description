@@ -1,7 +1,7 @@
 title: "Community RAD"
-description: "An archivist led site for applying and revising RAD"
-url: "https://communityrad.ca"
-baseurl: ""
+description: "Test site for Community RAD"
+url: "https://gphippard.github.io"
+baseurl: "/Rules_Archival_Description"
 
 plugins:
   - jekyll-feed
@@ -53,25 +53,6 @@ recent_posts:
 
 header:
   sticky: true
-
-# Giscus Comments
-comments:
-  provider: "giscus"
-  enabled: true
-  force: true
-  giscus:
-    repo: "Community-RAD/Rules_Archival_Description"
-    repo_id: "R_kgDONMFzow"
-    category: "General"
-    category_id: "DIC_kwDONMFzo84C4p79"
-    discussion_term: "og:title"
-    strict: 0
-    reactions_enabled: 1
-    emit_metadata: 0
-    input_position: "bottom"
-    theme: "preferred_color_scheme"
-    lang: "en"
-    lazy: true
 
 markdown: kramdown
 highlighter: rouge
