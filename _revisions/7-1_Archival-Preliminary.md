@@ -5,6 +5,9 @@ permalink: /archival-description-area/preliminary-rule/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+sidebar:
+  nav: "sidebar-revisions"
+sidebar_position: left
 ---
 ## 7.1A. Scope. 
 For all levels of description use this area to present information about the context and content of the unit being described. Record an Administrative history/Biographical sketch for fonds, series, collections, and discrete items.
