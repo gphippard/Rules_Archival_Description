@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ARCHIVAL DESCRIPTION AREA: Preliminary Rule"
+title: "7.1 Preliminary Rule"
 permalink: /archival-description-area/preliminary-rule/
 toc: true
 toc_label: "On this page"
