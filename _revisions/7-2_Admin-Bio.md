@@ -5,6 +5,9 @@ permalink: /archival-description-area/administrative-biographical/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+sidebar:
+  nav: "sidebar-revisions"
+sidebar_position: left
 ---
 
 ## 7.2A. Administrative history.[^25]
