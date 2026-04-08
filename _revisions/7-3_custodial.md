@@ -5,6 +5,9 @@ permalink: /archival-description-area/custodial-history/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+sidebar:
+  nav: "sidebar-revisions"
+sidebar_position: left
 ---
 
 At the highest level of description give the custodial history of the unit being described as a whole. At each subsequent level of description give the custodial history that pertains to the part being described. The custodial history should be appropriate to the level of description of the unit being described.
