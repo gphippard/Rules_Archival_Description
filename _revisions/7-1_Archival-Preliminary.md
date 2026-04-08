@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "ARCHIVAL DESCRIPTION AREA: Preliminary Rule"
-permalink: /archival-description-area/
+permalink: /archival-description-area/preliminary-rule/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
