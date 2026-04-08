@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "ARCHIVAL DESCRIPTION AREA: Administrative history/Biographical sketch"
-permalink: /archival-description-area/
+permalink: /archival-description-area/administrative-biographical/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
