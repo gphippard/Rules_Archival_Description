@@ -1,13 +1,13 @@
 ---
 layout: single
-title: "ARCHIVAL DESCRIPTION AREA: Administrative history/Biographical sketch [^25]"
+title: "ARCHIVAL DESCRIPTION AREA: Administrative history/Biographical sketch"
 permalink: /archival-description-area/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
 ---
 
-## 7.2A. Administrative history.
+## 7.2A. Administrative history.[^25]
 
 At the highest level of description give information about the history of the corporate body responsible for the creation and/or accumulation and use of the unit being described as a whole. At subordinate levels, give information about the history of the corporate body responsible for the creation and/or accumulation and use of the unit being described.
 
