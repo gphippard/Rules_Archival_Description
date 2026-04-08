@@ -3,10 +3,24 @@ main:
     url: /chapter/
   - title: "Browse by Section"
     url: /section/
+  - title: "RAD Revised"
+    url: /rad-revised/
   - title: "Forums"
     url: /forums/
   - title: "Search"
     url: /search/
+
+revisions-sidebar:
+  - title: "Chapter 7: Archival Description Area"
+    children:
+      - title: "7.1 Preliminary Rule"
+        url: /archival-description-area/preliminary-rule/
+      - title: "7.2 Administrative History/Biographical Sketch"
+        url: /archival-description-area/administrative-biographical/
+      - title: "7.3 Custodial History"
+        url: /archival-description-area/custodial-history/
+      - title: "7.4 Scope and Content Note"
+        url: /archival-description-area/scope-content/
 
 main-sidebar:
   - title: "Foreword"
@@ -609,14 +623,3 @@ forum-sidebar:
       - title: "Collective-Access"
         url: /forums/collective/
 
-revisions-sidebar:
-  - title: "Chapter 7: Archival Description Area"
-    children:
-      - title: "7.1 Preliminary Rule"
-        url: /archival-description-area/preliminary-rule/
-      - title: "7.2 Administrative History/Biographical Sketch
-        url: /archival-description-area/administrative-biographical/
-      - title: "7.3 Custodial History"
-        url: /archival-description-area/custodial-history/
-      - title: "7.4 Scope and Content Note"
-        url: /archival-description-area/scope-content/
