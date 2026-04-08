@@ -16,6 +16,9 @@ collections:
   pages:
     output: true
     permalink: /:name/
+  revisions:
+    output: true
+    permalink: /:name/
 
 defaults:
   - scope:
