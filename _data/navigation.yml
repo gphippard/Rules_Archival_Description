@@ -10,7 +10,7 @@ main:
   - title: "Search"
     url: /search/
 
-revisions-sidebar:
+sidebar-revisions:
   - title: "Chapter 7: Archival Description Area"
     children:
       - title: "7.1 Preliminary Rule"
