@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ARCHIVAL DESCRIPTION AREA: Scope and Content Note"
+title: "7.4 Scope and Content Note"
 permalink: /archival-description-area/scope-content/
 toc: true
 toc_label: "On this page"
