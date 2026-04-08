@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ARCHIVAL DESCRIPTION AREA: Custodial History"
+title: "7.3 Custodial History"
 permalink: /archival-description-area/custodial-history/
 toc: true
 toc_label: "On this page"
