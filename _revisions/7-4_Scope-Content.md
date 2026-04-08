@@ -5,6 +5,9 @@ permalink: /archival-description-area/scope-content/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
+sidebar:
+  nav: "sidebar-revisions"
+sidebar_position: left
 ---
 
 At the fonds, series, and collection levels of description, and when necessary at the file and the item levels of description, indicate the level being described and give information about the scope and the internal structure of or arrangement of the records, and about their contents.
