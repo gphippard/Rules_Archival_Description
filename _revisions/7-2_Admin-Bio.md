@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "ARCHIVAL DESCRIPTION AREA: Administrative history/Biographical sketch"
+title: "7.2 Administrative history/Biographical sketch"
 permalink: /archival-description-area/administrative-biographical/
 toc: true
 toc_label: "On this page"
