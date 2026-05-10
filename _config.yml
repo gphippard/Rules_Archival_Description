@@ -16,7 +16,7 @@ collections:
   pages:
     output: true
     permalink: /:name/
-  revisions:
+  rad2:
     output: true
     permalink: /:name/
 
