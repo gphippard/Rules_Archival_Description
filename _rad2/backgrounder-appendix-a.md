@@ -6,6 +6,9 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 comments: true
+sidebar:
+  nav: "sidebar-rad2"
+sidebar_position: left
 ---
 
 ## New elements/rules
