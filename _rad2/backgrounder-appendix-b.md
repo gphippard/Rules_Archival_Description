@@ -11,11 +11,11 @@ sidebar:
 sidebar_position: left
 ---
 
-## Example 1
+# Example 1
 
-### RAD Description
+## RAD Description
 
-#### Fonds level
+### Fonds level
 
 **MG H 124**
 
@@ -45,7 +45,7 @@ Series 3. Audio-visual materials. -- 1972-1974
 + Haywood, Marguerite
 + Campbell, Sabine
 
-#### Series level
+### Series level
 
 **Series 3. Audio-visual materials.** -- 1972-1974. -- 96 photographs: b&w and col., 8.5 x 8.5 cm or smaller; 1 audio reel
 
@@ -55,11 +55,11 @@ Series 3. Audio-visual materials. -- 1972-1974
 **Title:** Title based on content of series.\
 **Other:** File 3 containing sound recording of a public meeting was transferred from Series 1 - Office Files.
 
-### RAD2 Description
+## RAD2 Description
 
-#### Descriptive Records
+### Descriptive Records
 
-##### Fonds level
+#### Fonds level
 **Reference code:** CA NBFU MG H 124
 
 **Level of description:** Fonds
@@ -95,7 +95,7 @@ Series 3. Audio-visual materials. -- 1972-1974
 + Haywood, Marguerite, provenance
 + Campbell, Sabine, provenance
 
-##### Series Level
+#### Series Level
 
 **Reference code:** CA NBFU MG H 124 Series 3
 
@@ -116,7 +116,7 @@ Series 3. Audio-visual materials. -- 1972-1974
 
 **Date of description:** Last update: 2001/07/11
 
-#### Authority Record
+### Authority Record
 
 **Authorized name:** Citizens’ Bridge Committee (Fredericton, N.B.)
 
@@ -134,15 +134,15 @@ The Citizens' Bridge Committee dissolved in September 1975 because it was felt t
 
 **Rules or conventions:** Authority record based on RAD2.
 
-#### Reference Record
+### Reference Record
 Citizens’ Bridge Committee (Fredericton, N.B.)\
 See also Save Our City
 
-## Example 2
+# Example 2
 
-### RAD Description
+## RAD Description
 
-#### Fonds level
+### Fonds level
 
 **CREATOR/COLLECTOR:** Pacific National Exhibition
 
@@ -184,7 +184,7 @@ On April 18, 1973, the provincial government passed the Pacific National Exhibit
 
 **ACCESS POINTS:** Pacific National Exhibition
 
-#### Series level
+### Series level
 
 **CREATOR/COLLECTOR:** Pacific National Exhibition
 
@@ -202,11 +202,11 @@ Series contains two subseries: 1) Gates and Parking records; and 2) Exhibit Spac
 
 **PART OF:** Pacific National Exhibition fonds
 
-### RAD2 Description
+## RAD2 Description
 
-#### Descriptive Records
+### Descriptive Records
 
-##### Fonds level
+#### Fonds level
 
 **Reference code:** CA BVAA Add. MSS. 281
 
@@ -253,7 +253,7 @@ Landscape Architects Ltd. fonds (Add. MSS. 1194), the Pearl Steen fonds (Add. MS
 
 **Access points:** Pacific National Exhibition, provenance
 
-##### Series Level
+#### Series Level
 
 **Reference code:** CA BVAA Add. MSS. 281 Series 6
 
@@ -271,7 +271,7 @@ Series contains two subseries: 1) Gates and Parking records; and 2) Exhibit Spac
 
 **Finding aids:** Subseries descriptions and file lists are available.
 
-#### Authority Record
+### Authority Record
 
 **Authorized name:** Pacific National Exhibition
 
@@ -301,7 +301,7 @@ Vancouver Exhibition Association
 
 **Rules or conventions:** Authority record based on RAD2.
 
-#### Reference Records
+### Reference Records
 P.N.E.\
 See Pacific National Exhibition\
 
