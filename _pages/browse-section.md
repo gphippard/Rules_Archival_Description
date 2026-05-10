@@ -3,7 +3,7 @@ layout: single
 title: "Browse by Section"
 permalink: /section/
 sidebar:
-  nav: "section-sidebar"
+  nav: "sidebar-rad2"
 sidebar_position: left
 comments: false
 toc: true
