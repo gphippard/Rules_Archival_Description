@@ -6,6 +6,9 @@ toc: true
 toc_label: "On this page"
 toc_sticky: true
 comments: true
+sidebar:
+  nav: "sidebar-rad2"
+sidebar_position: left
 ---
 
 The _Rules for Archival Description (RAD)_ is one of the great accomplishments of the Canadian archival community. Since its publication in 1990, it has been widely used all over Canada[^1].New chapters were added throughout the 1990’s, like the ones on graphic materials and sound recordings. _RAD_ can now be considered a complete standard with the inclusion of a more detailed chapter on records in electronic form, two new chapters on objects and philatelic records, and also an index. In this context, it is time to look towards the future: a new edition of RAD.
