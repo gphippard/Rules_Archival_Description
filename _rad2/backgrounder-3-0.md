@@ -4,6 +4,9 @@ title: "RAD2 Backgrounder: 3.0 Questions to Consider and Next Steps"
 permalink: /rad2-backgrounder-next-steps/
 toc: false
 comments: true
+sidebar:
+  nav: "sidebar-rad2"
+sidebar_position: left
 ---
 
 This section suggests areas for the archival community to consider when thinking about the impact of a revised descriptive standard.
