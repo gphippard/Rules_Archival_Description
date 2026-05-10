@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "RAD2 Backgrounder: 1.0 Introduction"
-permalink: /1-0/
+permalink: /rad2-backgrounder-introduction/
 toc: true
 toc_label: "On this page"
 toc_sticky: true
