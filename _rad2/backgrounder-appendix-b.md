@@ -81,7 +81,7 @@ Series 3. Audio-visual materials. -- 1972-1974
 
 **Conditions governing access:** access unrestricted
 
-**Immediate source of acquisition: **Material deposited by Janet Phillipps in 1979 and 1980.
+**Immediate source of acquisition:** Material deposited by Janet Phillipps in 1979 and 1980.
 
 **General note:** Of the 96 photographs, 66 are slides.
 
@@ -224,17 +224,17 @@ Series contains two subseries: 1) Gates and Parking records; and 2) Exhibit Spac
 **Scope and content:** The fonds consists of records created and received by the Pacific National Exhibition (P.N.E.). Records include: minutes of various committee meetings; correspondence; financial records, contracts, and other legal records; public relations and advertising records; records regarding exhibit spaces and parking; administration records; subject files; reports, studies, and surveys; programmes, prize lists, and brochures from fairs; guest books; photographs; and other records.
 
 **System of arrangement:** Arranged into the following eleven series:
-1) Minutes with accompanying reports, financial statements, and other records;
-2) Correspondence;
-3) Budget files and other financial records;
-4) Legal services records;
-5) Public Relations and Information and Advertising records;
-6) Gates and Parking and Exhibit space records;
-7) Administration and Attractions Department records;
-8) Subject files;
-9) Reports, bulletins, programmes, prize lists, and related records;
-10) Guest books; and
-11) Photographs (CVA 180).
+1. Minutes with accompanying reports, financial statements, and other records;
+2. Correspondence;
+3. Budget files and other financial records;
+4. Legal services records;
+5. Public Relations and Information and Advertising records;
+6. Gates and Parking and Exhibit space records;
+7. Administration and Attractions Department records;
+8. Subject files;
+9. Reports, bulletins, programmes, prize lists, and related records;
+10. Guest books; and
+11. Photographs (CVA 180).
 
 **Conditions governing access:** To view records, written permission must be obtained from the donor. To obtain permission, please contact: Manager, Communications and Public Relations. Pacific National Exhibition. P.O. Box 69020. Exhibition Park, Vancouver, B.C. V5K 4W3. Telephone: 253-2311.
 
